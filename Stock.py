@@ -35,9 +35,9 @@ def build_script(msg, groups):
 def job():
     now = datetime.now()
     # 检查当前小时是否在 7:00 到 23:00 之间
-    if 7 <= now.hour <= 23:
+    if 0 <= now.hour <= 23:
         # 执行你的发送任务
-        target_contact = ["小助手", "shuanglang"]  # <--- 改成你想发送的人名
+        target_contact = ["wodejinrongqun", "shuanglang"]  # <--- 改成你想发送的人名
         send_wechat_msg(target_contact, report)
     else:
         print(f"[{now}] 不在执行时间段（7-23点），跳过本次执行。")
@@ -90,12 +90,12 @@ for name, code in stocks.items():
 
 # 2. 执行发送（确保你的微信已登录）
 # 每 30 分钟执行一次 job 函数
-# schedule.every(30).minutes.do(job)
-#
-# print("定时任务已启动...")
-#
-# while True:
-#     schedule.run_pending()
-#     time.sleep(1)
+schedule.every(30).minutes.do(job)
 
-job()
+print("定时任务已启动...")
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+    job()
+# job()
