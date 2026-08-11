@@ -9,7 +9,9 @@ from S5All import job as market_cap_job
 
 def main() -> None:
     import schedule
-
+    current_price_job()
+    yearly_job()
+    market_cap_job()
     schedule.every(120).minutes.do(current_price_job)
     schedule.every(123).minutes.do(yearly_job)
     schedule.every(130).minutes.do(market_cap_job)

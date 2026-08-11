@@ -49,7 +49,7 @@ def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any]
                 raise ValueError("incomplete quote data")
             intraday_amplitude = amplitude - low_change
             icon = "💹" if change >= 0 else "🔻"
-            lines.append(f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{intraday_amplitude:.1f}%")
+            lines.append(f"{name}:{price:.0f} {icon}{change:.1f}%↕️{intraday_amplitude:.0f}%")
         except Exception:
             lines.append(f"{name}: 获取数据失败")
     return "\n".join(lines)
@@ -67,7 +67,7 @@ def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             if price is None or high is None or low is None or low <= 0:
                 raise ValueError("incomplete 52-week data")
             amplitude = (high - low) / low * 100
-            lines.append(f"{name}:{price:.2f} 👆🏻{high:.0f} 🔻{low:.0f} ↕️{amplitude:.0f}%")
+            lines.append(f"{name}:{price:.0f} 👆🏻{high:.0f} 🔻{low:.0f} ↕️{amplitude:.0f}%")
         except Exception:
             lines.append(f"{name}: 获取数据失败")
     return "\n".join(lines)
@@ -84,7 +84,7 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             if price is None or change is None or market_cap is None:
                 raise ValueError("incomplete market-cap data")
             icon = "💹" if change >= 0 else "🔻"
-            lines.append(f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{market_cap / 1e12:.2f}万亿")
+            lines.append(f"{name}:{price:.0f} {icon}{change:.0f}% ↕️{market_cap / 1e12:.2f}万亿")
         except Exception:
             lines.append(f"{name}: 获取数据失败")
     return "\n".join(lines)
