@@ -38,6 +38,8 @@ def _ticker(symbol: str) -> Any:
 
 def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
     lines = ["📊 今日资产播报："]
+    quotes: list[tuple[float, str]] = []
+    failures: list[str] = []
     for name, symbol in stocks.items():
         try:
             info = ticker_factory(symbol).fast_info
@@ -49,14 +51,18 @@ def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any]
                 raise ValueError("incomplete quote data")
             intraday_amplitude = amplitude - low_change
             icon = "💹" if change >= 0 else "🔻"
-            lines.append(f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{intraday_amplitude:.1f}%")
+            quotes.append((change, f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{intraday_amplitude:.1f}%"))
         except Exception:
-            lines.append(f"{name}: 获取数据失败")
+            failures.append(f"{name}: 获取数据失败")
+    lines.extend(line for _, line in sorted(quotes, key=lambda quote: quote[0], reverse=True))
+    lines.extend(failures)
     return "\n".join(lines)
 
 
 def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
     lines = ["📊 年度资产播报："]
+    quotes: list[tuple[float, str]] = []
+    failures: list[str] = []
     for name, symbol in stocks.items():
         try:
             ticker = ticker_factory(symbol)
@@ -67,14 +73,18 @@ def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             if price is None or high is None or low is None or low <= 0:
                 raise ValueError("incomplete 52-week data")
             amplitude = (high - low) / low * 100
-            lines.append(f"{name}:{price:.2f} 👆🏻{high:.0f} 🔻{low:.0f} ↕️{amplitude:.0f}%")
+            quotes.append((amplitude, f"{name}:{price:.2f} 👆🏻{high:.0f} 🔻{low:.0f} ↕️{amplitude:.0f}%"))
         except Exception:
-            lines.append(f"{name}: 获取数据失败")
+            failures.append(f"{name}: 获取数据失败")
+    lines.extend(line for _, line in sorted(quotes, key=lambda quote: quote[0], reverse=True))
+    lines.extend(failures)
     return "\n".join(lines)
 
 
 def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
     lines = ["📊 市值播报："]
+    quotes: list[tuple[float, str]] = []
+    failures: list[str] = []
     for name, symbol in stocks.items():
         try:
             ticker = ticker_factory(symbol)
@@ -84,9 +94,11 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             if price is None or change is None or market_cap is None:
                 raise ValueError("incomplete market-cap data")
             icon = "💹" if change >= 0 else "🔻"
-            lines.append(f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{market_cap / 1e12:.2f}万亿")
+            quotes.append((market_cap, f"{name}:{price:.2f} {icon}{change:+.1f}% ↕️{market_cap / 1e12:.2f}万亿"))
         except Exception:
-            lines.append(f"{name}: 获取数据失败")
+            failures.append(f"{name}: 获取数据失败")
+    lines.extend(line for _, line in sorted(quotes, key=lambda quote: quote[0], reverse=True))
+    lines.extend(failures)
     return "\n".join(lines)
 
 

@@ -10,6 +10,22 @@ class FakeTicker:
     info = {"fiftyTwoWeekHigh": 120, "fiftyTwoWeekLow": 80, "marketCap": 2_000_000_000_000}
 
 
+def ticker(last_price, previous_close, day_high, day_low, year_high, year_low, market_cap):
+    return SimpleNamespace(
+        fast_info=SimpleNamespace(
+            last_price=last_price,
+            previous_close=previous_close,
+            day_high=day_high,
+            day_low=day_low,
+        ),
+        info={
+            "fiftyTwoWeekHigh": year_high,
+            "fiftyTwoWeekLow": year_low,
+            "marketCap": market_cap,
+        },
+    )
+
+
 class ReportingTests(unittest.TestCase):
     def test_daily_report_calculates_change_and_range(self):
         report = daily_report({"测试": "TEST"}, lambda _: FakeTicker())
@@ -24,6 +40,19 @@ class ReportingTests(unittest.TestCase):
         self.assertFalse(is_active_hour(datetime(2026, 1, 1, 6, 59)))
         self.assertTrue(is_active_hour(datetime(2026, 1, 1, 7)))
         self.assertFalse(is_active_hour(datetime(2026, 1, 1, 23)))
+
+    def test_reports_sort_by_requested_metric(self):
+        quotes = {
+            "GAIN": ticker(120, 100, 125, 95, 110, 100, 1_000_000_000_000),
+            "RANGE": ticker(95, 100, 105, 90, 200, 100, 3_000_000_000_000),
+            "CAP": ticker(100, 100, 110, 90, 150, 100, 2_000_000_000_000),
+        }
+        factory = quotes.__getitem__
+        stocks = {name: name for name in quotes}
+
+        self.assertLess(daily_report(stocks, factory).index("GAIN:"), daily_report(stocks, factory).index("CAP:"))
+        self.assertLess(yearly_report(stocks, factory).index("RANGE:"), yearly_report(stocks, factory).index("CAP:"))
+        self.assertLess(market_cap_report(stocks, factory).index("RANGE:"), market_cap_report(stocks, factory).index("CAP:"))
 
 
 if __name__ == "__main__":
