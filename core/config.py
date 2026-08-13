@@ -1,5 +1,10 @@
-"""Shared configuration for the stock-reporting scripts."""
+"""
+项目共享配置模块：存储股票列表、微信接收人以及调度时间设置。
+"""
 
+# 股票列表配置
+# 键 (Key): 报告中显示的名称
+# 值 (Value): yfinance 使用的股票代码 (A股上证后缀 .SS, 深证后缀 .SZ, 港股后缀 .HK)
 STOCKS = {
     "茅台": "600519.SS",
     "BYD": "002594.SZ",
@@ -27,6 +32,10 @@ STOCKS = {
     "建滔": "1888.HK",
 }
 
+# 微信接收人配置 (需要是微信中搜索得到的备注名或昵称)
 TARGET_CONTACTS = ("wodejinrongqun", "shuanglang")
-ACTIVE_START_HOUR = 7
-ACTIVE_END_HOUR = 23
+
+# 活跃时间段设置 (24小时制)
+# 程序仅在此时间范围内发送报告，避免深夜打扰
+ACTIVE_START_HOUR = 7  # 开始时间：早上 7 点
+ACTIVE_END_HOUR = 23    # 结束时间：晚上 11 点
