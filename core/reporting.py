@@ -190,8 +190,8 @@ def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
 
     lines = ["📊 年度资产播报："]
     for r in results:
-        # 格式化输出：名称:👆最高📢当前 🔻最低 ↕️振幅%
-        lines.append(f"{r['name']}:👆{r['high']:.0f}📢{r['price']:.0f} 🔻{r['low']:.0f} ↕️{r['amplitude']:.0f}%")
+        # 格式化输出：名称:最高👆当前🔻最低↕️振幅%
+        lines.append(f"{r['name']}:{r['high']:.0f}👆{r['price']:.0f}🔻{r['low']:.0f}↕️{r['amplitude']:.0f}%")
     lines.extend(errors)
     return "\n".join(lines)
 
