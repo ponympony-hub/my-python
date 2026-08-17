@@ -1,0 +1,548 @@
+{
+  "info": {
+    "address1": "Maotai Town", // 地址1
+    "city": "Renhuai", // 城市
+    "zip": "564501", // 邮编
+    "country": "China", // 国家
+    "phone": "86 85 1223 86002", // 电话
+    "fax": "86 85 1223 86193",
+    "website": "https://www.moutaichina.com", // 官方网站
+    "industry": "Beverages - Wineries & Distilleries", // 行业
+    "industryKey": "beverages-wineries-distilleries", // 行业键
+    "industryDisp": "Beverages - Wineries & Distilleries", // 行业显示名称
+    "sector": "Consumer Defensive", // 板块
+    "sectorKey": "consumer-defensive", // 板块键
+    "sectorDisp": "Consumer Defensive", // 板块显示名称
+    "longBusinessSummary": "Kweichow Moutai Co., Ltd., together with its subsidiaries, produces and sells liquor products in China and internationally. The company offers liquor and soy sauce products under the Kweichow Moutai, Moutai Wangzi liquor, Moutai 1935 liquor, Han Jiang liquor, and Lai Mao liquor brands. It also engages in the production and sale of beverage, food, and packaging materials; development of anti-counterfeiting technology; research and development of information industry related products; operation and management of hotel, accommodation, catering, entertainment, bathing, and parking lot services; and provision of vehicle transportation and maintenance, and value-added telecommunication services. The company was incorporated in 1999 and is headquartered in Renhuai, China. Kweichow Moutai Co., Ltd. operates as a subsidiary of China Kweichow Moutai Distillery(Group)Co,.Ltd.", // 公司业务摘要
+    "fullTimeEmployees": 34992, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Li  Wang", // 姓名
+        "age": 53, // 年龄
+        "title": "Vice Chairman of the Board & GM", // 职位
+        "yearBorn": 1972, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zheng Qiang  Zhong", // 姓名
+        "age": 54, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1971, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Fang  Wei", // 姓名
+        "age": 52, // 年龄
+        "title": "Employee Director, Director of the Mass Work Department & Deputy Secretary", // 职位
+        "yearBorn": 1973, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Xu  Zhang", // 姓名
+        "age": 51, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1974, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Siming  Yu", // 姓名
+        "age": 49, // 年龄
+        "title": "CFO & Secretary of the Board", // 职位
+        "yearBorn": 1976, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Congying  Cai", // 姓名
+        "title": "Accounting Supervisor", // 职位
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yong  Wen", // 姓名
+        "age": 42, // 年龄
+        "title": "Head of the Legal & Compliance Department", // 职位
+        "yearBorn": 1983, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 4, // 审计风险
+    "boardRisk": 1, // 董事会风险
+    "compensationRisk": 4, // 薪酬风险
+    "shareHolderRightsRisk": 3, // 股东权益风险
+    "overallRisk": 1, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 1341.99, // 昨日收盘价
+    "open": 1295.0, // 今日开盘价
+    "dayLow": 1280.34, // 当日最低价
+    "dayHigh": 1301.0, // 当日最高价
+    "regularMarketPreviousClose": 1341.99, // 常规市场昨日收盘价
+    "regularMarketOpen": 1295.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 1280.34, // 常规市场当日最低价
+    "regularMarketDayHigh": 1301.0, // 常规市场当日最高价
+    "dividendRate": 51.98,
+    "dividendYield": 3.87,
+    "exDividendDate": 1782432000,
+    "payoutRatio": 0.78180003, // 股利支付率
+    "fiveYearAvgDividendYield": 2.16,
+    "beta": 0.286, // 贝塔系数
+    "trailingPE": 19.58337, // 滚动市盈率 (TTM)
+    "forwardPE": 17.55319, // 预测市盈率
+    "volume": 7842956, // 成交量
+    "regularMarketVolume": 7842956, // 常规市场成交量
+    "averageVolume": 4625494, // 平均成交量
+    "averageVolume10days": 3537498, // 10日平均成交量
+    "averageDailyVolume10Day": 3537498, // 10日日均成交量
+    "bid": 1293.08, // 买入价
+    "ask": 1293.09, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 1616468115456, // 总市值
+    "nonDilutedMarketCap": 1677597007725, // 非稀释市值
+    "fiftyTwoWeekLow": 1151.01, // 52周最低价
+    "fiftyTwoWeekHigh": 1568.0, // 52周最高价
+    "allTimeHigh": 2627.88, // 历史最高价
+    "allTimeLow": 4.987092, // 历史最低价
+    "priceToSalesTrailing12Months": 9.500142, // 市销率 (TTM)
+    "fiftyDayAverage": 1266.6932, // 50日均价
+    "twoHundredDayAverage": 1377.9355, // 200日均价
+    "trailingAnnualDividendRate": 51.95, // 年度股息率
+    "trailingAnnualDividendYield": 0.038711168, // 年度股息收益率
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 1633348878336, // 企业价值 (EV)
+    "profitMargins": 0.4786, // 利润率
+    "floatShares": 540947811, // 流通股本
+    "sharesOutstanding": 1250081601, // 发行在外股份总数
+    "heldPercentInsiders": 0.62118, // 内部人士持股比例
+    "heldPercentInstitutions": 0.072270006, // 机构持股比例
+    "impliedSharesOutstanding": 1250081601, // 隐含发行在外股份
+    "bookValue": 200.99, // 每股净资产
+    "priceToBook": 6.4336033, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": -0.069, // 季度盈利增长
+    "netIncomeToCommon": 81433985024, // 归属于普通股股东的净利润
+    "trailingEps": 66.03, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 73.66695, // 预测每股收益
+    "pegRatio": 1.93, // PEG比率
+    "lastSplitFactor": "11:10",
+    "lastSplitDate": 1437091200,
+    "enterpriseToRevenue": 9.599, // 企业价值/营收比
+    "enterpriseToEbitda": 14.591, // 企业价值/EBITDA比
+    "52WeekChange": -0.060560048, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 28.02423,
+    "lastDividendDate": 1782432000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 1293.09, // 当前价格
+    "targetHighPrice": 2100.0, // 目标最高价
+    "targetLowPrice": 1395.0, // 目标最低价
+    "targetMeanPrice": 1720.1111, // 目标平均价
+    "targetMedianPrice": 1670.98, // 目标中位价
+    "recommendationMean": 1.28, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 19, // 分析师人数
+    "totalCash": 55334510592, // 现金总额
+    "totalCashPerShare": 44.265, // 每股现金
+    "ebitda": 111940698112, // EBITDA
+    "totalDebt": 243684864, // 总债务
+    "quickRatio": 1.24, // 速动比率
+    "currentRatio": 5.59, // 流动比率
+    "totalRevenue": 170152001536, // 总营收
+    "debtToEquity": 0.093, // 债务权益比
+    "revenuePerShare": 135.9, // 每股营收
+    "returnOnAssets": 0.22827, // 资产回报率 (ROA)
+    "returnOnEquity": 0.33001, // 权益回报率 (ROE)
+    "grossProfits": 153584599040, // 毛利润
+    "freeCashflow": 60014821376, // 自由现金流
+    "operatingCashflow": 119093895168, // 经营现金流
+    "earningsGrowth": -0.067, // 盈利增长
+    "revenueGrowth": -0.051, // 营收增长
+    "grossMargins": 0.90263003, // 毛利率
+    "ebitdaMargins": 0.65789, // EBITDA利润率
+    "operatingMargins": 0.62337, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "600519.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "KWEICHOW MOUTAI", // 公司简称
+    "longName": "Kweichow Moutai Co., Ltd.", // 公司正式名称
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 998875800000, // 首次交易日期时间戳
+    "regularMarketChange": -48.900024, // 常规市场价格变动
+    "regularMarketDayRange": "1280.34 - 1301.0", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "averageDailyVolume3Month": 4625494, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 142.07996, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.12343937, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "1151.01 - 1568.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -274.91003, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.17532527, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -6.0560045, // 52周价格变动百分比
+    "earningsTimestampStart": 1754564340, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1755172800, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1747036800, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1747036800, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 66.03, // 过去12个月每股收益
+    "epsForward": 73.66695, // 预测每股收益
+    "epsCurrentYear": 67.095, // 本年度每股收益
+    "priceEpsCurrentYear": 19.272524, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 26.396729, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.020839086, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -84.84558, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.061574418, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.3 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950001, // 常规市场时间戳
+    "exchange": "SHH", // 交易所代码
+    "messageBoardId": "finmb_9475874", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": -3.6438444, // 常规市场变动百分比
+    "regularMarketPrice": 1293.09, // 常规市场当前价格
+    "marketState": "POSTPOST", // 市场状态
+    "trailingPegRatio": 1.925 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "f6ae08cf-0de8-3536-85f8-48565668cb5a",
+      "content": {
+        "id": "f6ae08cf-0de8-3536-85f8-48565668cb5a",
+        "contentType": "STORY",
+        "title": "China AI Supplier Takes Top CSI 300 Spot With 5.3% Weight", // 职位
+        "description": "",
+        "summary": "Zhongji Innolight overtakes CATL as AI optical hardware gains more influence in China's equity benchmark.",
+        "pubDate": "2026-06-04T17:19:30Z",
+        "displayTime": "2026-06-04T17:19:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-ai-supplier-takes-top-171930982.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-ai-supplier-takes-top-171930982.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "86b8cc94-76dd-3f17-93d4-2dc3d9346ce9",
+      "content": {
+        "id": "86b8cc94-76dd-3f17-93d4-2dc3d9346ce9",
+        "contentType": "STORY",
+        "title": "Charlie Munger Handed His Family Fortune Over to The Chinese Warren Buffett Who Flipped It Into $400 Million — 'We Made Unholy Good Returns'", // 职位
+        "description": "",
+        "summary": "Conviction is easy to talk about. It's harder to wire. Then-Berkshire Hathaway Vice Chairman Charlie Munger didn't just praise talent — he backed it with tens of millions of dollars from his own family fortune. The recipient? Li Lu, the investor Munger later referred to in a 2023 Financial Times profile as the \"Chinese Warren Buffett.\" Munger, who passed away in 2023 at age 99, met Li at a Thanksgiving dinner in 2003. What struck him wasn't Li's dramatic backstory — fleeing China after the 1989",
+        "pubDate": "2026-02-21T19:01:09Z",
+        "displayTime": "2026-02-21T19:01:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/145462219f04ae6d5565441510f4152a",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C_Tx4Mv..qxLxncbFzqudQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/145462219f04ae6d5565441510f4152a",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/T3hNxRu8n61dG.MzkSN5RQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/145462219f04ae6d5565441510f4152a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/charlie-munger-handed-family-fortune-190109314.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/charlie-munger-handed-family-fortune-190109314.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9917c39f-c1b3-35d7-9f30-c798b2394303",
+      "content": {
+        "id": "9917c39f-c1b3-35d7-9f30-c798b2394303",
+        "contentType": "STORY",
+        "title": "Changing times: Cambricon tops Moutai as China's costliest stock as chips trump baijiu", // 职位
+        "description": "",
+        "summary": "Cambricon Technologies became the costliest stock in mainland China's equities market, as the Beijing-based chipmaker replaced the liquor distiller Kweichow Moutai in a sign of the rising significance of artificial intelligence (AI) in the world's second-largest capital market. Trading under the symbol 688256 in Shanghai, Cambricon's shares jumped 11.60 per cent on Monday to a record 1,384.93 yuan, giving it 579.38 billion yuan (US$81 billion) in market value. The stock has more than doubled in",
+        "pubDate": "2025-08-25T09:30:00Z",
+        "displayTime": "2025-08-25T09:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/south_china_morning_post_us_228/8f53bb6e8569d31daff43b8a46fadbe8",
+          "originalWidth": 2000,
+          "originalHeight": 1125,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9Q1B0zZlFPs4HhVrp1uWsQ--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/8f53bb6e8569d31daff43b8a46fadbe8",
+              "width": 2000,
+              "height": 1125,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_JZeU7fCrQaCpxmIyyP4sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/south_china_morning_post_us_228/8f53bb6e8569d31daff43b8a46fadbe8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "South China Morning Post",
+          "url": "https://www.scmp.com/",
+          "sourceId": "south_china_morning_post_us_228"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/changing-times-cambricon-tops-moutai-093000860.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/changing-times-cambricon-tops-moutai-093000860.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 1301.0, // 当日最高价
+    "dayLow": 1280.3399658203125, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": 1266.6932006835937, // 50日均价
+    "lastPrice": 1293.0899658203125,
+    "lastVolume": 7842956,
+    "marketCap": 1616467974709.6914, // 总市值
+    "open": 1295.0, // 今日开盘价
+    "previousClose": 1342.4100341796875, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 1341.989990234375, // 常规市场昨日收盘价
+    "shares": 1250081601,
+    "tenDayAverageVolume": 3537498,
+    "threeMonthAverageVolume": 4643845,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 1378.0070025634766, // 200日均价
+    "yearChange": -0.06056003483767938,
+    "yearHigh": 1568.0,
+    "yearLow": 1151.010009765625
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 6, 26), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 40606330000, 'Revenue Low': 40606330000, 'Revenue Average': 40606330000}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.119408,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 0.048161,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 0.072242,
+      "Stock Splits": 1.3
+    },
+    {
+      "Dividends": 0.156524,
+      "Stock Splits": 1.2
+    },
+    {
+      "Dividends": 0.112697,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.007761,
+      "Stock Splits": 2.0
+    },
+    {
+      "Dividends": 0.52592,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.628099,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.86852,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.890308,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.728024,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 3.303306,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 5.304959,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 3.614876,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 3.976364,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 6.171,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 6.787,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 10.999,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 14.539,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 17.025,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 19.293,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 21.675,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 21.91,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 25.911,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 19.106,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 30.876,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 23.882,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 27.673,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 23.957,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 28.02423,
+      "Stock Splits": 0.0
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "info": {
+    "address1": "Delta House", // 地址1
+    "address2": "23rd Floor 3 On Yiu Street Shek Mun", // 地址2
+    "city": "Sha Tin", // 城市
+    "country": "Hong Kong", // 国家
+    "phone": "852 2605 6493", // 电话
+    "fax": "852 2691 5245",
+    "website": "https://www.kblaminates.com", // 官方网站
+    "industry": "Electronic Components", // 行业
+    "industryKey": "electronic-components", // 行业键
+    "industryDisp": "Electronic Components", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Kingboard Laminates Holdings Limited, an investment holding company, engages in the manufacture and sale of laminates in the People's Republic of China, Europe, other Asian countries, and the United States. It operates through Laminates, Properties, and Investments segments. The company offers glass epoxy and paper laminates. It also provides upstream component materials, such as copper foils, glass yarns, glass fabrics, bleached kraft papers, epoxy resins, kraft papers for copper-clad laminates, and PVB. In addition, it sells and rents properties; trades in copper; and provides hotel accommodation services. Further, the company manufactures and distributes chemicals; electronic special materials; and specialty resins. Its investment property portfolio comprises commercial, residential, and industrial properties. The company was founded in 1988 and is headquartered in Sha Tin, Hong Kong. Kingboard Laminates Holdings Limited operates as a subsidiary of Jamplan (BVI) Limited.", // 公司业务摘要
+    "fullTimeEmployees": 10800, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Kwok Wa  Cheung", // 姓名
+        "age": 61, // 年龄
+        "title": "Executive Chairman", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 29080000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Kwok Keung  Cheung", // 姓名
+        "age": 72, // 年龄
+        "title": "CEO, MD & Executive Director", // 职位
+        "yearBorn": 1953, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 16536000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Pei Feng  Zhou", // 姓名
+        "age": 56, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1969, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 4489000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ka Po  Lam", // 姓名
+        "age": 68, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1957, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 13400000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Kwok Ping  Cheung", // 姓名
+        "age": 64, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1961, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 16808000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ka Ho  Cheung", // 姓名
+        "age": 41, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1984, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 4812000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Mei Kam  Ng", // 姓名
+        "age": 52, // 年龄
+        "title": "Company Secretary", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Guo Qiang Chang", // 姓名
+        "age": 57, // 年龄
+        "title": "General Manager of Glass Fabric Factories - Qinguan & Lianzhou", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 5, // 审计风险
+    "boardRisk": 3, // 董事会风险
+    "compensationRisk": 9, // 薪酬风险
+    "shareHolderRightsRisk": 9, // 股东权益风险
+    "overallRisk": 8, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "irWebsite": "http://www.kblaminates.com/kbchs/announcement-all.asp",
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 38.6, // 昨日收盘价
+    "open": 39.1, // 今日开盘价
+    "dayLow": 38.9, // 当日最低价
+    "dayHigh": 42.36, // 当日最高价
+    "regularMarketPreviousClose": 38.6, // 常规市场昨日收盘价
+    "regularMarketOpen": 39.1, // 常规市场今日开盘价
+    "regularMarketDayLow": 38.9, // 常规市场当日最低价
+    "regularMarketDayHigh": 42.36, // 常规市场当日最高价
+    "dividendRate": 0.5,
+    "dividendYield": 1.3,
+    "exDividendDate": 1781136000,
+    "payoutRatio": 0.44869998, // 股利支付率
+    "fiveYearAvgDividendYield": 6.23,
+    "beta": 1.486, // 贝塔系数
+    "trailingPE": 54.0, // 滚动市盈率 (TTM)
+    "forwardPE": 15.615673, // 预测市盈率
+    "volume": 108679026, // 成交量
+    "regularMarketVolume": 108687026, // 常规市场成交量
+    "averageVolume": 101427566, // 平均成交量
+    "averageVolume10days": 146705449, // 10日平均成交量
+    "averageDailyVolume10Day": 146705449, // 10日日均成交量
+    "bid": 42.1, // 买入价
+    "ask": 42.14, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 132739072000, // 总市值
+    "nonDilutedMarketCap": 121645970000, // 非稀释市值
+    "fiftyTwoWeekLow": 10.5, // 52周最低价
+    "fiftyTwoWeekHigh": 107.2, // 52周最高价
+    "allTimeHigh": 107.2, // 历史最高价
+    "allTimeLow": 0.455, // 历史最低价
+    "priceToSalesTrailing12Months": 6.506757, // 市销率 (TTM)
+    "fiftyDayAverage": 58.5708, // 50日均价
+    "twoHundredDayAverage": 31.15145, // 200日均价
+    "trailingAnnualDividendRate": 0.4, // 年度股息率
+    "trailingAnnualDividendYield": 0.010362695, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 122361421824, // 企业价值 (EV)
+    "profitMargins": 0.11971, // 利润率
+    "floatShares": 1190451549, // 流通股本
+    "sharesOutstanding": 3151450000, // 发行在外股份总数
+    "heldPercentInsiders": 0.62031, // 内部人士持股比例
+    "heldPercentInstitutions": 0.14822, // 机构持股比例
+    "impliedSharesOutstanding": 3151450000, // 隐含发行在外股份
+    "bookValue": 5.212, // 每股净资产
+    "priceToBook": 8.08135, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1767139200, // 最近一个季度日
+    "earningsQuarterlyGrowth": 1.522, // 季度盈利增长
+    "netIncomeToCommon": 2442173952, // 归属于普通股股东的净利润
+    "trailingEps": 0.78, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 2.69729, // 预测每股收益
+    "pegRatio": 1.87, // PEG比率
+    "enterpriseToRevenue": 5.998, // 企业价值/营收比
+    "enterpriseToEbitda": 33.83, // 企业价值/EBITDA比
+    "52WeekChange": 1.8698885, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 0.53,
+    "lastDividendDate": 1781136000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 42.12, // 当前价格
+    "targetHighPrice": 92.0, // 目标最高价
+    "targetLowPrice": 25.3, // 目标最低价
+    "targetMeanPrice": 51.66, // 目标平均价
+    "targetMedianPrice": 53.0, // 目标中位价
+    "recommendationMean": 1.16667, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 5, // 分析师人数
+    "totalCash": 2879255040, // 现金总额
+    "totalCashPerShare": 0.918, // 每股现金
+    "ebitda": 3616910080, // EBITDA
+    "totalDebt": 4191709952, // 总债务
+    "quickRatio": 1.49, // 速动比率
+    "currentRatio": 1.916, // 流动比率
+    "totalRevenue": 20400189440, // 总营收
+    "debtToEquity": 25.61, // 债务权益比
+    "revenuePerShare": 6.534, // 每股营收
+    "returnOnAssets": 0.069510005, // 资产回报率 (ROA)
+    "returnOnEquity": 0.1539, // 权益回报率 (ROE)
+    "grossProfits": 3990845952, // 毛利润
+    "freeCashflow": -625684864, // 自由现金流
+    "operatingCashflow": 2160157952, // 经营现金流
+    "earningsGrowth": 1.505, // 盈利增长
+    "revenueGrowth": 0.092, // 营收增长
+    "grossMargins": 0.19563, // 毛利率
+    "ebitdaMargins": 0.17729999, // EBITDA利润率
+    "operatingMargins": 0.14342, // 营业利润率
+    "financialCurrency": "HKD", // 财务报表货币
+    "symbol": "1888.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "marketState": "POSTPOST", // 市场状态
+    "shortName": "KB LAMINATES", // 公司简称
+    "longName": "Kingboard Laminates Holdings Limited", // 公司正式名称
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1165455000000, // 首次交易日期时间戳
+    "regularMarketChange": 3.5200005, // 常规市场价格变动
+    "regularMarketDayRange": "38.9 - 42.36", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 101427566, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 31.619999, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 3.0114284, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "10.5 - 107.2", // 52周价格范围
+    "fiftyTwoWeekHighChange": -65.08, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.6070896, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 186.98886, // 52周价格变动百分比
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954107, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_30270815", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 9.119172, // 常规市场变动百分比
+    "regularMarketPrice": 42.12, // 常规市场当前价格
+    "earningsTimestampStart": 1756119540, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1756468800, // 财报发布截止时间戳
+    "isEarningsDateEstimate": true, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 0.78, // 过去12个月每股收益
+    "epsForward": 2.69729, // 预测每股收益
+    "epsCurrentYear": 2.12461, // 本年度每股收益
+    "priceEpsCurrentYear": 19.824816, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -16.450802, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.28087035, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 10.96855, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.352104, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.2 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "6f2352a7-6aec-37f8-8253-a832d6377791",
+      "content": {
+        "id": "6f2352a7-6aec-37f8-8253-a832d6377791",
+        "contentType": "STORY",
+        "title": "Kingboard Laminates Holdings (SEHK:1888) Slides Sharply, Is The Valuation Still Too Rich?", // 职位
+        "description": "",
+        "summary": "Why Kingboard Laminates Holdings Is Back on Investor Radars Kingboard Laminates Holdings (SEHK:1888) has caught investor attention after recent share price swings, including a single day decline of 4.6% and a fall of 32.7% over the past week. These short term moves contrast with gains over the past month and past 3 months. This is prompting closer scrutiny of how the company’s laminate focused business and broader revenue profile align with different holding periods. See our latest analysis...",
+        "pubDate": "2026-07-09T03:17:47Z",
+        "displayTime": "2026-07-09T03:17:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6uAsO.rEcrE.nmLBY.t5jw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rqlbN5RiPu1vlRU9ouAYXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kingboard-laminates-holdings-sehk-1888-031747849.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kingboard-laminates-holdings-sehk-1888-031747849.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2059ef0f-03d7-35aa-8f8c-d4e0372c8141",
+      "content": {
+        "id": "2059ef0f-03d7-35aa-8f8c-d4e0372c8141",
+        "contentType": "STORY",
+        "title": "Nvidia Kyber Delay Hits Asian AI Suppliers", // 职位
+        "description": "",
+        "summary": "Nvidia's next-generation Kyber NVL144 system is reportedly delayed by more than 12 months, triggering sharp regional tech declines.",
+        "pubDate": "2026-07-06T13:41:03Z",
+        "displayTime": "2026-07-06T13:41:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-kyber-delay-hits-asian-134103513.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-kyber-delay-hits-asian-134103513.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f691c0ae-78fe-3bcf-a8ed-6217e8698935",
+      "content": {
+        "id": "f691c0ae-78fe-3bcf-a8ed-6217e8698935",
+        "contentType": "STORY",
+        "title": "Chinese Investors Double Stake as Kingboard Shares Surge 570% in AI Rally", // 职位
+        "description": "",
+        "summary": "Mainland investors raised their holding to 13% as AI-related demand lifted Kingboard's outlook.",
+        "pubDate": "2026-06-18T18:01:05Z",
+        "displayTime": "2026-06-18T18:01:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-investors-double-stake-kingboard-180105245.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-investors-double-stake-kingboard-180105245.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 42.36000061035156, // 当日最高价
+    "dayLow": 38.900001525878906, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 58.57080001831055, // 50日均价
+    "lastPrice": 42.119998931884766,
+    "lastVolume": 108687026,
+    "marketCap": 132739070633.88824, // 总市值
+    "open": 39.099998474121094, // 今日开盘价
+    "previousClose": 38.599998474121094, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 38.599998474121094, // 常规市场昨日收盘价
+    "shares": 3151450000,
+    "tenDayAverageVolume": 146705449,
+    "threeMonthAverageVolume": 100850848,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 30.77344994068146, // 200日均价
+    "yearChange": 1.869888403086161,
+    "yearHigh": 107.19999694824219,
+    "yearLow": 10.5
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 6, 11), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': None, 'Revenue Low': None, 'Revenue Average': None}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.2,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.12,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.18,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.16,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.18,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.05,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.05,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.12,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.05,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.12,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.06,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.064,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.113,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.635,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.485,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.326,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.526,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.175,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.35,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.7,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 2.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.5,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.3,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.2,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.15,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.2,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.06,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.12,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.5,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.15,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.53,
+      "Stock Splits": 0.0
+    }
+  ]
+}

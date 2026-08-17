@@ -1,0 +1,857 @@
+{
+  "info": {
+    "address1": "No.18 Zhangjiang Road", // 地址1
+    "address2": "Pudong New Area", // 地址2
+    "city": "Shanghai", // 城市
+    "zip": "201203", // 邮编
+    "country": "China", // 国家
+    "phone": "86 21 3861 0000", // 电话
+    "website": "https://www.smics.com", // 官方网站
+    "industry": "Semiconductors", // 行业
+    "industryKey": "semiconductors", // 行业键
+    "industryDisp": "Semiconductors", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Semiconductor Manufacturing International Corporation, an investment holding company, engages in the manufacture, testing, and sale of integrated circuits wafer and various compound semiconductors in the United States, China, and Eurasia. The company is also involved in the manufacturing, sale, and trading of semiconductor products; and research and development activities. In addition, it offers semiconductor foundry and technology services; supporting services comprising design and IP support, photomask manufacturing, etc.; development, design, and technical services related to integrated circuits; marketing related services; and private education services. Further, the company tests and sells self-produced products, and other services. Semiconductor Manufacturing International Corporation was incorporated in 2000 and is headquartered in Shanghai, China.", // 公司业务摘要
+    "fullTimeEmployees": 19952, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Xunfeng  Liu", // 姓名
+        "age": 60, // 年龄
+        "title": "Executive Chairman of the Board", // 职位
+        "yearBorn": 1965, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 8523896,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Haijun  Zhao", // 姓名
+        "age": 61, // 年龄
+        "title": "Co-Chief Executive Officer", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 13305100,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 114342624 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Mong Song  Liang", // 姓名
+        "age": 73, // 年龄
+        "title": "Co-Chief Executive Officer", // 职位
+        "yearBorn": 1952, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 13318587,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 30466070 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Junfeng  Wu", // 姓名
+        "age": 52, // 年龄
+        "title": "Senior Vice President of Finance", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Xin  Zhang", // 姓名
+        "age": 59, // 年龄
+        "title": "Senior Vice President in Operation & Engineering", // 职位
+        "yearBorn": 1966, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Chen Jian  Liu", // 姓名
+        "title": "Accounting Supervisor", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zhi  Li", // 姓名
+        "age": 61, // 年龄
+        "title": "Executive VP of Legal, Public Affairs & General Administration", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2704179,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Guangli  Guo CPA", // 姓名
+        "age": 54, // 年龄
+        "title": "Senior VP, Board Secretary & Company Secretary", // 职位
+        "yearBorn": 1971, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 588331 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Da  Jin", // 姓名
+        "age": 49, // 年龄
+        "title": "Senior Vice President - Core Technician", // 职位
+        "yearBorn": 1976, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Dayong  Yan", // 姓名
+        "age": 46, // 年龄
+        "title": "Vice President", // 职位
+        "yearBorn": 1979, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 132.87, // 昨日收盘价
+    "open": 132.0, // 今日开盘价
+    "dayLow": 130.8, // 当日最低价
+    "dayHigh": 137.42, // 当日最高价
+    "regularMarketPreviousClose": 132.87, // 常规市场昨日收盘价
+    "regularMarketOpen": 132.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 130.8, // 常规市场当日最低价
+    "regularMarketDayHigh": 137.42, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "beta": 0.35, // 贝塔系数
+    "trailingPE": 224.1967, // 滚动市盈率 (TTM)
+    "forwardPE": 91.89625, // 预测市盈率
+    "volume": 68011300, // 成交量
+    "regularMarketVolume": 68011300, // 常规市场成交量
+    "averageVolume": 95797894, // 平均成交量
+    "averageVolume10days": 57613856, // 10日平均成交量
+    "averageDailyVolume10Day": 57613856, // 10日日均成交量
+    "bid": 136.76, // 买入价
+    "ask": 136.77, // 卖出价
+    "marketCap": 1170775736320, // 总市值
+    "nonDilutedMarketCap": 704361320506, // 非稀释市值
+    "fiftyTwoWeekLow": 88.19, // 52周最低价
+    "fiftyTwoWeekHigh": 176.34, // 52周最高价
+    "allTimeHigh": 176.34, // 历史最高价
+    "allTimeLow": 36.2, // 历史最低价
+    "priceToSalesTrailing12Months": 112.77404, // 市销率 (TTM)
+    "fiftyDayAverage": 139.9052, // 50日均价
+    "twoHundredDayAverage": 122.3985, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 779267276800, // 企业价值 (EV)
+    "profitMargins": 0.1003, // 利润率
+    "floatShares": 4454610792, // 流通股本
+    "sharesOutstanding": 2546744622, // 发行在外股份总数
+    "heldPercentInsiders": 0.04547, // 内部人士持股比例
+    "heldPercentInstitutions": 0.19459999, // 机构持股比例
+    "impliedSharesOutstanding": 8560805995, // 隐含发行在外股份
+    "bookValue": 17.405203, // 每股净资产
+    "priceToBook": 7.8574204, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": 2.617, // 季度盈利增长
+    "netIncomeToCommon": 1041254016, // 归属于普通股股东的净利润
+    "trailingEps": 0.61, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 1.4882, // 预测每股收益
+    "pegRatio": 8.42, // PEG比率
+    "enterpriseToRevenue": 75.062, // 企业价值/营收比
+    "enterpriseToEbitda": 145.996, // 企业价值/EBITDA比
+    "52WeekChange": 0.439389, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 136.76, // 当前价格
+    "targetHighPrice": 243.4, // 目标最高价
+    "targetLowPrice": 116.0, // 目标最低价
+    "targetMeanPrice": 167.61818, // 目标平均价
+    "targetMedianPrice": 154.0, // 目标中位价
+    "recommendationMean": 1.58333, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 11, // 分析师人数
+    "totalCash": 12790717440, // 现金总额
+    "totalCashPerShare": 2.221, // 每股现金
+    "ebitda": 5337585152, // EBITDA
+    "totalDebt": 14018957312, // 总债务
+    "quickRatio": 1.428, // 速动比率
+    "currentRatio": 1.874, // 流动比率
+    "totalRevenue": 10381606912, // 总营收
+    "debtToEquity": 37.031, // 债务权益比
+    "revenuePerShare": 1.296, // 每股营收
+    "returnOnAssets": 0.01153, // 资产回报率 (ROA)
+    "returnOnEquity": 0.04201, // 权益回报率 (ROE)
+    "grossProfits": 2265175040, // 毛利润
+    "freeCashflow": -4079245056, // 自由现金流
+    "operatingCashflow": 5492147200, // 经营现金流
+    "earningsGrowth": 2.587, // 盈利增长
+    "revenueGrowth": 0.361, // 营收增长
+    "grossMargins": 0.21819, // 毛利率
+    "ebitdaMargins": 0.51414, // EBITDA利润率
+    "operatingMargins": 0.17773001, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "688981.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "SEMICONDUCTOR MANUFACTURING INT", // 公司简称
+    "longName": "Semiconductor Manufacturing International Corporation", // 公司正式名称
+    "messageBoardId": "finmb_1379992", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950001, // 常规市场时间戳
+    "regularMarketChangePercent": 2.9276733, // 常规市场变动百分比
+    "regularMarketPrice": 136.76, // 常规市场当前价格
+    "exchange": "SHH", // 交易所代码
+    "marketState": "POSTPOST", // 市场状态
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1594863000000, // 首次交易日期时间戳
+    "regularMarketChange": 3.8899994, // 常规市场价格变动
+    "regularMarketDayRange": "130.8 - 137.42", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "averageDailyVolume3Month": 95797894, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 48.569992, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.5507426, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "88.19 - 176.34", // 52周价格范围
+    "fiftyTwoWeekHighChange": -39.58, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.22445278, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 43.9389, // 52周价格变动百分比
+    "earningsTimestampStart": 1754467200, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1754899200, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1746750600, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1746750600, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 0.61, // 过去12个月每股收益
+    "epsForward": 1.4882, // 预测每股收益
+    "epsCurrentYear": 1.32, // 本年度每股收益
+    "priceEpsCurrentYear": 103.60605, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -3.1452026, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.022480957, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 14.361496, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.117333926, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.6 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": 8.4163 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "62fbc2c2-1dda-334f-b28b-ddc6bbb00a0d",
+      "content": {
+        "id": "62fbc2c2-1dda-334f-b28b-ddc6bbb00a0d",
+        "contentType": "STORY",
+        "title": "Tech, Media & Telecom Roundup: Market Talk", // 职位
+        "description": "",
+        "summary": "Find insight on SMIC, Universal Music Group and more in the latest Market Talks covering technology, media and telecom.",
+        "pubDate": "2026-08-17T10:34:00Z",
+        "displayTime": "2026-08-17T10:34:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/62fbc2c2-1dda-334f-b28b-ddc6bbb00a0d/tech-media-telecom.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cnZTZoa3SQo36FdEpiY9fw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rKpPoKk0iQU64fQ41bMdNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-56efa474?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8fa3dbf0-2b43-3319-8b3b-75f322f74a33",
+      "content": {
+        "id": "8fa3dbf0-2b43-3319-8b3b-75f322f74a33",
+        "contentType": "STORY",
+        "title": "Why Is SMIC (SEHK:981) Expanding Capacity After Profit Tripled On AI Demand?", // 职位
+        "description": "",
+        "summary": "Semiconductor Manufacturing International Corporation (SEHK:981) reported second quarter profit that more than tripled year on year as AI related chip demand lifted results. The quarter saw higher revenue and shipments alongside negotiated wafer price increases, supported by strong orders linked to AI applications. SMIC plans to expand production capacity in response to sustained AI focused demand for its foundry services. For investors tracking how AI related demand is reshaping the...",
+        "pubDate": "2026-08-15T01:11:51Z",
+        "displayTime": "2026-08-15T01:11:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qgfMNnZgLdxDgn_SmLcZ9w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DZ3qP0DDlrMGgfDUI04jfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-smic-sehk-981-expanding-011151515.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-smic-sehk-981-expanding-011151515.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d1675fd9-5371-398f-9cc2-58d87eed0b45",
+      "content": {
+        "id": "d1675fd9-5371-398f-9cc2-58d87eed0b45",
+        "contentType": "STORY",
+        "title": "SMIC Q2 2026 earnings beat as AI demand drives price increases", // 职位
+        "description": "",
+        "summary": "SMIC's second-quarter revenue hit $3 billion for the first time, rising 36% from a year earlier, as the company raised wafer prices and shipments climbed",
+        "pubDate": "2026-08-14T13:31:07Z",
+        "displayTime": "2026-08-14T13:31:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/1b84126ca2bc568d13aa82147771824c.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HIgcdh95mkGDrntTTdOgYQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/1b84126ca2bc568d13aa82147771824c.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Nt4hKRZB9EoWzH6bglpBfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/1b84126ca2bc568d13aa82147771824c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
+        },
+        "canonicalUrl": {
+          "url": "https://qz.com/smic-chip-prices-ai-demand-revenue-earnings-081426",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/smic-q2-2026-earnings-beat-133107637.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3c6a380d-998e-3913-a226-b0e7a86a901e",
+      "content": {
+        "id": "3c6a380d-998e-3913-a226-b0e7a86a901e",
+        "contentType": "STORY",
+        "title": "Applied Materials Slips Despite Strong Outlook as SMIC Rallies on Earnings: Dow Jones, S&P, Nasdaq, Wall Street Futures", // 职位
+        "description": "",
+        "summary": "U. S. stock futures traded close to unchanged on Friday as investors assessed softer inflation data, a fresh round of technology earnings and renewed volatility across semiconductor shares.",
+        "pubDate": "2026-08-14T09:32:49Z",
+        "displayTime": "2026-08-14T09:32:49Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/4de50e85aa4d411f57192ed29ea32030.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "caption": "New York Stock Exchange trading floor ©Highsmith, Carol M",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wduOyoh.lE2tcZnysybicw--~B/aD02NTk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorshub_458/4de50e85aa4d411f57192ed29ea32030.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yq25WL4KeDlJG6m9_nK6aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/4de50e85aa4d411f57192ed29ea32030.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/",
+          "sourceId": "investorshub_458"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/34298/applied-materials-slips-despite-strong-outlook-as-smic-rallies-on-earnings-dow-jones-sp-nasdaq-wall-street-futures",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-slips-despite-strong-093249446.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9df8d65d-591b-3c80-822c-55916c7871a8",
+      "content": {
+        "id": "9df8d65d-591b-3c80-822c-55916c7871a8",
+        "contentType": "STORY",
+        "title": "Semiconductor Manufacturing International Corp (SHSE:688981) (Q2 2026) Earnings Call ...", // 职位
+        "description": "",
+        "summary": "Strong sequential growth and improved margins signal robust AI-driven momentum for the Chinese chipmaker.",
+        "pubDate": "2026-08-14T09:00:24Z",
+        "displayTime": "2026-08-14T09:00:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-manufacturing-international-corp-shse-090024424.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-manufacturing-international-corp-shse-090024424.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+      "content": {
+        "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+        "contentType": "STORY",
+        "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet", // 职位
+        "description": "",
+        "summary": "Chinese tech firms’ early earnings are giving hardware stocks renewed momentum, while internet platforms still struggle to show a full consumer‑demand recovery.",
+        "pubDate": "2026-08-14T03:54:06Z",
+        "displayTime": "2026-08-14T03:54:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EoTwto.xSQTHTiS1lZvVEQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6waSA8jFYtQOph3xQr.nGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "704144f8-e45b-3688-a1b1-76dc004fee55",
+      "content": {
+        "id": "704144f8-e45b-3688-a1b1-76dc004fee55",
+        "contentType": "STORY",
+        "title": "Chinese chipmaker SMIC increases prices on strong AI demand", // 职位
+        "description": "",
+        "summary": "China's top foundry, Semiconductor Manufacturing International Corp, said on Friday that AI-related demand would continue to underpin orders for its production, and that ‌it had raised prices for its most sought-after capacity.  Co-CEO Zhao Haijun said on an earnings call ‌that SMIC raised prices following negotiations with customers in the first quarter, and that it would charge more for wafers processed in ​the third quarter.  \"Since there's still a big gap between industry-leading wafer prices and SMIC's current prices, we need to negotiate with customers for fairer pricing.\"",
+        "pubDate": "2026-08-14T03:09:34Z",
+        "displayTime": "2026-08-14T03:09:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/594a322759ff9884502226a0d5ad115b.jpg",
+          "originalWidth": 800,
+          "originalHeight": 533,
+          "caption": "FILE PHOTO: A logo of Semiconductor Manufacturing International Corporation (SMIC) is seen at China International Semiconductor Expo (IC China 2020) following the coronavirus disease (COVID-19) outbreak in Shanghai",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Muq96LCQvsHATYPVkJDFGw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/594a322759ff9884502226a0d5ad115b.jpg",
+              "width": 800,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MG3vKQo5k.4WgdkV3n67TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/594a322759ff9884502226a0d5ad115b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "16adc553-d53a-37df-a6ef-f050d252b325",
+      "content": {
+        "id": "16adc553-d53a-37df-a6ef-f050d252b325",
+        "contentType": "STORY",
+        "title": "China’s SMIC Posts Earnings Beat as Mature-Node Orders Surge", // 职位
+        "description": "",
+        "summary": "China’s biggest chip foundry recorded a surge in net profit and revenue in the second quarter, cashing in on robust orders for legacy and specialty semiconductors.",
+        "pubDate": "2026-08-13T11:01:00Z",
+        "displayTime": "2026-08-13T11:01:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/16adc553-d53a-37df-a6ef-f050d252b325/china%E2%80%99s-smic-posts-earnings.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/6951332148b9e466950ffca575f8b35a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_LQ4GqaolO7reH2hy5QxnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/6951332148b9e466950ffca575f8b35a.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eTNvknputA7fgQO2hmkHyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6951332148b9e466950ffca575f8b35a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/business/earnings/smic-posts-earnings-beat-as-mature-node-orders-surge-444e75f7?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a3f6ead1-1ad3-34b0-a6aa-84b547587b46",
+      "content": {
+        "id": "a3f6ead1-1ad3-34b0-a6aa-84b547587b46",
+        "contentType": "STORY",
+        "title": "SMIC profit more than triples on AI-driven chip demand", // 职位
+        "description": "",
+        "summary": "China's largest ‌contract chipmaker, Semiconductor Manufacturing ‌International Corp , reported on Thursday second-quarter profit ​more than tripled from a year earlier, beating analyst estimates, as demand for AI-related chips ‌remained robust. Profit ⁠attributable to shareholders came in at $479.2 million, nearly double ⁠the average analyst estimate of $253.4 million compiled by LSEG. Revenue ​rose 36% ​to more ​than $3 billion, topping ‌the $2.8 billion analysts had forecast, LSEG data showed.",
+        "pubDate": "2026-08-13T09:37:58Z",
+        "displayTime": "2026-08-13T09:37:58Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/f50877a24e2f4be900712f4e88910fe7.jpg",
+          "originalWidth": 800,
+          "originalHeight": 533,
+          "caption": "A logo of Semiconductor Manufacturing International Corporation (SMIC) is seen at China International Semiconductor Expo (IC China 2020) in Shanghai",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.mgFGoyAdK1OQunkVuekEg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f50877a24e2f4be900712f4e88910fe7.jpg",
+              "width": 800,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/q8rNC7xoQTDfhV9d8E3MXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f50877a24e2f4be900712f4e88910fe7.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/smic-profit-more-triples-ai-093758638.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/smic-profit-more-triples-ai-093758638.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bb04e518-9f81-3f7f-bd93-1295cc762280",
+      "content": {
+        "id": "bb04e518-9f81-3f7f-bd93-1295cc762280",
+        "contentType": "STORY",
+        "title": "China Earnings to Test Rotation From AI to Internet Stocks", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- A rotation into China’s biggest tech firms from AI infrastructure stocks will be tested this week as earnings are due.Most Read from BloombergFive Takeaways From Zuckerberg’s 6,500-Word Manifesto on AIPakistan Says Deal Is Close Even as Iran, US Harden StancesChina Unleashes $28 Trillion Capital Markets to Challenge US in AINvidia Taps Wall Street for $500 Billion Funding CommitmentApple’s Glass-Centric 20th-Anniversary iPhone Remains on Track for 2027Results from Tencent Holdings",
+        "pubDate": "2026-08-11T23:30:00Z",
+        "displayTime": "2026-08-11T23:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-earnings-test-rotation-ai-233000064.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-earnings-test-rotation-ai-233000064.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 137.4199981689453, // 当日最高价
+    "dayLow": 130.8000030517578, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": 139.9051998901367, // 50日均价
+    "lastPrice": 136.75999450683594,
+    "lastVolume": 68011300,
+    "marketCap": 1170775780850.288, // 总市值
+    "open": 132.0, // 今日开盘价
+    "previousClose": 132.61000061035156, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 132.8699951171875, // 常规市场昨日收盘价
+    "shares": 8560805995,
+    "tenDayAverageVolume": 57613856,
+    "threeMonthAverageVolume": 96367312,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 122.89114994049072, // 200日均价
+    "yearChange": 0.43938900044763085,
+    "yearHigh": 176.33999633789062,
+    "yearLow": 88.19000244140625
+  },
+  "calendar": "{'Earnings Date': [], 'Earnings High': 0.272, 'Earnings Low': 0.272, 'Earnings Average': 0.272, 'Revenue High': 3185923280, 'Revenue Low': 3014547000, 'Revenue Average': 3069272180}" // 财报日历
+}

@@ -1,0 +1,885 @@
+{
+  "info": {
+    "address1": "Xiaomi Campus", // 地址1
+    "address2": "Anningzhuang Road Haidian District", // 地址2
+    "city": "Beijing", // 城市
+    "country": "China", // 国家
+    "website": "https://www.mi.com", // 官方网站
+    "industry": "Consumer Electronics", // 行业
+    "industryKey": "consumer-electronics", // 行业键
+    "industryDisp": "Consumer Electronics", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Xiaomi Corporation, an investment holding company, engages in the development and sales of smartphones in Mainland China and internationally. It operates through Smartphones, IoT and Lifestyle Products, Internet Services, and smart electric vehicles segments. The company also offers internet of things (IoT) and lifestyle products comprising smart large home appliances, smart TVs, tablets, wearables and other IoT and lifestyle products; hardware repairment services for products; installation services for certain IoT products; and sale of materials. In addition, it provides internet services, such as advertising, online game, and fintech services; and development, manufacture, and sales of smart electric vehicles. Further, the company in the wholesale and retail of smartphones and ecosystem partners' products; investment activities; sales of smart hardware; software and hardware development; procurement and sales of smartphones, ecosystem partners' products and spare parts, and raw materials; operation of retail stores; and commercial factoring and e-commerce business. Additionally, it provides intra-group capital supervision, collection, remittance, credit guarantee, and interest rate risk management; customer; software related; promotion; electronic payment technology; and technical services. Xiaomi Corporation was incorporated in 2010 and is headquartered in Beijing, the People's Republic of China.", // 公司业务摘要
+    "fullTimeEmployees": 55994, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jun  Lei", // 姓名
+        "age": 56, // 年龄
+        "title": "Founder, Chairman & CEO", // 职位
+        "yearBorn": 1969, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Bin  Lin", // 姓名
+        "age": 57, // 年龄
+        "title": "Co-Founder & Vice Chairman", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. De  Liu", // 姓名
+        "age": 52, // 年龄
+        "title": "Co-Founder, SVP, Head of Organization Department & Executive Director", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Weibing  Lu", // 姓名
+        "age": 49, // 年龄
+        "title": "Partner, President of the Group & President of the International Business Department", // 职位
+        "yearBorn": 1976, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Wanqiang  Li", // 姓名
+        "age": 48, // 年龄
+        "title": "Co-founder, Senior VP & Brand Strategy Officer", // 职位
+        "yearBorn": 1977, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Sai Wai  Lam", // 姓名
+        "age": 50, // 年龄
+        "title": "Vice President & CFO", // 职位
+        "yearBorn": 1975, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Sudhin  Mathur", // 姓名
+        "title": "Chief Operating Officer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Anita  Chan", // 姓名
+        "title": "Head of Investor Relations & Corporate Finance", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Hao  Liu", // 姓名
+        "title": "Joint Company Secretary & Legal Director", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Yan  Qi", // 姓名
+        "age": 76, // 年龄
+        "title": "Senior VP of Leading Platform, Internal Operations & Public Affairs", // 职位
+        "yearBorn": 1949, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 1, // 审计风险
+    "boardRisk": 8, // 董事会风险
+    "compensationRisk": 10, // 薪酬风险
+    "shareHolderRightsRisk": 10, // 股东权益风险
+    "overallRisk": 10, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 25.62, // 昨日收盘价
+    "open": 25.8, // 今日开盘价
+    "dayLow": 25.8, // 当日最低价
+    "dayHigh": 26.24, // 当日最高价
+    "regularMarketPreviousClose": 25.62, // 常规市场昨日收盘价
+    "regularMarketOpen": 25.8, // 常规市场今日开盘价
+    "regularMarketDayLow": 25.8, // 常规市场当日最低价
+    "regularMarketDayHigh": 26.24, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "beta": 0.722, // 贝塔系数
+    "trailingPE": 14.298343, // 滚动市盈率 (TTM)
+    "forwardPE": 15.746475, // 预测市盈率
+    "volume": 100097535, // 成交量
+    "regularMarketVolume": 100097535, // 常规市场成交量
+    "averageVolume": 189904624, // 平均成交量
+    "averageVolume10days": 151855136, // 10日平均成交量
+    "averageDailyVolume10Day": 151855136, // 10日日均成交量
+    "bid": 25.9, // 买入价
+    "ask": 25.9, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 666153385984, // 总市值
+    "nonDilutedMarketCap": 659460997350, // 非稀释市值
+    "fiftyTwoWeekLow": 21.3, // 52周最低价
+    "fiftyTwoWeekHigh": 59.9, // 52周最高价
+    "allTimeHigh": 61.45, // 历史最高价
+    "allTimeLow": 8.28, // 历史最低价
+    "priceToSalesTrailing12Months": 1.49652, // 市销率 (TTM)
+    "fiftyDayAverage": 26.0544, // 50日均价
+    "twoHundredDayAverage": 33.2287, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 597596241920, // 企业价值 (EV)
+    "profitMargins": 0.079619996, // 利润率
+    "floatShares": 17216934578, // 流通股本
+    "sharesOutstanding": 21310849139, // 发行在外股份总数
+    "heldPercentInsiders": 0.20488001, // 内部人士持股比例
+    "heldPercentInstitutions": 0.27211002, // 机构持股比例
+    "impliedSharesOutstanding": 25740085767, // 隐含发行在外股份
+    "bookValue": 12.0061655, // 每股净资产
+    "priceToBook": 2.155559, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1774915200, // 最近一个季度日
+    "earningsQuarterlyGrowth": -0.568, // 季度盈利增长
+    "netIncomeToCommon": 35442188288, // 归属于普通股股东的净利润
+    "trailingEps": 1.81, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 1.6435424, // 预测每股收益
+    "pegRatio": 2.76, // PEG比率
+    "enterpriseToRevenue": 1.343, // 企业价值/营收比
+    "enterpriseToEbitda": 17.739, // 企业价值/EBITDA比
+    "52WeekChange": -0.5170594, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 25.88, // 当前价格
+    "targetHighPrice": 79.903244, // 目标最高价
+    "targetLowPrice": 19.15402, // 目标最低价
+    "targetMeanPrice": 38.140316, // 目标平均价
+    "targetMedianPrice": 37.056004, // 目标中位价
+    "recommendationMean": 1.80645, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 29, // 分析师人数
+    "totalCash": 98225414144, // 现金总额
+    "totalCashPerShare": 3.811, // 每股现金
+    "ebitda": 33688143872, // EBITDA
+    "totalDebt": 35367235584, // 总债务
+    "quickRatio": 0.66, // 速动比率
+    "currentRatio": 1.367, // 流动比率
+    "totalRevenue": 445134962688, // 总营收
+    "debtToEquity": 13.294, // 债务权益比
+    "revenuePerShare": 17.214, // 每股营收
+    "returnOnAssets": 0.03519, // 资产回报率 (ROA)
+    "returnOnEquity": 0.13996, // 权益回报率 (ROE)
+    "grossProfits": 98210054144, // 毛利润
+    "freeCashflow": 7767308288, // 自由现金流
+    "operatingCashflow": 27840874496, // 经营现金流
+    "earningsGrowth": -0.581, // 盈利增长
+    "revenueGrowth": -0.109, // 营收增长
+    "grossMargins": 0.22062999, // 毛利率
+    "ebitdaMargins": 0.075679995, // EBITDA利润率
+    "operatingMargins": 0.04459, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "1810.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "regularMarketChangePercent": 1.0148256, // 常规市场变动百分比
+    "regularMarketPrice": 25.88, // 常规市场当前价格
+    "shortName": "XIAOMI-W", // 公司简称
+    "longName": "Xiaomi Corporation", // 公司正式名称
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_320396288", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "marketState": "POSTPOST", // 市场状态
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954107, // 常规市场时间戳
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1531099800000, // 首次交易日期时间戳
+    "regularMarketChange": 0.25999832, // 常规市场价格变动
+    "regularMarketDayRange": "25.8 - 26.24", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 189904624, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 4.58, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.21502347, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "21.3 - 59.9", // 52周价格范围
+    "fiftyTwoWeekHighChange": -34.020004, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.5679466, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -51.70594, // 52周价格变动百分比
+    "earningsTimestamp": 1787040600, // 财报时间戳
+    "earningsTimestampStart": 1787040600, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1787040600, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1787040600, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1787040600, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 1.81, // 过去12个月每股收益
+    "epsForward": 1.6435424, // 预测每股收益
+    "epsCurrentYear": 1.01572, // 本年度每股收益
+    "priceEpsCurrentYear": 25.479462, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -0.17440033, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.0066937, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -7.3486996, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.2211552, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.8 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": 2.7583 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "01fe48af-a93d-30b0-8d87-3f7a07b354d1",
+      "content": {
+        "id": "01fe48af-a93d-30b0-8d87-3f7a07b354d1",
+        "contentType": "STORY",
+        "title": "Xiaomi (SEHK:1810) Stock Looks Reasonable On Earnings But Cheap On Cash Flow", // 职位
+        "description": "",
+        "summary": "Xiaomi stock has given investors a strong 3 year return, yet the current share price around HK$25.88 sits against an intrinsic value estimate from a Discounted Cash Flow (DCF) model that points to Xiaomi trading below that estimate, while traditional earnings based multiples suggest the shares are now closer to fair value. This split leaves investors weighing a DCF signal of potential undervaluation against a more neutral read from standard market ratios. Xiaomi has returned 128.6% over the...",
+        "pubDate": "2026-08-17T12:09:35Z",
+        "displayTime": "2026-08-17T12:09:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mVf25IQQuuiISCxGomtKbA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0EJEZGRiLoIcYLltf0Z9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-sehk-1810-stock-looks-120935641.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-sehk-1810-stock-looks-120935641.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+      "content": {
+        "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+        "contentType": "STORY",
+        "title": "CXMT’s Rise to China’s Most Valuable Firm Heralds New Tech Era", // 职位
+        "description": "",
+        "summary": "CXMT Corp.’s ascent to the pinnacle of Chinese markets heralds a potentially consequential shift away from private-sector giants toward a new generation of hardware companies more closely aligned with Beijing’s strategic ambitions.",
+        "pubDate": "2026-08-17T01:07:38Z",
+        "displayTime": "2026-08-17T01:07:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1485,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Lt2Kg36xM1MI1tZgOTUMEA--~B/aD0xNDg1O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 2010,
+              "height": 1485,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sH66uoNI_zUloiBB0XpBDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "090d31cc-385f-34e5-9595-90d0902a25b7",
+      "content": {
+        "id": "090d31cc-385f-34e5-9595-90d0902a25b7",
+        "contentType": "STORY",
+        "title": "Alibaba, Baidu, Kuaishou Address Mounting AI Costs as Competition Intensifies", // 职位
+        "description": "",
+        "summary": "Alibaba Group Holding Ltd., Baidu Inc. and Kuaishou Technology are the next big names in tech that will have to address concerns over the mounting financial costs needed to sustain intense AI competition.",
+        "pubDate": "2026-08-17T01:04:00Z",
+        "displayTime": "2026-08-17T01:04:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1383,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LgUnmvW6fcbek7ayfCUuGA--~B/aD0xMzgzO3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+              "width": 2010,
+              "height": 1383,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ljUIcxhCQqRp6o6ECfuYfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-kuaishou-address-mounting-010400663.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-kuaishou-address-mounting-010400663.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1c540bb7-45e5-3b21-b93a-6e20754c339b",
+      "content": {
+        "id": "1c540bb7-45e5-3b21-b93a-6e20754c339b",
+        "contentType": "STORY",
+        "title": "Xiaomi (SEHK:1810) Faces A Valuation Test, Is It 38% Undervalued?", // 职位
+        "description": "",
+        "summary": "Xiaomi (SEHK:1810) has drawn investor attention after recent share price weakness, with the stock down over the past month and past 3 months. This has sharpened focus on its mixed return profile. See our latest analysis for Xiaomi. Over the past year, Xiaomi’s share price return and total shareholder return have both moved lower, with the share price down 36.4% year to date and 16.4% over 90 days. This suggests recent momentum has been fading despite a much stronger 3 year total shareholder...",
+        "pubDate": "2026-08-17T00:14:35Z",
+        "displayTime": "2026-08-17T00:14:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mVf25IQQuuiISCxGomtKbA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0EJEZGRiLoIcYLltf0Z9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4ede54afa2108a12bdee07c0b0d94a59.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-sehk-1810-faces-valuation-001435675.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-sehk-1810-faces-valuation-001435675.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1bd3ac7d-b1ab-352c-a8d3-809d4c96ec0a",
+      "content": {
+        "id": "1bd3ac7d-b1ab-352c-a8d3-809d4c96ec0a",
+        "contentType": "STORY",
+        "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around", // 职位
+        "description": "",
+        "summary": "Waymo has imported 3,200 Zeekr cars from China since 2024 through the Port of Los Angeles. Most of those vehicles were imported this year.",
+        "pubDate": "2026-08-16T16:30:00Z",
+        "displayTime": "2026-08-16T16:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "A photo of a Waymo Zeekr car",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6agIksZzlpgpzs2h5t50aQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u800erPUG210wvLaJJpTxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "57ddadc3-9501-3707-a554-9d6688a8480c",
+      "content": {
+        "id": "57ddadc3-9501-3707-a554-9d6688a8480c",
+        "contentType": "STORY",
+        "title": "Waymo doubles down on the cars America won’t let you buy", // 职位
+        "description": "",
+        "summary": "Trade barriers are supposed to be simple machines. You raise the price of a thing until buying it stops making sense, and the buying stops. Washington built one of the tallest of those walls in modern trade policy around Chinese electric vehicles, and by the only measure most people can see, it ...",
+        "pubDate": "2026-08-14T19:37:00Z",
+        "displayTime": "2026-08-14T19:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j7v3fxScPV2sMgw26vQJUQ--~B/aD0yODgwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+              "width": 3840,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/53kGzhchre3CMPnmMn9VSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/automotive/waymo-doubles-down-on-chinese-evs-america-wont-let-you-buy",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/waymo-doubles-down-cars-america-193700164.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b79e06ca-7a21-3071-aac9-d7533a40e19f",
+      "content": {
+        "id": "b79e06ca-7a21-3071-aac9-d7533a40e19f",
+        "contentType": "STORY",
+        "title": "Tesla's Model Y Loses China's Top Spot to Geely", // 职位
+        "description": "",
+        "summary": "Geely's much cheaper Xingyuan EV outsold Tesla's Model Y during the six months through July.",
+        "pubDate": "2026-08-12T13:14:17Z",
+        "displayTime": "2026-08-12T13:14:17Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-loses-chinas-131417175.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-loses-chinas-131417175.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "733d3c06-a206-34b2-a048-c4caeb2e81c8",
+      "content": {
+        "id": "733d3c06-a206-34b2-a048-c4caeb2e81c8",
+        "contentType": "VIDEO",
+        "title": "Mercedes Loses Ground in China's Premium Auto Market", // 职位
+        "description": "After decades of winning over Chinese buyers with its German engineering, Mercedes-Benz Group AG sold only 1,153 units in China in the first half of 2026, a fraction of the more than 80,000 similarly priced SU7 sedans Xiaomi Corp. delivered in the period. The performance echoes the challenges BMW AG, Volkswagen AG and Porsche AG face in China, where they all reported second-quarter sales declines of at least 30%, worse than the overall market's drop. Bloomberg's William Wilkes reports.",
+        "summary": "After decades of winning over Chinese buyers with its German engineering,&nbsp;Mercedes-Benz Group AG&nbsp;sold&nbsp;only&nbsp;1,153 units&nbsp;in China in the first half of 2026, a fraction of the more than 80,000 similarly priced SU7 sedans&nbsp;Xiaomi Corp.&nbsp;delivered in the period.&nbsp;The performance echoes the challenges&nbsp;BMW AG,&nbsp;Volkswagen AG&nbsp;and&nbsp;Porsche AG&nbsp;face in China, where they all reported second-quarter sales declines&nbsp;of&nbsp;at least 30%, worse than the overall market's&nbsp;drop.&nbsp;Bloomberg's William Wilkes reports.",
+        "pubDate": "2026-08-11T06:29:08Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_markets_video_2/c299bdc2737e579a1f4c02339cc1e8af",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8f87HaESLRXfNubUiEo1Ew--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_video_2/c299bdc2737e579a1f4c02339cc1e8af",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8bm7bZyy0vRSkz07iIwyNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/c299bdc2737e579a1f4c02339cc1e8af",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/",
+          "sourceId": "bloomberg_markets_video_2"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/mercedes-loses-ground-chinas-premium-062908560.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/mercedes-loses-ground-chinas-premium-062908560.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9ada4e71-25ea-3acf-b775-140eb94f3c16",
+      "content": {
+        "id": "9ada4e71-25ea-3acf-b775-140eb94f3c16",
+        "contentType": "STORY",
+        "title": "New players are shaking up the memory industry, but even Apple can’t strong-arm the RAM crisis for your wallet", // 职位
+        "description": "",
+        "summary": "Apple turned to CXMT for cheaper DRAM, only to discover that even its enormous order volumes no longer guarantee favorable pricing.",
+        "pubDate": "2026-08-09T19:29:15Z",
+        "displayTime": "2026-08-09T19:29:15Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/digital_trends_973/c201965443f8956e3f03011268ccc9c2.jpg",
+          "originalWidth": 1800,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5ZI4fI_OLsaYQdlyx5V1ow--~B/aD0xMDgwO3c9MTgwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/c201965443f8956e3f03011268ccc9c2.jpg",
+              "width": 1800,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9Wu26.Nq7QeFHYLOE_qoYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/digital_trends_973/c201965443f8956e3f03011268ccc9c2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Digital Trends",
+          "url": "https://www.digitaltrends.com/",
+          "sourceId": "digital_trends_973"
+        },
+        "canonicalUrl": {
+          "url": "https://www.digitaltrends.com/computing/new-players-are-shaking-up-the-memory-industry-but-even-apple-cant-strong-arm-the-ram-crisis-for-your-wallet/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/players-shaking-memory-industry-even-192915374.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8be5d90b-0590-3da3-8db1-eaa3c47c3924",
+      "content": {
+        "id": "8be5d90b-0590-3da3-8db1-eaa3c47c3924",
+        "contentType": "STORY",
+        "title": "Apple’s Capex Strategy Worked But Other Pressures Are Mounting Now", // 职位
+        "description": "",
+        "summary": "Apple just posted one of its strongest quarters in years, yet the stock tanked within the hour. The headline numbers hide a set of pressures that will force a definitive verdict next quarter.",
+        "pubDate": "2026-08-07T04:36:23Z",
+        "displayTime": "2026-08-07T04:36:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/5004e501ba7bdbd9f627ff3b7421b66c",
+          "originalWidth": 2560,
+          "originalHeight": 3446,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3aSz5pbqRXmgvTHs_QQ6mw--~B/aD0zNDQ2O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/5004e501ba7bdbd9f627ff3b7421b66c",
+              "width": 2560,
+              "height": 3446,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8e0an4SbP_5W6_Iy_.caAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5004e501ba7bdbd9f627ff3b7421b66c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/07/apples-capex-strategy-worked-but-other-pressures-are-mounting-now/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-capex-strategy-worked-other-043623052.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 26.239999771118164, // 当日最高价
+    "dayLow": 25.799999237060547, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 26.054399948120118, // 50日均价
+    "lastPrice": 25.8799991607666,
+    "lastVolume": 100097535,
+    "marketCap": 666153398048.0204, // 总市值
+    "open": 25.799999237060547, // 今日开盘价
+    "previousClose": 25.6200008392334, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 25.6200008392334, // 常规市场昨日收盘价
+    "shares": 25740085767,
+    "tenDayAverageVolume": 151855136,
+    "threeMonthAverageVolume": 189313153,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 33.64369998931885, // 200日均价
+    "yearChange": -0.5170593551802475,
+    "yearHigh": 59.900001525878906,
+    "yearLow": 21.299999237060547
+  },
+  "calendar": "{'Earnings Date': [datetime.date(2026, 8, 18)], 'Earnings High': 0.25, 'Earnings Low': 0.2, 'Earnings Average': 0.22951, 'Revenue High': 117381690170, 'Revenue Low': 103009000000, 'Revenue Average': 108822915420}" // 财报日历
+}

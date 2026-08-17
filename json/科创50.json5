@@ -1,0 +1,79 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 1717.6793, // 昨日收盘价
+    "open": 1721.5457, // 今日开盘价
+    "dayLow": 1718.6051, // 当日最低价
+    "dayHigh": 1788.8502, // 当日最高价
+    "regularMarketPreviousClose": 1717.6793, // 常规市场昨日收盘价
+    "regularMarketOpen": 1721.5457, // 常规市场今日开盘价
+    "regularMarketDayLow": 1718.6051, // 常规市场当日最低价
+    "regularMarketDayHigh": 1788.8502, // 常规市场当日最高价
+    "volume": 1084756500, // 成交量
+    "regularMarketVolume": 1084756500, // 常规市场成交量
+    "fiftyTwoWeekLow": 1718.6051, // 52周最低价
+    "fiftyTwoWeekHigh": 1788.8502, // 52周最高价
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "INDEX", // 报价类型
+    "symbol": "000688.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Index", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "marketState": "POSTPOST", // 市场状态
+    "shortName": "SSE Science and Technology Inno", // 公司简称
+    "longName": "SSE Science and Technology Inno", // 公司正式名称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950024, // 常规市场时间戳
+    "exchange": "SHH", // 交易所代码
+    "messageBoardId": "finmb_INDEX000688.SS", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 4.1434336, // 常规市场变动百分比
+    "regularMarketPrice": 1788.8502, // 常规市场当前价格
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "regularMarketChange": 71.1709, // 常规市场价格变动
+    "regularMarketDayRange": "1718.6051 - 1788.8502", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "fiftyTwoWeekLowChange": 70.24512, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.040873334, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "1718.6051 - 1788.8502", // 52周价格范围
+    "fiftyTwoWeekHighChange": 0.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": 0.0, // 较52周高点的变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [], // 最新相关新闻
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 1788.8502197265625, // 当日最高价
+    "dayLow": 1718.6051025390625, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": null, // 50日均价
+    "lastPrice": 1788.8502197265625,
+    "lastVolume": 1084756500,
+    "marketCap": null, // 总市值
+    "open": 1721.545654296875, // 今日开盘价
+    "previousClose": 1717.500244140625, // 昨日收盘价
+    "quoteType": "INDEX", // 报价类型
+    "regularMarketPreviousClose": 1717.500244140625, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": null,
+    "threeMonthAverageVolume": null,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": null, // 200日均价
+    "yearChange": null,
+    "yearHigh": 1788.8502197265625,
+    "yearLow": 1718.6051025390625
+  },
+  "calendar": "{}" // 财报日历
+}

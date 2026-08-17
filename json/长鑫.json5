@@ -1,0 +1,656 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 55.18, // 昨日收盘价
+    "open": 55.6, // 今日开盘价
+    "dayLow": 55.5, // 当日最低价
+    "dayHigh": 61.8, // 当日最高价
+    "regularMarketPreviousClose": 55.18, // 常规市场昨日收盘价
+    "regularMarketOpen": 55.6, // 常规市场今日开盘价
+    "regularMarketDayLow": 55.5, // 常规市场当日最低价
+    "regularMarketDayHigh": 61.8, // 常规市场当日最高价
+    "volume": 566136754, // 成交量
+    "regularMarketVolume": 566136754, // 常规市场成交量
+    "averageVolume": 760477958, // 平均成交量
+    "averageVolume10days": 484596001, // 10日平均成交量
+    "averageDailyVolume10Day": 484596001, // 10日日均成交量
+    "bid": 61.8, // 买入价
+    "ask": 61.81, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "nonDilutedMarketCap": 3690487293728, // 非稀释市值
+    "fiftyTwoWeekLow": 38.11, // 52周最低价
+    "fiftyTwoWeekHigh": 61.8, // 52周最高价
+    "allTimeHigh": 60.6, // 历史最高价
+    "allTimeLow": 38.11, // 历史最低价
+    "fiftyDayAverage": 52.52, // 50日均价
+    "twoHundredDayAverage": 52.52, // 200日均价
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "EQUITY", // 报价类型
+    "symbol": "688825.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "CXMT CORPORATION", // 公司简称
+    "marketState": "POSTPOST", // 市场状态
+    "regularMarketChange": 6.619999, // 常规市场价格变动
+    "regularMarketDayRange": "55.5 - 61.8", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "averageDailyVolume3Month": 760477958, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 23.689999, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.62162155, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "38.11 - 61.8", // 52周价格范围
+    "fiftyTwoWeekHighChange": 0.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": 0.0, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 12.612247, // 52周价格变动百分比
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950002, // 常规市场时间戳
+    "exchange": "SHH", // 交易所代码
+    "messageBoardId": "finmb_694654663", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 11.997099, // 常规市场变动百分比
+    "regularMarketPrice": 61.8, // 常规市场当前价格
+    "fiftyDayAverageChange": 9.279999, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.17669457, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 9.279999, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.17669457, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1785115800000, // 首次交易日期时间戳
+    "trailingPegRatio": 0.2339 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "c3b03332-ba3d-3bfb-95df-17cc37f1a6e9",
+      "content": {
+        "id": "c3b03332-ba3d-3bfb-95df-17cc37f1a6e9",
+        "contentType": "STORY",
+        "title": "Micron rises as White House presses Apple to avoid Chinese memory chips", // 职位
+        "description": "",
+        "summary": "Micron is the direct beneficiary of Washington’s stance: a U.S. Commerce Department block on Apple sourcing DRAM from China’s ChangXin Memory Technologies (CXMT) effectively funnels Apple back toward domestic and allied suppliers, with Micron as the leading American producer.",
+        "pubDate": "2026-08-17T13:14:50Z",
+        "displayTime": "2026-08-17T13:14:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/micron-rises-white-house-presses-131450433.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/micron-rises-white-house-presses-131450433.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+      "content": {
+        "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+        "contentType": "STORY",
+        "title": "CXMT’s Rise to China’s Most Valuable Firm Heralds New Tech Era", // 职位
+        "description": "",
+        "summary": "CXMT Corp.’s ascent to the pinnacle of Chinese markets heralds a potentially consequential shift away from private-sector giants toward a new generation of hardware companies more closely aligned with Beijing’s strategic ambitions.",
+        "pubDate": "2026-08-17T01:07:38Z",
+        "displayTime": "2026-08-17T01:07:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1485,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Lt2Kg36xM1MI1tZgOTUMEA--~B/aD0xNDg1O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 2010,
+              "height": 1485,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sH66uoNI_zUloiBB0XpBDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9098eee1-efee-3b7f-bc4c-758a5bd7315f",
+      "content": {
+        "id": "9098eee1-efee-3b7f-bc4c-758a5bd7315f",
+        "contentType": "STORY",
+        "title": "U.S. presses Apple to avoid Chinese memory chips amid shortage - WSJ reports", // 职位
+        "description": "",
+        "summary": "Investing.com -- The Trump administration has urged Apple (NASDAQ:AAPL) not to purchase memory chips from Chinese manufacturers as the iPhone maker seeks supplies amid an AI-driven shortage, the Wall Street Journal reported exclusively on Friday.",
+        "pubDate": "2026-08-15T09:25:22Z",
+        "displayTime": "2026-08-15T09:25:22Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "88fda506-3568-330b-a102-09cfe068a21e",
+      "content": {
+        "id": "88fda506-3568-330b-a102-09cfe068a21e",
+        "contentType": "STORY",
+        "title": "U.S. Urges Apple Not to Buy Chinese Memory Chips", // 职位
+        "description": "",
+        "summary": "Commerce Secretary Howard Lutnick urged the iPhone maker to find other solutions to the AI-driven chip supply crunch.",
+        "pubDate": "2026-08-15T01:00:00Z",
+        "displayTime": "2026-08-15T01:00:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/88fda506-3568-330b-a102-09cfe068a21e/u-s-urges-apple-not-to-buy.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/4a59bb290e762b621e406919145b9068.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mSt.6TnM7HB4GfmPWgYO.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/4a59bb290e762b621e406919145b9068.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/f_2bY1aJcYuwNyw_gPvAEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4a59bb290e762b621e406919145b9068.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+      "content": {
+        "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+        "contentType": "STORY",
+        "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet", // 职位
+        "description": "",
+        "summary": "Chinese tech firms’ early earnings are giving hardware stocks renewed momentum, while internet platforms still struggle to show a full consumer‑demand recovery.",
+        "pubDate": "2026-08-14T03:54:06Z",
+        "displayTime": "2026-08-14T03:54:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EoTwto.xSQTHTiS1lZvVEQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6waSA8jFYtQOph3xQr.nGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3c0f4064-ce6a-3e22-96da-2062012dc915",
+      "content": {
+        "id": "3c0f4064-ce6a-3e22-96da-2062012dc915",
+        "contentType": "STORY",
+        "title": "China’s CSI 300 Set to Lose Appeal Before Adding CXMT, BI Says", // 职位
+        "description": "",
+        "summary": "China’s CSI 300 Index risks losing its appeal as the nation’s key benchmark until it includes memory giant CXMT Corp., an event that’s unlikely to happen until the end of 2027, according to Bloomberg Intelligence.",
+        "pubDate": "2026-08-14T00:11:53Z",
+        "displayTime": "2026-08-14T00:11:53Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/0ddbf8b8a2c7efc729154f9e820e1113.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ktopQDhHmin2VDAt62nyyg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_holding_pen_162/0ddbf8b8a2c7efc729154f9e820e1113.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8PjpegBs0wfObC7uxLxKGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/0ddbf8b8a2c7efc729154f9e820e1113.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/china-csi-300-set-lose-001153973.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/china-csi-300-set-lose-001153973.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4ba7238a-4a43-3040-b95c-8e0584e9aa0d",
+      "content": {
+        "id": "4ba7238a-4a43-3040-b95c-8e0584e9aa0d",
+        "contentType": "STORY",
+        "title": "Micron Faces a New Burry Bet as China Memory Pressure Builds", // 职位
+        "description": "",
+        "summary": "Rising Chinese supply adds to bearish pressure.",
+        "pubDate": "2026-08-13T16:57:51Z",
+        "displayTime": "2026-08-13T16:57:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-faces-burry-bet-china-165751045.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-faces-burry-bet-china-165751045.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e8ec4ea9-afa6-35a4-962f-36de13e3e7eb",
+      "content": {
+        "id": "e8ec4ea9-afa6-35a4-962f-36de13e3e7eb",
+        "contentType": "STORY",
+        "title": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain", // 职位
+        "description": "",
+        "summary": "Apple Inc. (NASDAQ:AAPL) is testing DRAM chips from China’s ChangXin Memory Technologies (CXMT) across several product lines, including iPhones and MacBooks. The move comes as Apple deals with a tight memory supply market driven by strong demand from the artificial intelligence industry. At the same time, Apple has held early discussions with CXMT about supplying […]",
+        "pubDate": "2026-08-12T20:19:46Z",
+        "displayTime": "2026-08-12T20:19:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7Cj1HPlnFcqrxE322BvBAA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f.jpg",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WoEUEt9jdr96f0OmAnoLGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-cxmt-bet-could-strengthen-201946243.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-cxmt-bet-could-strengthen-201946243.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
+      "content": {
+        "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
+        "contentType": "STORY",
+        "title": "Apple is testing Chinese DRAM even after CXMT refused to cut prices", // 职位
+        "description": "",
+        "summary": "Apple is reportedly testing CXMT memory across products including iPhones and MacBooks, even after the Chinese supplier refused to offer the cheaper DRAM pricing Apple wanted.",
+        "pubDate": "2026-08-12T13:22:41Z",
+        "displayTime": "2026-08-12T13:22:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3sVbXNFLy7tLisNO0F2EDA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zWGkQzVRmYPsyRPLNgTm1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Digital Trends",
+          "url": "https://www.digitaltrends.com/",
+          "sourceId": "digital_trends_973"
+        },
+        "canonicalUrl": {
+          "url": "https://www.digitaltrends.com/computing/apple-is-testing-chinese-dram-even-after-cxmt-refused-to-cut-prices/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-testing-chinese-dram-even-132241349.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4c91c2d8-7087-37b4-924b-3fb2c0826ee8",
+      "content": {
+        "id": "4c91c2d8-7087-37b4-924b-3fb2c0826ee8",
+        "contentType": "STORY",
+        "title": "Apple reportedly testing Chinese-made memory chips for iPhones, MacBooks amid global shortage", // 职位
+        "description": "",
+        "summary": "Apple is reportedly testing CXMT memory chips for iPhones and MacBooks sold in China but needs White House approval under U.S. restrictions.",
+        "pubDate": "2026-08-10T18:15:47Z",
+        "displayTime": "2026-08-10T18:15:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa",
+          "originalWidth": 1200,
+          "originalHeight": 630,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uirgvwmuiLPMKVmGoXOeiw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa",
+              "width": 1200,
+              "height": 630,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WQKYOPrao2xTBt5BwnzJsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fox Business",
+          "url": "https://www.foxbusiness.com/",
+          "sourceId": "fox_business_text_367"
+        },
+        "canonicalUrl": {
+          "url": "https://www.foxbusiness.com/markets/apple-testing-chinese-made-cxmt-memory-chips-iphones-macbooks-amid-global-shortage",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-reportedly-testing-chinese-made-181547544.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 61.79999923706055, // 当日最高价
+    "dayLow": 55.5, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": 52.52000020345052, // 50日均价
+    "lastPrice": 61.79999923706055,
+    "lastVolume": 566136754,
+    "marketCap": null, // 总市值
+    "open": 55.599998474121094, // 今日开盘价
+    "previousClose": 55.060001373291016, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 55.18000030517578, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": 484596001,
+    "threeMonthAverageVolume": 760477958,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 52.52000020345052, // 200日均价
+    "yearChange": 0.12612245520766902,
+    "yearHigh": 60.599998474121094,
+    "yearLow": 38.11000061035156
+  },
+  "calendar": "{'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': None, 'Revenue Low': None, 'Revenue Average': None}" // 财报日历
+}

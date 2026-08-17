@@ -10,13 +10,16 @@
 my-python/
 ├── core/                # 核心逻辑文件夹
 │   ├── config.py        # 配置文件：包含股票列表、微信联系人和时间设置
-│   └── reporting.py     # 核心功能：数据抓取、格式化、微信发送逻辑
+│   ├── reporting.py     # 核心功能：数据抓取、格式化、微信发送逻辑
+│   └── utils.py         # 辅助工具：数据导出等通用类
 ├── jobs/                # 定时任务文件夹（独立脚本）
 │   ├── daily_job.py     # 每日价格播报任务
 │   ├── yearly_job.py    # 年度资产播报任务
-│   └── market_cap_job.py # 市值排行播报任务
+│   ├── market_cap_job.py # 市值排行播报任务
+│   └── export_tickers_job.py # 批量导出股票数据任务
 ├── tests/               # 测试文件夹
-│   └── test_reporting.py # 单元测试，确保逻辑正确
+│   ├── test_reporting.py # 单元测试
+│   └── test_utils.py    # 工具类测试
 ├── examples/            # 示例与旧代码存根（学习参考）
 ├── main.py              # 项目总入口：同时运行所有定时任务
 ├── requirements.txt     # 项目依赖列表
@@ -42,6 +45,10 @@ my-python/
    - 如果你只想运行**某个特定任务**（例如今日播报）：
      ```bash
      python jobs/daily_job.py
+     ```
+   - 如果你想**批量导出所有股票数据**为 JSON5 文件：
+     ```bash
+     python jobs/export_tickers_job.py
      ```
 
 ## 📚 学习要点

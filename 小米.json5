@@ -1,0 +1,258 @@
+{
+  "address1": "Xiaomi Campus", // 地址1
+  "address2": "Anningzhuang Road Haidian District", // 地址2
+  "city": "Beijing", // 城市
+  "country": "China", // 国家
+  "website": "https://www.mi.com", // 官方网站
+  "industry": "Consumer Electronics", // 行业
+  "industryKey": "consumer-electronics", // 行业键
+  "industryDisp": "Consumer Electronics", // 行业显示名称
+  "sector": "Technology", // 板块
+  "sectorKey": "technology", // 板块键
+  "sectorDisp": "Technology", // 板块显示名称
+  // 公司业务摘要
+  "longBusinessSummary": "Xiaomi Corporation, an investment holding company, engages in the development and sales of smartphones in Mainland China and internationally. It operates through Smartphones, IoT and Lifestyle Products, Internet Services, and smart electric vehicles segments. The company also offers internet of things (IoT) and lifestyle products comprising smart large home appliances, smart TVs, tablets, wearables and other IoT and lifestyle products; hardware repairment services for products; installation services for certain IoT products; and sale of materials. In addition, it provides internet services, such as advertising, online game, and fintech services; and development, manufacture, and sales of smart electric vehicles. Further, the company in the wholesale and retail of smartphones and ecosystem partners' products; investment activities; sales of smart hardware; software and hardware development; procurement and sales of smartphones, ecosystem partners' products and spare parts, and raw materials; operation of retail stores; and commercial factoring and e-commerce business. Additionally, it provides intra-group capital supervision, collection, remittance, credit guarantee, and interest rate risk management; customer; software related; promotion; electronic payment technology; and technical services. Xiaomi Corporation was incorporated in 2010 and is headquartered in Beijing, the People's Republic of China.",
+  "fullTimeEmployees": 55994, // 全职员工人数
+  "companyOfficers": [ // 公司高管
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Jun  Lei", // 姓名
+      "age": 56, // 年龄
+      "title": "Founder, Chairman & CEO", // 职位
+      "yearBorn": 1969, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Bin  Lin", // 姓名
+      "age": 57, // 年龄
+      "title": "Co-Founder & Vice Chairman", // 职位
+      "yearBorn": 1968, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. De  Liu", // 姓名
+      "age": 52, // 年龄
+      "title": "Co-Founder, SVP, Head of Organization Department & Executive Director", // 职位
+      "yearBorn": 1973, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Weibing  Lu", // 姓名
+      "age": 49, // 年龄
+      "title": "Partner, President of the Group & President of the International Business Department", // 职位
+      "yearBorn": 1976, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Wanqiang  Li", // 姓名
+      "age": 48, // 年龄
+      "title": "Co-founder, Senior VP & Brand Strategy Officer", // 职位
+      "yearBorn": 1977, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Sai Wai  Lam", // 姓名
+      "age": 50, // 年龄
+      "title": "Vice President & CFO", // 职位
+      "yearBorn": 1975, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Sudhin  Mathur", // 姓名
+      "title": "Chief Operating Officer", // 职位
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Anita  Chan", // 姓名
+      "title": "Head of Investor Relations & Corporate Finance", // 职位
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Mr. Hao  Liu", // 姓名
+      "title": "Joint Company Secretary & Legal Director", // 职位
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    },
+    {
+      "maxAge": 1, // 数据最大有效时长
+      "name": "Ms. Yan  Qi", // 姓名
+      "age": 76, // 年龄
+      "title": "Senior VP of Leading Platform, Internal Operations & Public Affairs", // 职位
+      "yearBorn": 1949, // 出生年份
+      "fiscalYear": 2025, // 财年
+      "exercisedValue": 0, // 已行权价值
+      "unexercisedValue": 0 // 未行权价值
+    }
+  ],
+  "auditRisk": 1, // 审计风险
+  "boardRisk": 8, // 董事会风险
+  "compensationRisk": 10, // 薪酬风险
+  "shareHolderRightsRisk": 10, // 股东权益风险
+  "overallRisk": 10, // 综合风险
+  "governanceEpochDate": 1785542400, // 治理数据时间戳
+  "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+  "executiveTeam": [], // 执行团队
+  "maxAge": 86400, // 数据最大有效时长
+  "priceHint": 3, // 价格小数位提示
+  "previousClose": 25.62, // 昨日收盘价
+  "open": 25.8, // 今日开盘价
+  "dayLow": 25.8, // 当日最低价
+  "dayHigh": 26.24, // 当日最高价
+  "regularMarketPreviousClose": 25.62, // 常规市场昨日收盘价
+  "regularMarketOpen": 25.8, // 常规市场今日开盘价
+  "regularMarketDayLow": 25.8, // 常规市场当日最低价
+  "regularMarketDayHigh": 26.24, // 常规市场当日最高价
+  "payoutRatio": 0.0, // 股利支付率
+  "beta": 0.722, // 贝塔系数
+  "trailingPE": 14.298343, // 滚动市盈率 (TTM)
+  "forwardPE": 15.746475, // 预测市盈率
+  "volume": 100097535, // 成交量
+  "regularMarketVolume": 100097535, // 常规市场成交量
+  "averageVolume": 189904624, // 平均成交量
+  "averageVolume10days": 151855136, // 10日平均成交量
+  "averageDailyVolume10Day": 151855136, // 10日日均成交量
+  "bid": 25.9, // 买入价
+  "ask": 25.9, // 卖出价
+  "bidSize": 0, // 买盘量
+  "askSize": 0, // 卖盘量
+  "marketCap": 666153385984, // 总市值
+  "nonDilutedMarketCap": 659460997350, // 非稀释市值
+  "fiftyTwoWeekLow": 21.3, // 52周最低价
+  "fiftyTwoWeekHigh": 59.9, // 52周最高价
+  "allTimeHigh": 61.45, // 历史最高价
+  "allTimeLow": 8.28, // 历史最低价
+  "priceToSalesTrailing12Months": 1.49652, // 市销率 (TTM)
+  "fiftyDayAverage": 26.0544, // 50日均价
+  "twoHundredDayAverage": 33.2287, // 200日均价
+  "trailingAnnualDividendRate": 0.0, // 年度股息率
+  "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+  "currency": "HKD", // 交易货币
+  "tradeable": false, // 是否可交易
+  "enterpriseValue": 597596241920, // 企业价值 (EV)
+  "profitMargins": 0.079619996, // 利润率
+  "floatShares": 17216934578, // 流通股本
+  "sharesOutstanding": 21310849139, // 发行在外股份总数
+  "heldPercentInsiders": 0.20488001, // 内部人士持股比例
+  "heldPercentInstitutions": 0.27211002, // 机构持股比例
+  "impliedSharesOutstanding": 25740085767, // 隐含发行在外股份
+  "bookValue": 12.0061655, // 每股净资产
+  "priceToBook": 2.155559, // 市净率 (P/B)
+  "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+  "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+  "mostRecentQuarter": 1774915200, // 最近一个季度日
+  "earningsQuarterlyGrowth": -0.568, // 季度盈利增长
+  "netIncomeToCommon": 35442188288, // 归属于普通股股东的净利润
+  "trailingEps": 1.81, // 滚动每股收益 (EPS TTM)
+  "forwardEps": 1.6435424, // 预测每股收益
+  "pegRatio": 2.76, // PEG比率
+  "enterpriseToRevenue": 1.343, // 企业价值/营收比
+  "enterpriseToEbitda": 17.739, // 企业价值/EBITDA比
+  "52WeekChange": -0.5170594, // 52周价格变动
+  "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+  "quoteType": "EQUITY", // 报价类型
+  "currentPrice": 25.88, // 当前价格
+  "targetHighPrice": 79.89638, // 目标最高价
+  "targetLowPrice": 19.152372, // 目标最低价
+  "targetMeanPrice": 38.137035, // 目标平均价
+  "targetMedianPrice": 37.052822, // 目标中位价
+  "recommendationMean": 1.80645, // 建议平均值
+  "recommendationKey": "buy", // 推荐评级
+  "numberOfAnalystOpinions": 29, // 分析师人数
+  "totalCash": 98225414144, // 现金总额
+  "totalCashPerShare": 3.811, // 每股现金
+  "ebitda": 33688143872, // EBITDA
+  "totalDebt": 35367235584, // 总债务
+  "quickRatio": 0.66, // 速动比率
+  "currentRatio": 1.367, // 流动比率
+  "totalRevenue": 445134962688, // 总营收
+  "debtToEquity": 13.294, // 债务权益比
+  "revenuePerShare": 17.214, // 每股营收
+  "returnOnAssets": 0.03519, // 资产回报率 (ROA)
+  "returnOnEquity": 0.13996, // 权益回报率 (ROE)
+  "grossProfits": 98210054144, // 毛利润
+  "freeCashflow": 7767308288, // 自由现金流
+  "operatingCashflow": 27840874496, // 经营现金流
+  "earningsGrowth": -0.581, // 盈利增长
+  "revenueGrowth": -0.109, // 营收增长
+  "grossMargins": 0.22062999, // 毛利率
+  "ebitdaMargins": 0.075679995, // EBITDA利润率
+  "operatingMargins": 0.04459, // 营业利润率
+  "financialCurrency": "CNY", // 财务报表货币
+  "symbol": "1810.HK", // 股票代码
+  "language": "en-US", // 语言
+  "region": "US", // 地区
+  "typeDisp": "Equity", // 资产类型显示
+  "quoteSourceName": "Delayed Quote", // 报价来源
+  "triggerable": false, // 是否可触发
+  "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+  "exchange": "HKG", // 交易所代码
+  "messageBoardId": "finmb_320396288", // 留言板ID
+  "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+  "exchangeTimezoneShortName": "HKT", // 时区简称
+  "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+  "market": "hk_market", // 市场类别
+  "esgPopulated": false, // 是否填充ESG数据
+  "hasPrePostMarketData": false, // 是否有盘前盘后数据
+  "firstTradeDateMilliseconds": 1531099800000, // 首次交易日期时间戳
+  "regularMarketChange": 0.25999832, // 常规市场价格变动
+  "regularMarketDayRange": "25.8 - 26.24", // 常规市场当日价格范围
+  "fullExchangeName": "HKSE", // 交易所全称
+  "averageDailyVolume3Month": 189904624, // 3个月日均成交量
+  "fiftyTwoWeekLowChange": 4.58, // 较52周低点的变动
+  "fiftyTwoWeekLowChangePercent": 0.21502347, // 较52周低点的变动百分比
+  "fiftyTwoWeekRange": "21.3 - 59.9", // 52周价格范围
+  "fiftyTwoWeekHighChange": -34.020004, // 较52周高点的变动
+  "fiftyTwoWeekHighChangePercent": -0.5679466, // 较52周高点的变动百分比
+  "fiftyTwoWeekChangePercent": -51.70594, // 52周价格变动百分比
+  "longName": "Xiaomi Corporation", // 公司正式名称
+  "regularMarketChangePercent": 1.0148256, // 常规市场变动百分比
+  "regularMarketPrice": 25.88, // 常规市场当前价格
+  "shortName": "XIAOMI-W", // 公司简称
+  "earningsTimestamp": 1787040600, // 财报时间戳
+  "earningsTimestampStart": 1787040600, // 财报发布起始时间戳
+  "earningsTimestampEnd": 1787040600, // 财报发布截止时间戳
+  "earningsCallTimestampStart": 1787040600, // 财报电话会议起始时间戳
+  "earningsCallTimestampEnd": 1787040600, // 财报电话会议截止时间戳
+  "isEarningsDateEstimate": false, // 财报日期是否为估计值
+  "epsTrailingTwelveMonths": 1.81, // 过去12个月每股收益
+  "epsForward": 1.6435424, // 预测每股收益
+  "epsCurrentYear": 1.01572, // 本年度每股收益
+  "priceEpsCurrentYear": 25.479462, // 本年度股价/EPS比
+  "fiftyDayAverageChange": -0.17440033, // 50日均价变动
+  "fiftyDayAverageChangePercent": -0.0066937, // 50日均价变动百分比
+  "twoHundredDayAverageChange": -7.3486996, // 200日均价变动
+  "twoHundredDayAverageChangePercent": -0.2211552, // 200日均价变动百分比
+  "sourceInterval": 15, // 数据源更新间隔
+  "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+  "averageAnalystRating": "1.8 - Buy", // 平均分析师评级
+  "cryptoTradeable": false, // 是否支持加密货币交易
+  "marketState": "POSTPOST", // 市场状态
+  "corporateActions": [], // 公司行为
+  "regularMarketTime": 1786954107, // 常规市场时间戳
+  "trailingPegRatio": 2.7583 // 滚动PEG比率
+}

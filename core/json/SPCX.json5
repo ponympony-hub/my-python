@@ -1,0 +1,820 @@
+{
+  "info": {
+    "address1": "1 Rocket Road", // 地址1
+    "city": "Starbase", // 城市
+    "state": "TX",
+    "zip": "78521", // 邮编
+    "country": "United States", // 国家
+    "phone": "310 363 6000", // 电话
+    "website": "https://www.spacex.com", // 官方网站
+    "industry": "Aerospace & Defense", // 行业
+    "industryKey": "aerospace-defense", // 行业键
+    "industryDisp": "Aerospace & Defense", // 行业显示名称
+    "sector": "Industrials", // 板块
+    "sectorKey": "industrials", // 板块键
+    "sectorDisp": "Industrials", // 板块显示名称
+    "longBusinessSummary": "Space Exploration Technologies Corp. provides satellite-based broadband services in the United States, Ireland, Canada, and internationally. It operates through three operating segments: Space, Connectivity, and AI. The Space segment designs, manufactures, and launches reusable rockets to provide access to space. It also provides launch services for the deployment of payloads to intended orbits for commercial and government customers utilizing Falcon 9 and Falcon Heavy; and engages in the launch and development for the development of spacecraft and the provision of launch and mission services for government agency space programs utilizing Falcon 9, Falcon Heavy, Starship, and Dragon. Its company's Connectivity segment operates broadband data and communications network by various Starlink satellites in low-earth orbit, delivering connectivity to various consumers, enterprise, and government customers. The company's AI segment operates a vertically integrated AI platform spanning a frontier LLM Grok; AI solutions for consumer and enterprise customers; X, a real-time information, entertainment, and free speech platform; and AI computational infrastructure. Space Exploration Technologies Corp. was incorporated in 2002 and is based in Starbase, Texas.", // 公司业务摘要
+    "fullTimeEmployees": 21000, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Elon R. Musk", // 姓名
+        "age": 54, // 年龄
+        "title": "Founder & CEO", // 职位
+        "yearBorn": 1971, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 54080,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Gwynne E. Shotwell", // 姓名
+        "age": 61, // 年龄
+        "title": "President & COO", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1110222,
+        "exercisedValue": 44800664, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Bret W. Johnsen", // 姓名
+        "age": 56, // 年龄
+        "title": "CFO & Secretary", // 职位
+        "yearBorn": 1969, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 825000,
+        "exercisedValue": 41906656, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Michael  Sagan", // 姓名
+        "title": "Senior Director of Legal", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Timothy R. Hughes", // 姓名
+        "title": "Senior VP of Global Business & Government Affairs", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Richard J. Lee", // 姓名
+        "title": "Treasurer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 140.0, // 昨日收盘价
+    "open": 139.975, // 今日开盘价
+    "dayLow": 139.58, // 当日最低价
+    "dayHigh": 149.68, // 当日最高价
+    "regularMarketPreviousClose": 140.0, // 常规市场昨日收盘价
+    "regularMarketOpen": 139.975, // 常规市场今日开盘价
+    "regularMarketDayLow": 139.58, // 常规市场当日最低价
+    "regularMarketDayHigh": 149.68, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "forwardPE": 102.73432, // 预测市盈率
+    "volume": 50672488, // 成交量
+    "regularMarketVolume": 50671799, // 常规市场成交量
+    "averageVolume": 122147793, // 平均成交量
+    "averageVolume10days": 158305690, // 10日平均成交量
+    "averageDailyVolume10Day": 158305690, // 10日日均成交量
+    "bid": 141.12, // 买入价
+    "ask": 142.38, // 卖出价
+    "bidSize": 2, // 买盘量
+    "askSize": 4, // 卖盘量
+    "marketCap": 1939420872704, // 总市值
+    "nonDilutedMarketCap": 1845449192300, // 非稀释市值
+    "fiftyTwoWeekLow": 104.83, // 52周最低价
+    "fiftyTwoWeekHigh": 225.64, // 52周最高价
+    "allTimeHigh": 225.64, // 历史最高价
+    "allTimeLow": 104.83, // 历史最低价
+    "priceToSalesTrailing12Months": 84.11379, // 市销率 (TTM)
+    "fiftyDayAverage": 141.80887, // 50日均价
+    "twoHundredDayAverage": 141.80887, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 3630597406720, // 企业价值 (EV)
+    "profitMargins": -0.35661998, // 利润率
+    "floatShares": 408371543, // 流通股本
+    "sharesOutstanding": 7696293669, // 发行在外股份总数
+    "sharesShort": 207781764,
+    "sharesShortPriorMonth": 111298613,
+    "sharesShortPreviousMonthDate": 1782777600,
+    "dateShortInterest": 1785456000,
+    "sharesPercentSharesOut": 0.015800001,
+    "heldPercentInsiders": 0.19925, // 内部人士持股比例
+    "heldPercentInstitutions": 0.4124, // 机构持股比例
+    "shortRatio": 2.85,
+    "shortPercentOfFloat": 0.033,
+    "impliedSharesOutstanding": 13181779945, // 隐含发行在外股份
+    "bookValue": 9.656, // 每股净资产
+    "priceToBook": 15.237044, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "netIncomeToCommon": -8888999936, // 归属于普通股股东的净利润
+    "trailingEps": -1.11, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 1.43213, // 预测每股收益
+    "enterpriseToRevenue": 157.551, // 企业价值/营收比
+    "enterpriseToEbitda": 615.669, // 企业价值/EBITDA比
+    "52WeekChange": -0.13016462, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 147.13, // 当前价格
+    "targetHighPrice": 800.0, // 目标最高价
+    "targetLowPrice": 62.0, // 目标最低价
+    "targetMeanPrice": 227.0, // 目标平均价
+    "targetMedianPrice": 200.0, // 目标中位价
+    "recommendationMean": 1.68571, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 17, // 分析师人数
+    "totalCash": 100009000960, // 现金总额
+    "totalCashPerShare": 3.793, // 每股现金
+    "ebitda": 5896999936, // EBITDA
+    "totalDebt": 39708000256, // 总债务
+    "quickRatio": 4.949, // 速动比率
+    "currentRatio": 5.115, // 流动比率
+    "totalRevenue": 23043999744, // 总营收
+    "debtToEquity": 31.211, // 债务权益比
+    "revenuePerShare": 5.888, // 每股营收
+    "grossProfits": 11953999872, // 毛利润
+    "operatingCashflow": 9900000256, // 经营现金流
+    "revenueGrowth": 0.919, // 营收增长
+    "grossMargins": 0.51875, // 毛利率
+    "ebitdaMargins": 0.2559, // EBITDA利润率
+    "operatingMargins": -0.01804, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "SPCX", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Nasdaq Real Time Price", // 报价来源
+    "triggerable": true, // 是否可触发
+    "customPriceAlertConfidence": "HIGH", // 自定义价格警报信心度
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786977585, // 常规市场时间戳
+    "exchange": "NMS", // 交易所代码
+    "messageBoardId": "finmb_7702894", // 留言板ID
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 5.092076, // 常规市场变动百分比
+    "regularMarketPrice": 147.1289, // 常规市场当前价格
+    "hasPrePostMarketData": true, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1781271000000, // 首次交易日期时间戳
+    "fiftyTwoWeekChangePercent": -13.016462, // 52周价格变动百分比
+    "earningsTimestamp": 1785873600, // 财报时间戳
+    "earningsTimestampStart": 1793736000, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1793736000, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1785873600, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1785873600, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": true, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": -1.11, // 过去12个月每股收益
+    "epsForward": 1.43213, // 预测每股收益
+    "epsCurrentYear": 0.375, // 本年度每股收益
+    "priceEpsCurrentYear": 392.34375, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 5.320038, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.03751555, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 5.320038, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.03751555, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 0, // 交易所数据延迟（分钟）
+    "ipoExpectedDate": "2026-06-12",
+    "averageAnalystRating": "1.7 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "marketState": "REGULAR", // 市场状态
+    "shortName": "Space Exploration Technologies ", // 公司简称
+    "longName": "Space Exploration Technologies Corp.", // 公司正式名称
+    "regularMarketChange": 7.1289062, // 常规市场价格变动
+    "regularMarketDayRange": "139.58 - 149.68", // 常规市场当日价格范围
+    "fullExchangeName": "NasdaqGS", // 交易所全称
+    "averageDailyVolume3Month": 122147793, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 42.298904, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.4035, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "104.83 - 225.64", // 52周价格范围
+    "fiftyTwoWeekHighChange": -78.51109, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.34794846, // 较52周高点的变动百分比
+    "displayName": "Space Exploration",
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "bee82489-e541-4f24-a60c-b86270d442e6",
+      "content": {
+        "id": "bee82489-e541-4f24-a60c-b86270d442e6",
+        "contentType": "STORY",
+        "title": "SpaceX bulls would be wise to remember one thing", // 职位
+        "description": "",
+        "summary": "Spending at SpaceX is poised to increase significantly.",
+        "pubDate": "2026-08-17T13:30:18Z",
+        "displayTime": "2026-08-17T13:30:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/j_5_n7pw4gaC0tQ22xiMZg--~B/aD00MTIzO3c9NzMzMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45111e04-1d4f-49bf-803a-767aab334782_6cc4ce9bf5e4c70d8a1fe878bf01ba73c7ca3ce82efcf01e3f6163ea646db438.jpg",
+          "originalWidth": 7331,
+          "originalHeight": 4123,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j_5_n7pw4gaC0tQ22xiMZg--~B/aD00MTIzO3c9NzMzMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45111e04-1d4f-49bf-803a-767aab334782_6cc4ce9bf5e4c70d8a1fe878bf01ba73c7ca3ce82efcf01e3f6163ea646db438.jpg",
+              "width": 7331,
+              "height": 4123,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pbWNmiVBA4UE6qn0hTp.5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45111e04-1d4f-49bf-803a-767aab334782_6cc4ce9bf5e4c70d8a1fe878bf01ba73c7ca3ce82efcf01e3f6163ea646db438.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6e188449-1726-4347-874b-5a737a091ba2",
+      "content": {
+        "id": "6e188449-1726-4347-874b-5a737a091ba2",
+        "contentType": "STORY",
+        "title": "SpaceX stock volatility: What to do next if you own shares", // 职位
+        "description": "",
+        "summary": "Having a game plan before the stock's next big move can help avoid costly mistakes. If you bought SpaceX, plan for three possible scenarios.",
+        "pubDate": "2026-06-17T14:17:04Z",
+        "displayTime": "2026-08-16T15:34:32Z",
+        "isHosted": true,
+        "bypassModal": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/FlXsHSwiOUBjv1rYAL9.Cw--~B/aD0zOTMzO3c9NTkwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/72a916d7-1999-4eb2-9ba5-e104c6c22bb8",
+          "originalWidth": 5900,
+          "originalHeight": 3933,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FlXsHSwiOUBjv1rYAL9.Cw--~B/aD0zOTMzO3c9NTkwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/72a916d7-1999-4eb2-9ba5-e104c6c22bb8",
+              "width": 5900,
+              "height": 3933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/amHLhUT.EehDLlX0ZJ8E9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/72a916d7-1999-4eb2-9ba5-e104c6c22bb8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Personal Finance",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "yahoo_personal_finance_397"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "043682f6-c63c-35a3-8af8-285d97e08b3e",
+      "content": {
+        "id": "043682f6-c63c-35a3-8af8-285d97e08b3e",
+        "contentType": "STORY",
+        "title": "Nvidia’s Stake in SpaceX—and Musk’s Massive Holdings", // 职位
+        "description": "",
+        "summary": "The chip maker king owns 123 million shares, a strategic stake of just under 1%. And CEO Elon Musk controls a whopping 6.4 billion shares, almost half of the stock outstanding.",
+        "pubDate": "2026-08-17T14:21:00Z",
+        "displayTime": "2026-08-17T14:21:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/043682f6-c63c-35a3-8af8-285d97e08b3e/nvidia%E2%80%99s-stake-in-spacex%E2%80%94and.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Wu5hThvP14LwDLcDX1ufgQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4Fdb_YGKc9P43AIThRouJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9b23f08b-fd6c-3543-9184-ad4b32e1a56b",
+      "content": {
+        "id": "9b23f08b-fd6c-3543-9184-ad4b32e1a56b",
+        "contentType": "STORY",
+        "title": "Harvard reveals $2.2 billion SpaceX holding worth more than half its U.S. equity portfolio", // 职位
+        "description": "",
+        "summary": "Harvard Management Co. has disclosed a $2.",
+        "pubDate": "2026-08-17T14:18:05Z",
+        "displayTime": "2026-08-17T14:18:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/c0f78a823f7bb81de23e2867843147e8.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "caption": "SpaceX hanger ©Daniel Oberhaus",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1_kLRPk4eFMR6hr1EAPXog--~B/aD02NTk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorshub_458/c0f78a823f7bb81de23e2867843147e8.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/b6zrJpEbk4Pu4riuMwpwkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/c0f78a823f7bb81de23e2867843147e8.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/",
+          "sourceId": "investorshub_458"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/34438/harvard-reveals-2-2-billion-spacex-holding-worth-more-than-half-its-u-s-equity-portfolio",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-reveals-2-2-billion-141805027.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+      "content": {
+        "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+        "contentType": "STORY",
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market", // 职位
+        "description": "",
+        "summary": "Stocks are trading slightly lower as the summer doldrums hit the market. Several AI stocks are rising.",
+        "pubDate": "2026-08-17T14:02:00Z",
+        "displayTime": "2026-08-17T14:02:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk-micron-nvidia-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UQPEWbwBR0SJb2PMLshoxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b9f1e768-dc0d-391c-a555-388c13c8b9fd",
+      "content": {
+        "id": "b9f1e768-dc0d-391c-a555-388c13c8b9fd",
+        "contentType": "STORY",
+        "title": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It", // 职位
+        "description": "",
+        "summary": "Space Exploration Technologies Corp. (NASDAQ:SPCX) held its first earnings call as a public company earlier this month, and Elon Musk set an aggressive target: an annualized revenue run rate of $100 billion by December, more than tripling the company’s current run rate of just over $30 billion. According to a Financial Times report, Deutsche Bank […]",
+        "pubDate": "2026-08-17T14:00:36Z",
+        "displayTime": "2026-08-17T14:00:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/156e98fbade27434424b819080302ce2.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1412,
+          "caption": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here's the Math Behind It:",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RupiV0nIVEfBbjLQD.YdJQ--~B/aD0xNDEyO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/156e98fbade27434424b819080302ce2.jpg",
+              "width": 2560,
+              "height": 1412,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dp3r90geddw8e8A6CYNKsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/156e98fbade27434424b819080302ce2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "91303a01-c30a-32ed-80bc-3608651417c8",
+      "content": {
+        "id": "91303a01-c30a-32ed-80bc-3608651417c8",
+        "contentType": "STORY",
+        "title": "Why Tesla Stock Moves Are Increasingly Tied to SpaceX", // 职位
+        "description": "",
+        "summary": "Coming into Monday trading, Tesla stock had gained for two consecutive weeks, just like SpaceX stock.",
+        "pubDate": "2026-08-17T13:59:00Z",
+        "displayTime": "2026-08-17T13:59:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/91303a01-c30a-32ed-80bc-3608651417c8/why-tesla-stock-moves-are.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/v3jcKhGQtK5FKxzCMr6UQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VIHpV_wbYx6w9OrOp1jM3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "73288827-dd25-3ee4-9936-b7c1b3efc95d",
+      "content": {
+        "id": "73288827-dd25-3ee4-9936-b7c1b3efc95d",
+        "contentType": "STORY",
+        "title": "Harvard discloses $2.2B SpaceX stake, over half its U.S. equity portfolio", // 职位
+        "description": "",
+        "summary": "SpaceX (Nasdaq: SPCX) went public on June 12, 2026, at $135 per share in a record-setting IPO that raised $85.7 billion. Shares closed at $140 on August 14, placing the company's market value at approximately $1.85 trillion and sitting 3.7% above the offering price — meaning early institutional holders like Harvard are sitting on paper gains even before accounting for their original cost basis, which has not been disclosed.",
+        "pubDate": "2026-08-17T13:57:33Z",
+        "displayTime": "2026-08-17T13:57:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-discloses-2-2b-spacex-135733933.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-discloses-2-2b-spacex-135733933.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a84fed39-022b-36c2-be3f-6d21bcee7fd5",
+      "content": {
+        "id": "a84fed39-022b-36c2-be3f-6d21bcee7fd5",
+        "contentType": "STORY",
+        "title": "SpaceX Stock, Recovering From Post-IPO Slump, Rises Ahead of Another Share Unlock", // 职位
+        "description": "",
+        "summary": "SpaceX  stock rose on Monday ahead of another tranche of stock being unlocked to trade.  Shares of Elon Musk’s rocket and artificial-intelligence company were up 4.3% at $146.08 in early trading.  SpaceX  sold about 556 million new shares to the public in early June, raising about $75 billion (excluding the broker’s overallotment option), which was a small fraction of the roughly 13.2 billion shares outstanding.",
+        "pubDate": "2026-08-17T13:56:00Z",
+        "displayTime": "2026-08-17T13:56:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/a84fed39-022b-36c2-be3f-6d21bcee7fd5/spacex-stock-recovering-from.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/e8acfdb5695f8ddf7acebc13048ecb22.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UpfPd8TN9AllnKDq.brukA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e8acfdb5695f8ddf7acebc13048ecb22.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oarbrMfFhljHjpzjozoA_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e8acfdb5695f8ddf7acebc13048ecb22.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-share-unlock-ipo-4d7503c3?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
+      "content": {
+        "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
+        "contentType": "STORY",
+        "title": "Harvard Has a Massive Stake in SpaceX", // 职位
+        "description": "",
+        "summary": "$2.2 billion That’s the stake that Harvard University’s endowment fund holds in SpaceX, according to a Friday securities filing. It amounts to roughly 12.9 million shares. That’s a much bigger investment than in other major tech companies, the document showed: By comparison, Harvard Management has a roughly $350 million stake in Taiwan Semiconductor Manufacturing and $234 million worth of Amazon shares.",
+        "pubDate": "2026-08-17T13:49:22Z",
+        "displayTime": "2026-08-17T13:49:22Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/11e3f917-3baf-368a-a4c4-2ebc1cfb88d0/harvard-has-a-massive-stake.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MSwVyvYy46d8AnK9c6vhNw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bNu.ToVbwcGTpoUqYpaztA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/harvard-has-a-massive-stake-in-spacex-8P4e6O1CP3NpA1LMTcoM?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 149.67999267578125, // 当日最高价
+    "dayLow": 139.5800018310547, // 当日最低价
+    "exchange": "NMS", // 交易所代码
+    "fiftyDayAverage": 141.80886355313388, // 50日均价
+    "lastPrice": 147.12890625,
+    "lastVolume": 50671799,
+    "marketCap": 1939420865736.0352, // 总市值
+    "open": 139.97500610351562, // 今日开盘价
+    "previousClose": 140.5699, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 140.0, // 常规市场昨日收盘价
+    "shares": 13181779945,
+    "tenDayAverageVolume": 158305690,
+    "threeMonthAverageVolume": 122147793,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 141.80886355313388, // 200日均价
+    "yearChange": -0.13016463091316008,
+    "yearHigh": 225.63999938964844,
+    "yearLow": 104.83000183105469
+  },
+  "calendar": "{'Earnings Date': [datetime.date(2026, 11, 4)], 'Earnings High': 0.32, 'Earnings Low': 0.13, 'Earnings Average': 0.2, 'Revenue High': 16016800000, 'Revenue Low': 10676000000, 'Revenue Average': 13190896940}" // 财报日历
+}

@@ -1,0 +1,829 @@
+{
+  "info": {
+    "address1": "Puxiang Center", // 地址1
+    "address2": "Floor 36 & 37 Block A, Hongtai East Street Dawangjing Technology Business Park, Chaoyang Dist", // 地址2
+    "city": "Beijing", // 城市
+    "zip": "100102", // 邮编
+    "country": "China", // 国家
+    "website": "https://www.popmart.com", // 官方网站
+    "industry": "Leisure", // 行业
+    "industryKey": "leisure", // 行业键
+    "industryDisp": "Leisure", // 行业显示名称
+    "sector": "Consumer Cyclical", // 板块
+    "sectorKey": "consumer-cyclical", // 板块键
+    "sectorDisp": "Consumer Cyclical", // 板块显示名称
+    "longBusinessSummary": "Pop Mart International Group Limited, an investment holding company, designs, develops, and sells pop toys in the People's Republic of China, Hong Kong, Macau, Taiwan, and internationally. The company offers blind boxes. It sells its products through a network of retail stores and roboshops; online channels, including Tmall flagship store, DouYin, Pop Draw, and other online channels; and wholesale channels and others. The company also provides internet technology, customer, and technology development services; and operates playgrounds, as well as engages in investment and exhibition activities. Pop Mart International Group Limited was founded in 2010 and is headquartered in Beijing, the People's Republic of China.", // 公司业务摘要
+    "fullTimeEmployees": 8663, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ning  Wang", // 姓名
+        "age": 37, // 年龄
+        "title": "Executive Chairman & CEO", // 职位
+        "yearBorn": 1988, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 5332194,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. De  Si", // 姓名
+        "age": 35, // 年龄
+        "title": "COO, President of China Business & Executive Director", // 职位
+        "yearBorn": 1990, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 5254225,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Ran  Liu", // 姓名
+        "age": 36, // 年龄
+        "title": "Executive Director & VP", // 职位
+        "yearBorn": 1989, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2158712,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Duk Il  Moon", // 姓名
+        "age": 45, // 年龄
+        "title": "Chief Growth Officer & Executive Director", // 职位
+        "yearBorn": 1980, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 4640941,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jingbing  Yang", // 姓名
+        "age": 45, // 年龄
+        "title": "Chief Financial Officer", // 职位
+        "yearBorn": 1980, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Hongxuan  Li", // 姓名
+        "title": "Joint Company Secretary & Depute Director of Investor Relationship", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Chu  Yin", // 姓名
+        "title": "President of China Business", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Ching Yi  Li", // 姓名
+        "title": "Joint Company Secretary", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Jian  Hu", // 姓名
+        "title": "General Manager of City Paradise", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 1, // 审计风险
+    "boardRisk": 9, // 董事会风险
+    "compensationRisk": 10, // 薪酬风险
+    "shareHolderRightsRisk": 8, // 股东权益风险
+    "overallRisk": 10, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 154.1, // 昨日收盘价
+    "open": 154.1, // 今日开盘价
+    "dayLow": 153.2, // 当日最低价
+    "dayHigh": 156.9, // 当日最高价
+    "regularMarketPreviousClose": 154.1, // 常规市场昨日收盘价
+    "regularMarketOpen": 154.1, // 常规市场今日开盘价
+    "regularMarketDayLow": 153.2, // 常规市场当日最低价
+    "regularMarketDayHigh": 156.9, // 常规市场当日最高价
+    "dividendRate": 2.72,
+    "dividendYield": 1.77,
+    "exDividendDate": 1778803200,
+    "payoutRatio": 0.085200004, // 股利支付率
+    "fiveYearAvgDividendYield": 0.6,
+    "beta": 1.051, // 贝塔系数
+    "trailingPE": 13.779174, // 滚动市盈率 (TTM)
+    "forwardPE": 10.523029, // 预测市盈率
+    "volume": 7731706, // 成交量
+    "regularMarketVolume": 7731706, // 常规市场成交量
+    "averageVolume": 15538166, // 平均成交量
+    "averageVolume10days": 10920912, // 10日平均成交量
+    "averageDailyVolume10Day": 10920912, // 10日日均成交量
+    "bid": 153.4, // 买入价
+    "ask": 154.0, // 卖出价
+    "marketCap": 201312092160, // 总市值
+    "nonDilutedMarketCap": 202098984323, // 非稀释市值
+    "fiftyTwoWeekLow": 140.1, // 52周最低价
+    "fiftyTwoWeekHigh": 339.8, // 52周最高价
+    "allTimeHigh": 339.8, // 历史最高价
+    "allTimeLow": 9.95, // 历史最低价
+    "priceToSalesTrailing12Months": 5.4232707, // 市销率 (TTM)
+    "fiftyDayAverage": 161.488, // 50日均价
+    "twoHundredDayAverage": 186.6795, // 200日均价
+    "trailingAnnualDividendRate": 2.382, // 年度股息率
+    "trailingAnnualDividendYield": 0.015457494, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 191257018368, // 企业价值 (EV)
+    "profitMargins": 0.34417, // 利润率
+    "floatShares": 656138492, // 流通股本
+    "sharesOutstanding": 1311479457, // 发行在外股份总数
+    "heldPercentInsiders": 0.5, // 内部人士持股比例
+    "heldPercentInstitutions": 0.21482, // 机构持股比例
+    "impliedSharesOutstanding": 1311479457, // 隐含发行在外股份
+    "bookValue": 19.462408, // 每股净资产
+    "priceToBook": 7.886999, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1767139200, // 最近一个季度日
+    "earningsQuarterlyGrowth": 2.721, // 季度盈利增长
+    "netIncomeToCommon": 12775689216, // 归属于普通股股东的净利润
+    "trailingEps": 11.14, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 14.587054, // 预测每股收益
+    "pegRatio": 0.8, // PEG比率
+    "enterpriseToRevenue": 5.152, // 企业价值/营收比
+    "enterpriseToEbitda": 10.901, // 企业价值/EBITDA比
+    "52WeekChange": -0.4589185, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 2.7248,
+    "lastDividendDate": 1778803200,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 153.5, // 当前价格
+    "targetHighPrice": 398.37708, // 目标最高价
+    "targetLowPrice": 128.49402, // 目标最低价
+    "targetMeanPrice": 215.0199, // 目标平均价
+    "targetMedianPrice": 219.77087, // 目标中位价
+    "recommendationMean": 2.03704, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 24, // 分析师人数
+    "totalCash": 17234751488, // 现金总额
+    "totalCashPerShare": 12.939, // 每股现金
+    "ebitda": 17544884224, // EBITDA
+    "totalDebt": 2861574912, // 总债务
+    "quickRatio": 2.628, // 速动比率
+    "currentRatio": 3.476, // 流动比率
+    "totalRevenue": 37120053248, // 总营收
+    "debtToEquity": 12.633, // 债务权益比
+    "revenuePerShare": 27.91, // 每股营收
+    "returnOnAssets": 0.45319, // 资产回报率 (ROA)
+    "returnOnEquity": 0.77598, // 权益回报率 (ROE)
+    "grossProfits": 26764916736, // 毛利润
+    "freeCashflow": 9114967040, // 自由现金流
+    "operatingCashflow": 10865152000, // 经营现金流
+    "earningsGrowth": 2.712, // 盈利增长
+    "revenueGrowth": 1.741, // 营收增长
+    "grossMargins": 0.72103995, // 毛利率
+    "ebitdaMargins": 0.47265, // EBITDA利润率
+    "operatingMargins": 0.47962, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "9992.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "POP MART", // 公司简称
+    "longName": "Pop Mart International Group Limited", // 公司正式名称
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1607650200000, // 首次交易日期时间戳
+    "regularMarketChange": -0.6000061, // 常规市场价格变动
+    "regularMarketDayRange": "153.2 - 156.9", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 15538166, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 13.399994, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.09564592, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "140.1 - 339.8", // 52周价格范围
+    "fiftyTwoWeekHighChange": -186.29999, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.54826367, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -45.89185, // 52周价格变动百分比
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954108, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_695208345", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "earningsTimestamp": 1787213400, // 财报时间戳
+    "earningsTimestampStart": 1787213400, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1787213400, // 财报发布截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 11.14, // 过去12个月每股收益
+    "epsForward": 14.587054, // 预测每股收益
+    "epsCurrentYear": 10.49668, // 本年度每股收益
+    "priceEpsCurrentYear": 14.623672, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -7.9880066, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.049465016, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -33.179504, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.17773512, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "2.0 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "marketState": "POSTPOST", // 市场状态
+    "regularMarketChangePercent": -0.3893615, // 常规市场变动百分比
+    "regularMarketPrice": 153.5, // 常规市场当前价格
+    "trailingPegRatio": 0.7953 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "69f6e5c0-0247-31c5-a991-9dac347cbf86",
+      "content": {
+        "id": "69f6e5c0-0247-31c5-a991-9dac347cbf86",
+        "contentType": "STORY",
+        "title": "Swiss Outdoor Brand Mammut Purchased by CPE, Investor in Pop Mart, Laopu", // 职位
+        "description": "",
+        "summary": "CPE's acquisition of the soft-shell maker marks another milestone in China's premium outdoor boom.",
+        "pubDate": "2026-07-31T14:05:29Z",
+        "displayTime": "2026-07-31T14:05:29Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wwd_409/78392bf292857ad24a305a13ca282547",
+          "originalWidth": 1080,
+          "originalHeight": 610,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lBnl08SNBtoRr8Vg4WkHWw--~B/aD02MTA7dz0xMDgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wwd_409/78392bf292857ad24a305a13ca282547",
+              "width": 1080,
+              "height": 610,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VuHQQQxG4cVbYTMnfrXigQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wwd_409/78392bf292857ad24a305a13ca282547",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "WWD",
+          "url": "https://wwd.com/",
+          "sourceId": "wwd_409"
+        },
+        "canonicalUrl": {
+          "url": "https://wwd.com/business-news/mergers-acquisitions/mammut-purchased-by-popmart-laopu-investor-cpe-1239089270/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/small-business/articles/swiss-outdoor-brand-mammut-purchased-140529110.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2405cfd9-0f0e-352b-8e58-672fe531ad0b",
+      "content": {
+        "id": "2405cfd9-0f0e-352b-8e58-672fe531ad0b",
+        "contentType": "STORY",
+        "title": "British folding bike maker Brompton sells stake to Decathlon", // 职位
+        "description": "",
+        "summary": "Chinese venture capital firm BA Capital has also taken a small shareholding.",
+        "pubDate": "2026-06-30T10:54:09Z",
+        "displayTime": "2026-06-30T10:54:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/snappa.ukfinance/730989442b7508283818273329bfeb6f",
+          "originalWidth": 4048,
+          "originalHeight": 2277,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OyKY5qGLJ0NeZB3qarY95g--~B/aD0yMjc3O3c9NDA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/snappa.ukfinance/730989442b7508283818273329bfeb6f",
+              "width": 4048,
+              "height": 2277,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/U03ky.sARQtF7gEHNLBtyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa.ukfinance/730989442b7508283818273329bfeb6f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "PA Media: Money",
+          "url": "https://www.pressassociation.com/",
+          "sourceId": "snappa.ukfinance"
+        },
+        "canonicalUrl": {
+          "url": "https://uk.finance.yahoo.com/news/british-folding-bike-maker-brompton-105409627.html",
+          "site": "finance",
+          "region": "GB", // 地区
+          "lang": "en-GB"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/british-folding-bike-maker-brompton-105409627.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ef1accf1-0eb0-3836-aacb-73d9e3290a4c",
+      "content": {
+        "id": "ef1accf1-0eb0-3836-aacb-73d9e3290a4c",
+        "contentType": "STORY",
+        "title": "Pop Mart Defends Overseas Growth After $28 Billion Market Value Wipeout", // 职位
+        "description": "",
+        "summary": "Pop Mart says non-Labubu toys drove major sales as investors question whether the craze can last.",
+        "pubDate": "2026-06-10T19:49:06Z",
+        "displayTime": "2026-06-10T19:49:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-defends-overseas-growth-194906344.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-defends-overseas-growth-194906344.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "45316abb-5eb9-3270-8369-0f618b786905",
+      "content": {
+        "id": "45316abb-5eb9-3270-8369-0f618b786905",
+        "contentType": "STORY",
+        "title": "Pop Mart Weighs Governance Upgrades As Volatile Shares Trade Below Targets", // 职位
+        "description": "",
+        "summary": "Pop Mart International Group (SEHK:9992) has proposed amendments to its articles of association to align with updated shareholder protection standards. The company plans to introduce provisions that would allow virtual and hybrid general meetings, aiming to broaden shareholder participation. The proposed changes are subject to shareholder approval at an upcoming general meeting. Pop Mart International Group, trading at HK$143.6, is putting corporate governance in the spotlight with these...",
+        "pubDate": "2026-03-31T15:06:03Z",
+        "displayTime": "2026-03-31T15:06:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/f93769003b780aae69f8c11146cdf5a4",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/586eiHPvSTNDX.7t2BsuFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/f93769003b780aae69f8c11146cdf5a4",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cHvtu29EH8HXolTrEj1vzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f93769003b780aae69f8c11146cdf5a4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-weighs-governance-upgrades-150603553.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-weighs-governance-upgrades-150603553.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2b50a411-8d4e-32d3-aabd-e47537a35705",
+      "content": {
+        "id": "2b50a411-8d4e-32d3-aabd-e47537a35705",
+        "contentType": "STORY",
+        "title": "Pop Mart Slides 9.7% as Analysts Cut Forecasts After Growth Miss", // 职位
+        "description": "",
+        "summary": "Revenue rises 185% but misses estimates as analysts flag slowing momentum and high reliance on Labubu",
+        "pubDate": "2026-03-26T18:38:24Z",
+        "displayTime": "2026-03-26T18:38:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-slides-9-7-183824329.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-slides-9-7-183824329.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "13ae8b6e-8c0c-3574-9634-0aedf47e81cd",
+      "content": {
+        "id": "13ae8b6e-8c0c-3574-9634-0aedf47e81cd",
+        "contentType": "STORY",
+        "title": "Pop Mart shares sink despite revenue surge, as analysts say Labubu reliance worries investors", // 职位
+        "description": "",
+        "summary": "Labubu doll maker Pop Mart’s shares sank nearly 23% on Wednesday despite robust revenue, with analysts pointing to investor concerns over the Chinese toy company’s ability to grow beyond its heavy reliance on Labubu-related income.  The plunge in Pop Mart’s Hong Kong-listed shares came after the company reported 37.1 billion yuan ($5.4 billion) in annual revenue for 2025, up 185% from the year before but slightly missing analysts’ estimates.  Labubu, the toothy monster dolls with pointed ears, gained huge popularity across the world since 2024 as it was trending on social media and seen on handbags of celebrities.",
+        "pubDate": "2026-03-25T14:01:59Z",
+        "displayTime": "2026-03-25T14:01:59Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ap_finance_articles_694/773af9f2fee890316ddf0e8b47df3348",
+          "originalWidth": 2146,
+          "originalHeight": 1431,
+          "caption": "FILE - Labubu dolls are on display at the Pop Mart store at American Dream mall in East Rutherford, N.J., on Saturday, July 12, 2025. (AP Photo/Ted Shaffrey, File)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/iZh5if3zXkwW7dFdka_Vjg--~B/aD0xNDMxO3c9MjE0NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap_finance_articles_694/773af9f2fee890316ddf0e8b47df3348",
+              "width": 2146,
+              "height": 1431,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tzXI8axS36rU38triz2mWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap_finance_articles_694/773af9f2fee890316ddf0e8b47df3348",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Associated Press Finance",
+          "url": "http://www.ap.org/",
+          "sourceId": "ap_finance_articles_694"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-shares-sink-despite-140159202.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-shares-sink-despite-140159202.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a25dd995-c7e8-376a-9efe-fdc35207dc17",
+      "content": {
+        "id": "a25dd995-c7e8-376a-9efe-fdc35207dc17",
+        "contentType": "STORY",
+        "title": "Pop Mart Drops 22% Despite 185% Revenue Growth on Labubu Reliance Concerns", // 职位
+        "description": "",
+        "summary": "Revenue reached 37.1 billion yuan while growth remained heavily tied to Labubu, with slower second-half momentum raising durability questions.",
+        "pubDate": "2026-03-25T12:43:56Z",
+        "displayTime": "2026-03-25T12:43:56Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-drops-22-despite-124356349.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-drops-22-despite-124356349.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f9e3fe24-c80a-37d3-bd09-67efd3e9729e",
+      "content": {
+        "id": "f9e3fe24-c80a-37d3-bd09-67efd3e9729e",
+        "contentType": "STORY",
+        "title": "Was Your Labubu Made With Forced Labor?", // 职位
+        "description": "",
+        "summary": "A new report offers evidence of worker exploitation at a Chinese factory that exclusively manufactures the doll for the Hong Kong-listed company Pop Mart.",
+        "pubDate": "2026-03-24T22:29:48Z",
+        "displayTime": "2026-03-24T22:29:48Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/sourcing_journal_735/ed4f36145f2998defce9b47112ff760a",
+          "originalWidth": 1000,
+          "originalHeight": 700,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KgWt1DFzU8FGAhxj1PE84w--~B/aD03MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/sourcing_journal_735/ed4f36145f2998defce9b47112ff760a",
+              "width": 1000,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tZe3QLgz0SjIYXm7acF.pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sourcing_journal_735/ed4f36145f2998defce9b47112ff760a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Sourcing Journal",
+          "url": "https://sourcingjournal.com/",
+          "sourceId": "sourcing_journal_735"
+        },
+        "canonicalUrl": {
+          "url": "https://sourcingjournal.com/topics/labor/pop-mart-labubu-china-labor-watch-complaints-1234817912/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/labubu-made-forced-labor-222948165.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c470068a-17f2-3ba1-90c1-2179e16dbb90",
+      "content": {
+        "id": "c470068a-17f2-3ba1-90c1-2179e16dbb90",
+        "contentType": "STORY",
+        "title": "Pop Mart, Laopu Set for Triple-Digit Growth as China Consumption Slows", // 职位
+        "description": "",
+        "summary": "Viral demand fades, but gold jewelry and new IP launches may sustain standout growth versus weak broader spending",
+        "pubDate": "2026-03-20T18:01:54Z",
+        "displayTime": "2026-03-20T18:01:54Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-laopu-set-triple-180154973.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-laopu-set-triple-180154973.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "489b439a-50aa-3be0-95d1-93a68860988a",
+      "content": {
+        "id": "489b439a-50aa-3be0-95d1-93a68860988a",
+        "contentType": "STORY",
+        "title": "Pop Mart taps Sony for Labubu film as shares drop over 30%", // 职位
+        "description": "",
+        "summary": "The toymaker partners with Sony and Paul King on a Labubu movie as investor concerns rise over fading demand",
+        "pubDate": "2026-03-19T20:00:18Z",
+        "displayTime": "2026-03-19T20:00:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-taps-sony-labubu-200018311.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pop-mart-taps-sony-labubu-200018311.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 156.89999389648438, // 当日最高价
+    "dayLow": 153.1999969482422, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 161.4879998779297, // 50日均价
+    "lastPrice": 153.5,
+    "lastVolume": 7731706,
+    "marketCap": 201312096649.5, // 总市值
+    "open": 154.10000610351562, // 今日开盘价
+    "previousClose": 154.10000610351562, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 154.10000610351562, // 常规市场昨日收盘价
+    "shares": 1311479457,
+    "tenDayAverageVolume": 10920912,
+    "threeMonthAverageVolume": 15534183,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 188.19549934387206, // 200日均价
+    "yearChange": -0.45891849470324975,
+    "yearHigh": 339.79998779296875,
+    "yearLow": 140.10000610351562
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 5, 15), 'Earnings Date': [datetime.date(2026, 8, 20)], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 6757000000, 'Revenue Low': 6757000000, 'Revenue Average': 6757000000}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.1824,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.17941,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.09777,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.3095,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.8881,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 2.7248,
+      "Stock Splits": 0.0
+    }
+  ]
+}

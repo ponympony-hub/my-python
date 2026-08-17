@@ -2,8 +2,14 @@
 
 from datetime import datetime
 
-from config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, TARGET_CONTACTS
-from reporting import daily_report, is_active_hour, run_scheduler, send_wechat_message
+import sys
+import os
+
+# 将项目根目录添加到 Python 路径
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, TARGET_CONTACTS
+from core.reporting import daily_report, is_active_hour, run_scheduler, send_wechat_message
 
 
 def get_crypto_data() -> str:

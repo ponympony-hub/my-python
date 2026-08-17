@@ -3,6 +3,7 @@
 """
 
 import unittest
+from unittest.mock import MagicMock
 import sys
 import os
 from datetime import datetime
@@ -11,7 +12,7 @@ from types import SimpleNamespace
 # 将项目根目录添加到 Python 路径，以便导入 core 模块
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from core.reporting import daily_report, is_active_hour, market_cap_report, yearly_report
+from core.reporting import daily_report, is_active_hour, market_cap_report, yearly_report, earnings_report
 
 class FakeTicker:
     """
@@ -27,7 +28,8 @@ class FakeTicker:
     info = {
         "fiftyTwoWeekHigh": 120, 
         "fiftyTwoWeekLow": 80, 
-        "marketCap": 2_000_000_000_000
+        "marketCap": 2_000_000_000_000,
+        "nonDilutedMarketCap": 2_000_000_000_000
     }
 
 class ReportingTests(unittest.TestCase):
@@ -44,7 +46,7 @@ class ReportingTests(unittest.TestCase):
         """测试年度报告和市值报告"""
         factory = lambda _: FakeTicker()
         # 验证年度报告格式
-        self.assertIn("测试:👆120📢110 🔻80 ↕️50%", yearly_report({"测试": "TEST"}, factory))
+        self.assertIn("测试:120👆110🔻80↕️50%", yearly_report({"测试": "TEST"}, factory))
         # 验证市值报告格式 (2万亿)
         self.assertIn("测试:110 💹10% ↕️2.00万亿", market_cap_report({"测试": "TEST"}, factory))
 
@@ -56,6 +58,29 @@ class ReportingTests(unittest.TestCase):
         self.assertTrue(is_active_hour(datetime(2026, 1, 1, 7)))
         # 23:00 不活跃
         self.assertFalse(is_active_hour(datetime(2026, 1, 1, 23)))
+
+    def test_earnings_report_sorting_and_formatting(self):
+        """测试财报时间报告的排序和格式化 (UTC+8)"""
+        # 模拟数据：A 晚于 B
+        # 1787040600 是 2026-08-18 16:10 (UTC+8)
+        # 1786954200 是 2026-08-17 16:10 (UTC+8)
+        
+        data_map = {
+            "T1": {"earningsTimestamp": 1787040600},
+            "T2": {"earningsTimestamp": 1786954200},
+        }
+        
+        def factory(symbol):
+            mock = MagicMock()
+            mock.info = data_map.get(symbol, {})
+            return mock
+
+        report = earnings_report({"公司A": "T1", "公司B": "T2"}, factory)
+        
+        # 验证排序：公司B 应该排在第一位（时间更早）
+        lines = report.split("\n")
+        self.assertIn("公司B: 2026-08-17 16:10", lines[1])
+        self.assertIn("公司A: 2026-08-18 16:10", lines[2])
 
 if __name__ == "__main__":
     # 运行所有测试

@@ -1,0 +1,883 @@
+{
+  "info": {
+    "address1": "One World Trade Center", // 地址1
+    "city": "New York", // 城市
+    "state": "NY",
+    "zip": "10007", // 邮编
+    "country": "United States", // 国家
+    "phone": "332 334 0660", // 电话
+    "website": "https://www.circle.com", // 官方网站
+    "industry": "Capital Markets", // 行业
+    "industryKey": "capital-markets", // 行业键
+    "industryDisp": "Capital Markets", // 行业显示名称
+    "sector": "Financial Services", // 板块
+    "sectorKey": "financial-services", // 板块键
+    "sectorDisp": "Financial Services", // 板块显示名称
+    "longBusinessSummary": "Circle Internet Group, Inc. operates as a platform, network, and market infrastructure for stablecoin and blockchain applications. The company provides various platform including Arc Blockchain and Developer Infrastructure, an open, layer-1 blockchain network purpose-built to bring real world economic activity onchain; Circle Digital Assets and Services, which includes circle digital assets, USDC, EURC, and USYC, as well as circle mint and xreserve, related liquidity, custody, and trust infrastructure; and Circle Applications, which includes circle payments network and stablefx, applications that use circle digital assets to deliver real-world utility on the arc network and across the broader multichain ecosystem. Its stablecoins network comprises circle stablecoins, tokenized funds, liquidity, payments network, and developer services, as well as integration services. The company was founded in 2013 and is based in New York, New York.", // 公司业务摘要
+    "fullTimeEmployees": 1100, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jeremy D. Allaire", // 姓名
+        "age": 53, // 年龄
+        "title": "Co-Founder, Chairman & CEO", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 7260862,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Heath P. Tarbert", // 姓名
+        "age": 48, // 年龄
+        "title": "President & Chief Legal Officer", // 职位
+        "yearBorn": 1977, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1861372,
+        "exercisedValue": 1244914, // 已行权价值
+        "unexercisedValue": 30353644 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jeremy  Fox-Geen", // 姓名
+        "age": 51, // 年龄
+        "title": "Chief Financial Officer", // 职位
+        "yearBorn": 1974, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1770000,
+        "exercisedValue": 11046346, // 已行权价值
+        "unexercisedValue": 86328952 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Nikhil  Chandhok", // 姓名
+        "age": 47, // 年龄
+        "title": "Chief Product & Technology Officer", // 职位
+        "yearBorn": 1978, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1878414,
+        "exercisedValue": 6410650, // 已行权价值
+        "unexercisedValue": 60254808 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Hossein  Razzaghi", // 姓名
+        "age": 51, // 年龄
+        "title": "Chief Commercial Officer", // 职位
+        "yearBorn": 1974, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2588353,
+        "exercisedValue": 11331240, // 已行权价值
+        "unexercisedValue": 6777618 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Dante A. Disparte", // 姓名
+        "title": "Chief Strategy Officer and Head of Global Policy & Operations", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Tamara  Schulz", // 姓名
+        "title": "Chief Accounting Officer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 3, // 审计风险
+    "boardRisk": 9, // 董事会风险
+    "compensationRisk": 7, // 薪酬风险
+    "shareHolderRightsRisk": 10, // 股东权益风险
+    "overallRisk": 9, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 71.6, // 昨日收盘价
+    "open": 71.205, // 今日开盘价
+    "dayLow": 70.7265, // 当日最低价
+    "dayHigh": 75.41, // 当日最高价
+    "regularMarketPreviousClose": 71.6, // 常规市场昨日收盘价
+    "regularMarketOpen": 71.205, // 常规市场今日开盘价
+    "regularMarketDayLow": 70.7265, // 常规市场当日最低价
+    "regularMarketDayHigh": 75.41, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "trailingPE": 14.871744, // 滚动市盈率 (TTM)
+    "forwardPE": 45.908108, // 预测市盈率
+    "volume": 3252527, // 成交量
+    "regularMarketVolume": 3252549, // 常规市场成交量
+    "averageVolume": 13072882, // 平均成交量
+    "averageVolume10days": 12343170, // 10日平均成交量
+    "averageDailyVolume10Day": 12343170, // 10日日均成交量
+    "bid": 74.54, // 买入价
+    "ask": 74.67, // 卖出价
+    "bidSize": 400, // 买盘量
+    "askSize": 200, // 卖盘量
+    "marketCap": 20229208064, // 总市值
+    "nonDilutedMarketCap": 18177513079, // 非稀释市值
+    "fiftyTwoWeekLow": 49.9, // 52周最低价
+    "fiftyTwoWeekHigh": 159.47, // 52周最高价
+    "allTimeHigh": 298.99, // 历史最高价
+    "allTimeLow": 49.9, // 历史最低价
+    "priceToSalesTrailing12Months": 6.9625306, // 市销率 (TTM)
+    "fiftyDayAverage": 69.8134, // 50日均价
+    "twoHundredDayAverage": 86.43375, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 16464731136, // 企业价值 (EV)
+    "profitMargins": 0.15531999, // 利润率
+    "floatShares": 201422585, // 流通股本
+    "sharesOutstanding": 234685190, // 发行在外股份总数
+    "sharesShort": 24410272,
+    "sharesShortPriorMonth": 21874075,
+    "sharesShortPreviousMonthDate": 1782777600,
+    "dateShortInterest": 1785456000,
+    "sharesPercentSharesOut": 0.0962,
+    "heldPercentInsiders": 0.022550002, // 内部人士持股比例
+    "heldPercentInstitutions": 0.68127, // 机构持股比例
+    "shortRatio": 1.73,
+    "shortPercentOfFloat": 0.10609999,
+    "impliedSharesOutstanding": 272594112, // 隐含发行在外股份
+    "bookValue": 13.883, // 每股净资产
+    "priceToBook": 5.345386, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "netIncomeToCommon": 451275008, // 归属于普通股股东的净利润
+    "trailingEps": 4.99, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 1.61649, // 预测每股收益
+    "pegRatio": 4.34, // PEG比率
+    "enterpriseToRevenue": 5.667, // 企业价值/营收比
+    "enterpriseToEbitda": 71.946, // 企业价值/EBITDA比
+    "52WeekChange": -0.49427885, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 74.21, // 当前价格
+    "targetHighPrice": 243.0, // 目标最高价
+    "targetLowPrice": 37.0, // 目标最低价
+    "targetMeanPrice": 103.02826, // 目标平均价
+    "targetMedianPrice": 100.0, // 目标中位价
+    "recommendationMean": 2.33333, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 23, // 分析师人数
+    "totalCash": 1730125952, // 现金总额
+    "totalCashPerShare": 6.815, // 每股现金
+    "ebitda": 228847008, // EBITDA
+    "totalDebt": 15951000, // 总债务
+    "quickRatio": 0.028, // 速动比率
+    "currentRatio": 1.035, // 流动比率
+    "totalRevenue": 2905438976, // 总营收
+    "debtToEquity": 0.454, // 债务权益比
+    "revenuePerShare": 12.038, // 每股营收
+    "returnOnAssets": 0.00191, // 资产回报率 (ROA)
+    "returnOnEquity": 0.15347, // 权益回报率 (ROE)
+    "grossProfits": 639134016, // 毛利润
+    "freeCashflow": 206229376, // 自由现金流
+    "operatingCashflow": 776918016, // 经营现金流
+    "revenueGrowth": 0.066, // 营收增长
+    "grossMargins": 0.21997999, // 毛利率
+    "ebitdaMargins": 0.07877, // EBITDA利润率
+    "operatingMargins": 0.04899, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "CRCL", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Nasdaq Real Time Price", // 报价来源
+    "triggerable": true, // 是否可触发
+    "customPriceAlertConfidence": "HIGH", // 自定义价格警报信心度
+    "regularMarketChangePercent": 3.6452522, // 常规市场变动百分比
+    "regularMarketPrice": 74.21, // 常规市场当前价格
+    "shortName": "Circle Internet Group, Inc.", // 公司简称
+    "longName": "Circle Internet Group", // 公司正式名称
+    "exchange": "NYQ", // 交易所代码
+    "messageBoardId": "finmb_1934984433", // 留言板ID
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "marketState": "REGULAR", // 市场状态
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786977410, // 常规市场时间戳
+    "hasPrePostMarketData": true, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1749130200000, // 首次交易日期时间戳
+    "regularMarketChange": 2.6100006, // 常规市场价格变动
+    "regularMarketDayRange": "70.7265 - 75.41", // 常规市场当日价格范围
+    "fullExchangeName": "NYSE", // 交易所全称
+    "averageDailyVolume3Month": 13072882, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 24.309998, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.48717427, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "49.9 - 159.47", // 52周价格范围
+    "fiftyTwoWeekHighChange": -85.26, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.53464603, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -49.427883, // 52周价格变动百分比
+    "earningsTimestamp": 1785933000, // 财报时间戳
+    "earningsTimestampStart": 1785933000, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1785933000, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1785931200, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1785931200, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 4.99, // 过去12个月每股收益
+    "epsForward": 1.61649, // 预测每股收益
+    "epsCurrentYear": 1.21756, // 本年度每股收益
+    "priceEpsCurrentYear": 60.949764, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 4.396599, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.062976435, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -12.223747, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.14142331, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 0, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "2.3 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "displayName": "Circle Internet",
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "b8fa039a-6ea1-3dfe-a7bc-b368d3f6459c",
+      "content": {
+        "id": "b8fa039a-6ea1-3dfe-a7bc-b368d3f6459c",
+        "contentType": "STORY",
+        "title": "Tether CEO Shuts Down Blockchain Rumors", // 职位
+        "description": "",
+        "summary": "Tether CEO Paolo Ardoino says no Tether blockchain is coming, as Stripe and Circle pour $1 billion into stablechains.",
+        "pubDate": "2026-08-15T13:36:03Z",
+        "displayTime": "2026-08-15T13:36:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/0f6232f574dbb125705cf02d768ffc6f.png",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dylDPz6irfPncZEzxZlTiQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/0f6232f574dbb125705cf02d768ffc6f.png",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xUj4y5us7EQwNK3ZAxIUVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0f6232f574dbb125705cf02d768ffc6f.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/tether-usdt-blockchain-rumors/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-ceo-shuts-down-blockchain-133603772.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "119ae64e-34c1-3bb0-a5eb-a3a10ba3ebcf",
+      "content": {
+        "id": "119ae64e-34c1-3bb0-a5eb-a3a10ba3ebcf",
+        "contentType": "STORY",
+        "title": "MSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K", // 职位
+        "description": "",
+        "summary": "The broader U.S. stock market also trended lower, putting additional pressure on risk-sensitive assets.",
+        "pubDate": "2026-08-14T15:48:21Z",
+        "displayTime": "2026-08-14T15:48:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/16409186e6b6d3bdab56cfd5808a8feb.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 891,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p3WCGlAw6xrWPPe.gGH.3A--~B/aD04OTE7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/16409186e6b6d3bdab56cfd5808a8feb.jpg",
+              "width": 1280,
+              "height": 891,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TgVK7iyg8OJzWuwbY8sVkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/16409186e6b6d3bdab56cfd5808a8feb.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
+        },
+        "canonicalUrl": {
+          "url": "https://stocktwits.com/news-articles/markets/equity/mstr-bmnr-coin-crcl-stocks-slide-after-bitcoin-falls-below-63-k-works/cZotVcKRJ0S",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-bmnr-coin-crcl-stocks-154821679.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "02691c85-f62f-36db-a579-5830202b795b",
+      "content": {
+        "id": "02691c85-f62f-36db-a579-5830202b795b",
+        "contentType": "STORY",
+        "title": "40 Days After MiCA: What Europe’s Crypto Market Looks Like", // 职位
+        "description": "",
+        "summary": "Forty days after MiCA’s transition ended, BeInCrypto examines Europe’s licensed crypto market, stablecoin shift, enforcement gaps and unresolved risks.",
+        "pubDate": "2026-08-14T12:50:46Z",
+        "displayTime": "2026-08-14T12:50:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/33e300c257603b01b47aca7d04627753.png",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C1m1ms0dvSQBUi7Bs2FmUQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/33e300c257603b01b47aca7d04627753.png",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UvMCcJX9.ejeCOwsxILuEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/33e300c257603b01b47aca7d04627753.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/mica-europe-crypto-market-reality/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/40-days-mica-europe-crypto-125046243.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7b4209e2-a1d5-385a-a347-f04b5f6d975f",
+      "content": {
+        "id": "7b4209e2-a1d5-385a-a347-f04b5f6d975f",
+        "contentType": "STORY",
+        "title": "Circle Challenges WBTC and Coinbase’s cbBTC With ‘Neutral’ Bitcoin Collateral", // 职位
+        "description": "",
+        "summary": "Circle is positioning cirBTC as neutral wrapped Bitcoin infrastructure, arguing it has no competing exchange, DEX, or lending protocol. cirBTC remains tiny, with about 40 ...",
+        "pubDate": "2026-08-14T11:29:30Z",
+        "displayTime": "2026-08-14T11:29:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ccn_928/2afdf1ad953735330fe8ae9dd21362e9",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "Wrapped Bitcoin War Heats Up as Circle Pitches cirBTC as Neutral Infrastructure",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/._.f95AU4iZgwSDkhQqyhg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ccn_928/2afdf1ad953735330fe8ae9dd21362e9",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8TQWGfc0tjJOclTIrA9FfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/2afdf1ad953735330fe8ae9dd21362e9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "CCN",
+          "url": "https://www.ccn.com/",
+          "sourceId": "ccn_928"
+        },
+        "canonicalUrl": {
+          "url": "https://www.ccn.com/news/crypto/wrapped-bitcoin-circle-cirbtc-neutral-infrastructure/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-challenges-wbtc-coinbase-cbbtc-112930463.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f77c8895-b75d-3033-9869-f5b7d3969cb0",
+      "content": {
+        "id": "f77c8895-b75d-3033-9869-f5b7d3969cb0",
+        "contentType": "STORY",
+        "title": "Circle (CRCL) Stock Looks Fairly Valued While Broader Checks Stay Weak", // 职位
+        "description": "",
+        "summary": "Circle Internet Group stock has fallen 45.9% over the past year, yet the valuation checks suggest the shares now sit closer to a middle ground rather than an obvious bargain. Recent crypto sector headlines and new product launches are keeping interest high, while the broader valuation picture looks more cautious. The 45.9% share price decline over 1 year leaves Circle Internet Group trading well below where it was, which can matter for anyone weighing a potential reset in expectations. On...",
+        "pubDate": "2026-08-14T07:12:03Z",
+        "displayTime": "2026-08-14T07:12:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GnPdIlyt7b9oqiDghGtm4A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ql4CdP5e9aQ9CqJuGung8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/circle-crcl-stock-looks-fairly-071203384.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/circle-crcl-stock-looks-fairly-071203384.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "edfd864c-b71d-314d-b90d-f9d489b89cea",
+      "content": {
+        "id": "edfd864c-b71d-314d-b90d-f9d489b89cea",
+        "contentType": "STORY",
+        "title": "Stablecoin Issuer Circle Now Runs a Bank (of Sorts). Does That Matter for Circle Stock?", // 职位
+        "description": "",
+        "summary": "Circle now runs a federally regulated bank that takes no deposits and makes no loans. Here's what it actually does, and what would make it matter.",
+        "pubDate": "2026-08-14T00:13:00Z",
+        "displayTime": "2026-08-14T00:13:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/948fe6666a98a6f07f015f88a20f7ff4.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 1004,
+          "caption": "A tall building with the word Bank  on it.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5xBhZ4zJkMBNh_bMjvJMhg--~B/aD0xMDA0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/948fe6666a98a6f07f015f88a20f7ff4.jpg",
+              "width": 1400,
+              "height": 1004,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XwSyM6igCOiiNUAsaBJuBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/948fe6666a98a6f07f015f88a20f7ff4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/13/stablecoin-issuer-circle-now-runs-a-bank-of-sorts/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-issuer-circle-now-runs-001300418.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "da7cd1f3-3163-3809-a38a-4b50066e02b8",
+      "content": {
+        "id": "da7cd1f3-3163-3809-a38a-4b50066e02b8",
+        "contentType": "STORY",
+        "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.", // 职位
+        "description": "",
+        "summary": "The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.",
+        "pubDate": "2026-08-13T21:24:11Z",
+        "displayTime": "2026-08-13T21:24:11Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/da7cd1f3-3163-3809-a38a-4b50066e02b8/sec-may-advance-crypto-rules-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/ac0eb1020df2b2e86b5eccf9fbadf9d2.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CrLvgGSVwaSXd2LpZ7Hmuw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ac0eb1020df2b2e86b5eccf9fbadf9d2.jpg",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Tu__V6dulCtcV49ID7Tytw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ac0eb1020df2b2e86b5eccf9fbadf9d2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6c11897f-3251-3746-b718-0e11f1484ec2",
+      "content": {
+        "id": "6c11897f-3251-3746-b718-0e11f1484ec2",
+        "contentType": "STORY",
+        "title": "Chime Financial Considers Adding Stablecoins To Its App", // 职位
+        "description": "",
+        "summary": "Chime Financial (NASDAQ: $CHYM) is planning to add stablecoins to its consumer banking platform and app.",
+        "pubDate": "2026-08-13T19:47:00Z",
+        "displayTime": "2026-08-13T19:47:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "caption": "Chime Financial Considers Adding Stablecoins To Its App",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WxhsTdE.dq.iGv0GPuwH_Q--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208.jpg",
+              "width": 1000,
+              "height": 600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fsFMc1eRiK4l0lh_FdYJsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "CryptoProwl",
+          "url": "https://www.cryptoprowl.com/",
+          "sourceId": "cryptoprowl_304"
+        },
+        "canonicalUrl": {
+          "url": "https://www.cryptoprowl.com/releases/chime-financial-considers-adding-stablecoins-to-its-app-6419",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/chime-financial-considers-adding-stablecoins-194700898.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d7e85b18-7eff-339b-aa18-509c64c90c16",
+      "content": {
+        "id": "d7e85b18-7eff-339b-aa18-509c64c90c16",
+        "contentType": "STORY",
+        "title": "BloFin Research: Circle’s Q2, Arc Token Presale Lifts Guidance and Bridges the Crypto Downturn", // 职位
+        "description": "",
+        "summary": "BloFin Research: Circle's Q2, Arc Token Presale Lifts Guidance and Bridges the Crypto Downturn",
+        "pubDate": "2026-08-13T14:08:13Z",
+        "displayTime": "2026-08-13T14:08:13Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/b28423725e25a6c3aa501502749618e5.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Rc9PSU92_3_dNQ2ydJgyLw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/b28423725e25a6c3aa501502749618e5.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IiRCrppVeRdnMvGOOelGWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/b28423725e25a6c3aa501502749618e5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/blofin-research-circle-q2-arc-token-presale/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/blofin-research-circle-q2-arc-140813094.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "71759437-6143-3410-99bf-dbf775f676ad",
+      "content": {
+        "id": "71759437-6143-3410-99bf-dbf775f676ad",
+        "contentType": "STORY",
+        "title": "Circle Lines Up Major Financial Institutions For Its New Arc Blockchain. Here's Why Circle Stock is Now a Buy.", // 职位
+        "description": "",
+        "summary": "The new blockchain expands its ecosystem and widens its moat.",
+        "pubDate": "2026-08-12T16:45:00Z",
+        "displayTime": "2026-08-12T16:45:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/052ee2b261063a5945d777848aba12a6.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A digital illustration of a blockchain.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/n_4jDbX6AlDpvrbVaT5CYA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/052ee2b261063a5945d777848aba12a6.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2l8QCKaR_0ymNsRypVk.ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/052ee2b261063a5945d777848aba12a6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/12/circle-lines-up-major-financial-institutions-for-i/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-lines-major-financial-institutions-164500509.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 75.41000366210938, // 当日最高价
+    "dayLow": 70.72650146484375, // 当日最低价
+    "exchange": "NYQ", // 交易所代码
+    "fiftyDayAverage": 69.81339988708496, // 50日均价
+    "lastPrice": 74.20999908447266,
+    "lastVolume": 3252549,
+    "marketCap": 18840128896.57969, // 总市值
+    "open": 71.20500183105469, // 今日开盘价
+    "previousClose": 71.0, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 71.5999984741211, // 常规市场昨日收盘价
+    "shares": 253875881,
+    "tenDayAverageVolume": 12343170,
+    "threeMonthAverageVolume": 13150426,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 86.43374988555908, // 200日均价
+    "yearChange": -0.4942788702633278,
+    "yearHigh": 159.47000122070312,
+    "yearLow": 49.900001525878906
+  },
+  "calendar": "{'Earnings Date': [datetime.date(2026, 8, 5)], 'Earnings High': 0.54, 'Earnings Low': 0.25, 'Earnings Average': 0.38086, 'Revenue High': 889000000, 'Revenue Low': 715000000, 'Revenue Average': 780537960}" // 财报日历
+}

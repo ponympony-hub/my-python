@@ -10,7 +10,7 @@ import subprocess
 import sys
 import time
 from collections.abc import Callable, Mapping, Sequence
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from typing import Any
 
 # 配置日志系统，用于记录程序运行中的错误，特别是数据获取失败的情况
@@ -208,7 +208,7 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             ticker = ticker_factory(symbol)
             price = _number(ticker.fast_info.last_price)
             change = percent_change(price, ticker.fast_info.previous_close)
-            market_cap = _number(ticker.info.get("marketCap"))
+            market_cap = _number(ticker.info.get("nonDilutedMarketCap"))
             
             if price is None or change is None or market_cap is None:
                 raise ValueError("market cap data incomplete")
@@ -231,6 +231,49 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
         icon = "💹" if r["change"] >= 0 else "🔻"
         # 格式化输出：名称:价格 图标 涨幅% ↕️市值（万亿）
         lines.append(f"{r['name']}:{r['price']:.0f} {icon}{r['change']:.0f}% ↕️{r['market_cap'] / 1e12:.2f}万亿")
+    lines.extend(errors)
+    return "\n".join(lines)
+
+def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+    """
+    生成财报时间报告。
+    按照财报时间从近到远排序，格式化为 UTC+8 可读时间，精确到分钟。
+    """
+    results = []
+    errors = []
+    # 定义 UTC+8 时区 (东八区)
+    tz_utc8 = timezone(timedelta(hours=8))
+    
+    for name, symbol in stocks.items():
+        ticker = None
+        try:
+            ticker = ticker_factory(symbol)
+            # 获取财报时间戳 (earningsTimestampStart)
+            ts = ticker.info.get("earningsTimestampStart")
+
+            if ts is None:
+                raise ValueError("earnings timestamp not found")
+            
+            # 将 Unix 时间戳转换为 UTC+8 格式的 datetime 对象
+            dt = datetime.fromtimestamp(ts, tz=tz_utc8)
+            # 格式化为可读字符串，精确到分钟
+            formatted_time = dt.strftime("%Y-%m-%d %H:%M")
+            
+            results.append({
+                "name": name,
+                "timestamp": ts,
+                "time": formatted_time
+            })
+        except Exception as e:
+            _log_failed_ticker(name, symbol, e, ticker)
+            # errors.append(f"{name}: 获取财报时间失败")
+
+    # 排序：按照时间戳从小到大排列（最近的财报时间在前面）
+    results.sort(key=lambda x: x["timestamp"])
+
+    lines = ["📅 财报日历播报："]
+    for r in results:
+        lines.append(f"{r['name']}: {r['time']}")
     lines.extend(errors)
     return "\n".join(lines)
 

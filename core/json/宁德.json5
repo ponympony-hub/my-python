@@ -1,0 +1,886 @@
+{
+  "info": {
+    "address1": "No. 2, Xingang Road", // 地址1
+    "address2": "Zhangwan Town Jiaocheng District", // 地址2
+    "city": "Ningde", // 城市
+    "zip": "352100", // 邮编
+    "country": "China", // 国家
+    "phone": "86 59 3258 3668", // 电话
+    "fax": "86 59 3258 3667",
+    "website": "https://www.catl.com", // 官方网站
+    "industry": "Electrical Equipment & Parts", // 行业
+    "industryKey": "electrical-equipment-parts", // 行业键
+    "industryDisp": "Electrical Equipment & Parts", // 行业显示名称
+    "sector": "Industrials", // 板块
+    "sectorKey": "industrials", // 板块键
+    "sectorDisp": "Industrials", // 板块显示名称
+    "longBusinessSummary": "Contemporary Amperex Technology Co., Limited, together with its subsidiaries, engages in the research, development, production, and sale of electric vehicle and energy storage system batteries in China and internationally. The company offers power battery systems, including cells, modules/battery boxes, and battery packs, as well as lithium iron phosphate, ternary high-voltage medium-nickel, ternary high-nickel, super hybrid, sodium-ion, and condensed matter batteries; energy storage battery systems, such as cells, battery cabinets, energy storage containers, and system integration; and battery material products comprising lithium salts, precursors, and cathode materials. It also processes, purifies, and synthesizes metal materials, which include nickel, cobalt, manganese, lithium, phosphorus, iron, aluminum, copper, and other materials from spent batteries. In addition, the company provides passenger vehicles solutions, such as electric private and operating vehicles, as well as hybrid; commercial application solutions comprising road passenger transport, urban delivery, heavy-duty transport, urban street cleaning, construction machinery, two-wheeled vehicle, vessel, and special vehicle; energy storage solutions on power generation, transmission and distribution, and consumption; and battery recycling solutions. Further, it is involved in investment activities. The company was incorporated in 2011 and is headquartered in Ningde, China.", // 公司业务摘要
+    "fullTimeEmployees": 185839, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yuqun  Zeng", // 姓名
+        "age": 57, // 年龄
+        "title": "Executive Co-Chairman & GM", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 11380000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jian  Pan", // 姓名
+        "age": 49, // 年龄
+        "title": "Executive Co-Chairman", // 职位
+        "yearBorn": 1976, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 330000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ping  Li", // 姓名
+        "age": 57, // 年龄
+        "title": "Executive Vice Chairman", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 359000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jia  Zhou", // 姓名
+        "age": 47, // 年龄
+        "title": "Executive Vice Chairman", // 职位
+        "yearBorn": 1978, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1800000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shu  Zheng", // 姓名
+        "age": 46, // 年龄
+        "title": "CFO & Accounting Supervisor", // 职位
+        "yearBorn": 1979, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2931000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yingming  Wu", // 姓名
+        "age": 58, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1967, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2113000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Chuying  Ouyang", // 姓名
+        "age": 49, // 年龄
+        "title": "Executive Director", // 职位
+        "yearBorn": 1976, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 3298000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Fenggang  Zhao", // 姓名
+        "age": 57, // 年龄
+        "title": "Co-President of Research & Development System and Co-President of Engineering & Manufacturing System", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 3393000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Li  Jiang", // 姓名
+        "age": 46, // 年龄
+        "title": "Deputy GM & Joint Company Secretary", // 职位
+        "yearBorn": 1979, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1942000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Libin  Tan", // 姓名
+        "age": 57, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1968, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2740000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 393.93, // 昨日收盘价
+    "open": 395.0, // 今日开盘价
+    "dayLow": 390.5, // 当日最低价
+    "dayHigh": 400.5, // 当日最高价
+    "regularMarketPreviousClose": 393.93, // 常规市场昨日收盘价
+    "regularMarketOpen": 395.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 390.5, // 常规市场当日最低价
+    "regularMarketDayHigh": 400.5, // 常规市场当日最高价
+    "dividendRate": 2.42,
+    "dividendYield": 0.61,
+    "exDividendDate": 1786320000,
+    "payoutRatio": 0.0538, // 股利支付率
+    "beta": 0.451, // 贝塔系数
+    "trailingPE": 21.377874, // 滚动市盈率 (TTM)
+    "forwardPE": 15.991819, // 预测市盈率
+    "volume": 20399838, // 成交量
+    "regularMarketVolume": 20399838, // 常规市场成交量
+    "averageVolume": 34555388, // 平均成交量
+    "averageVolume10days": 24859423, // 10日平均成交量
+    "averageDailyVolume10Day": 24859423, // 10日日均成交量
+    "bid": 399.85, // 买入价
+    "ask": 399.96, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 1850569392128, // 总市值
+    "nonDilutedMarketCap": 1856948553390, // 非稀释市值
+    "fiftyTwoWeekLow": 272.05, // 52周最低价
+    "fiftyTwoWeekHigh": 468.75, // 52周最高价
+    "allTimeHigh": 468.75, // 历史最高价
+    "allTimeLow": 16.76111, // 历史最低价
+    "priceToSalesTrailing12Months": 3.546972, // 市销率 (TTM)
+    "fiftyDayAverage": 386.8612, // 50日均价
+    "twoHundredDayAverage": 388.7037, // 200日均价
+    "trailingAnnualDividendRate": 0.404, // 年度股息率
+    "trailingAnnualDividendYield": 0.001025563, // 年度股息收益率
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 1554812633088, // 企业价值 (EV)
+    "profitMargins": 0.16292, // 利润率
+    "floatShares": 2575479667, // 流通股本
+    "sharesOutstanding": 4408354619, // 发行在外股份总数
+    "heldPercentInsiders": 0.39218, // 内部人士持股比例
+    "heldPercentInstitutions": 0.25753, // 机构持股比例
+    "impliedSharesOutstanding": 4626654919, // 隐含发行在外股份
+    "bookValue": 82.498, // 每股净资产
+    "priceToBook": 4.84836, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": 0.365, // 季度盈利增长
+    "netIncomeToCommon": 85000142848, // 归属于普通股股东的净利润
+    "trailingEps": 18.71, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 25.01154, // 预测每股收益
+    "pegRatio": 1.09, // PEG比率
+    "lastSplitFactor": "1.8:1",
+    "lastSplitDate": 1682467200,
+    "enterpriseToRevenue": 2.98, // 企业价值/营收比
+    "enterpriseToEbitda": 12.841, // 企业价值/EBITDA比
+    "52WeekChange": 0.39197874, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 1.411,
+    "lastDividendDate": 1786320000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 399.98, // 当前价格
+    "targetHighPrice": 800.0, // 目标最高价
+    "targetLowPrice": 450.0, // 目标最低价
+    "targetMeanPrice": 564.1679, // 目标平均价
+    "targetMedianPrice": 570.0, // 目标中位价
+    "recommendationMean": 1.2069, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 24, // 分析师人数
+    "totalCash": 440211603456, // 现金总额
+    "totalCashPerShare": 95.733, // 每股现金
+    "ebitda": 121086427136, // EBITDA
+    "totalDebt": 149001895936, // 总债务
+    "quickRatio": 1.201, // 速动比率
+    "currentRatio": 1.56, // 流动比率
+    "totalRevenue": 521732161536, // 总营收
+    "debtToEquity": 35.995, // 债务权益比
+    "revenuePerShare": 114.756, // 每股营收
+    "returnOnAssets": 0.05829, // 资产回报率 (ROA)
+    "returnOnEquity": 0.24771999, // 权益回报率 (ROE)
+    "grossProfits": 127918587904, // 毛利润
+    "freeCashflow": 73865617408, // 自由现金流
+    "operatingCashflow": 134749765632, // 经营现金流
+    "earningsGrowth": 0.318, // 盈利增长
+    "revenueGrowth": 0.569, // 营收增长
+    "grossMargins": 0.24518, // 毛利率
+    "ebitdaMargins": 0.23209, // EBITDA利润率
+    "operatingMargins": 0.15501, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "300750.SZ", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "CATL", // 公司简称
+    "longName": "Contemporary Amperex Technology Co., Limited", // 公司正式名称
+    "regularMarketChangePercent": 1.5358105, // 常规市场变动百分比
+    "regularMarketPrice": 399.98, // 常规市场当前价格
+    "averageDailyVolume3Month": 34555388, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 127.93002, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.47024456, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "272.05 - 468.75", // 52周价格范围
+    "fiftyTwoWeekHighChange": -68.76999, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.14670931, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 39.197876, // 52周价格变动百分比
+    "earningsTimestampStart": 1744714740, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1744714740, // 财报发布截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 18.71, // 过去12个月每股收益
+    "epsForward": 25.01154, // 预测每股收益
+    "epsCurrentYear": 20.80222, // 本年度每股收益
+    "priceEpsCurrentYear": 19.227757, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 13.118805, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.03391088, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 11.276306, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.02901003, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.2 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1528680600000, // 首次交易日期时间戳
+    "regularMarketChange": 6.0500183, // 常规市场价格变动
+    "regularMarketDayRange": "390.5 - 400.5", // 常规市场当日价格范围
+    "fullExchangeName": "Shenzhen", // 交易所全称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950271, // 常规市场时间戳
+    "exchange": "SHZ", // 交易所代码
+    "messageBoardId": "finmb_325839958", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "marketState": "POSTPOST", // 市场状态
+    "trailingPegRatio": 1.0923 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+      "content": {
+        "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+        "contentType": "STORY",
+        "title": "U.S. EV market shows signs of bottoming out: Bernstein", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bernstein said global electric vehicle demand recovered in the second quarter, with the U.S. market showing signs of stabilization after a weak start to the year.",
+        "pubDate": "2026-08-17T12:14:52Z",
+        "displayTime": "2026-08-17T12:14:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c2eef4b6-f58f-3856-b736-09be8924bbf2",
+      "content": {
+        "id": "c2eef4b6-f58f-3856-b736-09be8924bbf2",
+        "contentType": "STORY",
+        "title": "Quinbrook, CATL advance Supernode BESS with $333m stage 3 financing", // 职位
+        "description": "",
+        "summary": "The site provides approximately 4GW of available connection capacity, supporting phased expansion.",
+        "pubDate": "2026-08-17T09:00:36Z",
+        "displayTime": "2026-08-17T09:00:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/energy_monitor_411/7e4b94cd0d5d8ee1e91ce2acd8d6e31d.jpg",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "Supernode is located next to the South Pine substation.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XHWxpSkzqoOxEimaz2nNvA--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/energy_monitor_411/7e4b94cd0d5d8ee1e91ce2acd8d6e31d.jpg",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RWvTOBQ77v2.PyUTK2JLHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/energy_monitor_411/7e4b94cd0d5d8ee1e91ce2acd8d6e31d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Energy Monitor",
+          "url": "https://www.globaldata.com/",
+          "sourceId": "energy_monitor_411"
+        },
+        "canonicalUrl": {
+          "url": "https://www.energymonitor.ai/news/supernode-bess-stage-3-financing/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/quinbrook-catl-advance-supernode-bess-090036426.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "25931ab6-e6b0-35c0-97e8-bd4bac7e6ce9",
+      "content": {
+        "id": "25931ab6-e6b0-35c0-97e8-bd4bac7e6ce9",
+        "contentType": "STORY",
+        "title": "ContourGlobal to deploy 3GWh CATL batteries in UK, Greece and Chile", // 职位
+        "description": "",
+        "summary": "The agreement includes 526 containerised systems, each offering 5.64MWh of capacity and providing four hours of continuous discharge.",
+        "pubDate": "2026-08-11T08:46:07Z",
+        "displayTime": "2026-08-11T08:46:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/power_technology_866/d1c2b2ec44f1a0674905d4a47f6ebe4a.png",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "The signing ceremony between ContourGlobal and CATL. Credit: ContourGlobal.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rfpMkuoqdo8bQksVALMP4g--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/power_technology_866/d1c2b2ec44f1a0674905d4a47f6ebe4a.png",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dZDU78p7MPIk1M6wTV4kNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/power_technology_866/d1c2b2ec44f1a0674905d4a47f6ebe4a.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Power Technology",
+          "url": "https://www.globaldata.com/",
+          "sourceId": "power_technology_866"
+        },
+        "canonicalUrl": {
+          "url": "https://www.power-technology.com/news/contourglobal-3gwh-catl-batteries-uk-greece-chile/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/contourglobal-deploy-3gwh-catl-batteries-084607969.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7abd7be8-d1b2-3d45-be68-1c435e9fb789",
+      "content": {
+        "id": "7abd7be8-d1b2-3d45-be68-1c435e9fb789",
+        "contentType": "STORY",
+        "title": "Spain seeks common EU rules as regions court Chinese investors – report", // 职位
+        "description": "",
+        "summary": "Reuters reported that Spanish officials want faster approval of a “Made in Europe” law.",
+        "pubDate": "2026-08-03T15:59:42Z",
+        "displayTime": "2026-08-03T15:59:42Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/just_auto_187/db5056ed518932f34b32bd3c8a9ea51c",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "Spain already requires non-EU investors in critical infrastructure and technology to submit detailed screening information. Credit: Zafer Kurt / Shutterstock.com",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mSMV435aAqyy8sDrZx3.AA--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/just_auto_187/db5056ed518932f34b32bd3c8a9ea51c",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RfKMIG.MdDcU36nisy0MGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/just_auto_187/db5056ed518932f34b32bd3c8a9ea51c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Just Auto",
+          "url": "https://www.globaldata.com/",
+          "sourceId": "just_auto_187"
+        },
+        "canonicalUrl": {
+          "url": "https://www.just-auto.com/news/spain-seeks-common-eu-rules/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/spain-seeks-common-eu-rules-155942465.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cdc137b5-c8fc-3107-9823-cf2eda9ba1dc",
+      "content": {
+        "id": "cdc137b5-c8fc-3107-9823-cf2eda9ba1dc",
+        "contentType": "STORY",
+        "title": "A New $200 Million SPAC Just Launched on Nasdaq to Buy Video Game and Media Companies", // 职位
+        "description": "",
+        "summary": "A fresh blank-check company just landed on Nasdaq with a mandate to shake up gaming and digital media M&A, and the acquisition targets it chooses could signal where the next wave of consolidation is headed.",
+        "pubDate": "2026-07-31T13:49:16Z",
+        "displayTime": "2026-07-31T13:49:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/81a0cc69c6dbc1dfba50e45893475187",
+          "originalWidth": 1500,
+          "originalHeight": 999,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9UmgSYwoHyEERL9Qr.zAWA--~B/aD05OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/81a0cc69c6dbc1dfba50e45893475187",
+              "width": 1500,
+              "height": 999,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TQ0U_2YceTL10.3JrrDSZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/81a0cc69c6dbc1dfba50e45893475187",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/31/a-new-200-million-spac-just-launched-on-nasdaq-to-buy-video-game-and-media-companies-2/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/200-million-spac-just-launched-134916356.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3fbfe438-f922-3f7f-a627-dae5e119ec9a",
+      "content": {
+        "id": "3fbfe438-f922-3f7f-a627-dae5e119ec9a",
+        "contentType": "STORY",
+        "title": "After Ford Soars 44% on AI Fever, Traders Want Proof It’s Real", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- Two months after Ford Motor Co. became the latest old-economy manufacturer to be swept up in the artificial-intelligence rally, investors are looking for proof the enthusiasm was justified. Most Read from BloombergNvidia’s $750 Billion in Deals Reignite Circular AI FearsChip Rout Deepens on Circular Funding, China Competition FearsCitadel Securities Sees Warsh Delivering Surprise Fed HikeDeepSeek Suspends Fundraising After Viral US-China PostsS&P 500 Wobbles as AI Angst Offsets Oi",
+        "pubDate": "2026-07-28T12:53:43Z",
+        "displayTime": "2026-07-28T12:53:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ford-soars-44-ai-fever-125343578.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ford-soars-44-ai-fever-125343578.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "31e5db6d-0d86-380a-992b-c9332c444bad",
+      "content": {
+        "id": "31e5db6d-0d86-380a-992b-c9332c444bad",
+        "contentType": "STORY",
+        "title": "DeepSeek pauses fundraising round after founder's leaked comments", // 职位
+        "description": "",
+        "summary": "DeepSeek has paused its second fundraising round after private comments made by founder Liang Wenfeng were leaked online, according to a Bloomberg News report. Bloomberg reported that the Chinese AI startup verbally informed prospective investors that investment agreements expected to be...",
+        "pubDate": "2026-07-27T15:19:00Z",
+        "displayTime": "2026-07-27T15:19:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/08dc7f3aed35c765bba69b662d6e087c",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "DeepSeek pauses fundraising round after founder's leaked comments",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oQwD10zEH4KRRgD.m72wWg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/08dc7f3aed35c765bba69b662d6e087c",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/auDzvH5lAmyPhxFr6SgMyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/08dc7f3aed35c765bba69b662d6e087c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1096085/deepseek-pauses-fundraising-round-after-founder-s-leaked-comments-1096085.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-pauses-fundraising-round-founders-151900597.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dda7807f-e9c1-3141-819c-9b0e43e2073f",
+      "content": {
+        "id": "dda7807f-e9c1-3141-819c-9b0e43e2073f",
+        "contentType": "STORY",
+        "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.Most Read from BloombergRetina Chip Designed to Restore Sight to Go on Sale in EuropeSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysTrump Seethes as Iran War Spirals Anew With No End in SightApple Plans Overhaul of M",
+        "pubDate": "2026-07-25T14:49:55Z",
+        "displayTime": "2026-07-25T14:49:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-said-tell-backers-funding-144955175.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-said-tell-backers-funding-144955175.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3c9e8c48-ba50-3dea-ab63-116934685319",
+      "content": {
+        "id": "3c9e8c48-ba50-3dea-ab63-116934685319",
+        "contentType": "STORY",
+        "title": "CATL Profit Climbs on Surging Demand for Energy-Storage Batteries", // 职位
+        "description": "",
+        "summary": "The world’s largest battery maker reported sharply higher profit as booming demand for energy-storage systems and resilient EV battery sales offset weakening appetite for EVs in China.",
+        "pubDate": "2026-07-24T11:58:00Z",
+        "displayTime": "2026-07-24T11:58:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/3c9e8c48-ba50-3dea-ab63-116934685319/catl-profit-climbs-on-surging.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/82eec7c730b10aed060a0d399a45bac3",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_IKWba4At0ip5OfJXLrdrw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/82eec7c730b10aed060a0d399a45bac3",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HBH8hUjOhocy.fTfx0PPog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/82eec7c730b10aed060a0d399a45bac3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/business/autos/catl-profit-climbs-on-surging-demand-for-energy-storage-batteries-041b4b69?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0957be95-cd49-3ea3-8cef-d357a1fc0b18",
+      "content": {
+        "id": "0957be95-cd49-3ea3-8cef-d357a1fc0b18",
+        "contentType": "STORY",
+        "title": "Nvidia Returns to NZS Growth Fund", // 职位
+        "description": "",
+        "summary": "NZS shifts capital toward AI infrastructure and healthcare leaders",
+        "pubDate": "2026-07-21T12:22:07Z",
+        "displayTime": "2026-07-21T12:22:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-returns-nzs-growth-fund-122207528.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 400.5, // 当日最高价
+    "dayLow": 390.5, // 当日最低价
+    "exchange": "SHZ", // 交易所代码
+    "fiftyDayAverage": 386.8611999511719, // 50日均价
+    "lastPrice": 399.9800109863281,
+    "lastVolume": 20399838,
+    "marketCap": 1850569485331.569, // 总市值
+    "open": 395.0, // 今日开盘价
+    "previousClose": 393.92999267578125, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 393.92999267578125, // 常规市场昨日收盘价
+    "shares": 4626654919,
+    "tenDayAverageVolume": 24859423,
+    "threeMonthAverageVolume": 34480765,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 388.77745025634766, // 200日均价
+    "yearChange": 0.39197877270594084,
+    "yearHigh": 468.75,
+    "yearLow": 272.04998779296875
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 8, 10), 'Earnings Date': [], 'Earnings High': 5.37, 'Earnings Low': 4.72, 'Earnings Average': 5.045, 'Revenue High': 209729713180, 'Revenue Low': 151069323000, 'Revenue Average': 180399518090}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.078909,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.122293,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.13336,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.362667,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 2.52,
+      "Stock Splits": 1.8
+    },
+    {
+      "Dividends": 5.028,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.23,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 4.553,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.007,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 6.957,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.411,
+      "Stock Splits": 0.0
+    }
+  ]
+}

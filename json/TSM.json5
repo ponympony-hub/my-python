@@ -1,0 +1,1114 @@
+{
+  "info": {
+    "address1": "Hsinchu Science Park", // 地址1
+    "address2": "No. 8, Li-Hsin Road 6", // 地址2
+    "city": "Hsinchu City", // 城市
+    "zip": "300096", // 邮编
+    "country": "Taiwan", // 国家
+    "phone": "886 3 563 6688", // 电话
+    "fax": "886 3 563 7000",
+    "website": "https://www.tsmc.com", // 官方网站
+    "industry": "Semiconductors", // 行业
+    "industryKey": "semiconductors", // 行业键
+    "industryDisp": "Semiconductors", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. Taiwan Semiconductor Manufacturing Company Limited was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan.", // 公司业务摘要
+    "fullTimeEmployees": 76907, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. C. C.  Wei Ph.D.", // 姓名
+        "title": "Chairman & CEO", // 职位
+        "fiscalYear": 2025, // 财年
+        "totalPay": 63929160,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jen-Chau  Huang", // 姓名
+        "title": "Senior VP & CFO", // 职位
+        "fiscalYear": 2025, // 财年
+        "totalPay": 9261580,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Y. P.  Chyn", // 姓名
+        "title": "Executive VP of Operations & Co-COO", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Y. J. Mii", // 姓名
+        "title": "Executive VP & Co-COO", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Min  Cao", // 姓名
+        "title": "VP of Research, Development, Pathfinding & Corporate Research and CTO", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Horng-Dar  Lin", // 姓名
+        "title": "Vice President of Corporate Information Technology & Chief Information Officer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Jeff  Su", // 姓名
+        "title": "Director of Investor Relations", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Sylvia  Fang", // 姓名
+        "title": "Senior VP, General Counsel & Corporate Governance Officer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Pei-Hong  Chen", // 姓名
+        "title": "Vice President of the Human Resources", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Wei-Jen  Lo", // 姓名
+        "title": "Senior Vice President of Corporate Strategy Development", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "irWebsite": "http://www.tsmc.com/english/investorRelations/index.htm",
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 426.35, // 昨日收盘价
+    "open": 429.97, // 今日开盘价
+    "dayLow": 426.8, // 当日最低价
+    "dayHigh": 432.0, // 当日最高价
+    "regularMarketPreviousClose": 426.35, // 常规市场昨日收盘价
+    "regularMarketOpen": 429.97, // 常规市场今日开盘价
+    "regularMarketDayLow": 426.8, // 常规市场当日最低价
+    "regularMarketDayHigh": 432.0, // 常规市场当日最高价
+    "dividendRate": 4.34,
+    "dividendYield": 1.02,
+    "exDividendDate": 1789516800,
+    "payoutRatio": 0.2574, // 股利支付率
+    "fiveYearAvgDividendYield": 1.55,
+    "beta": 1.258, // 贝塔系数
+    "trailingPE": 32.46344, // 滚动市盈率 (TTM)
+    "forwardPE": 19.763092, // 预测市盈率
+    "volume": 1932692, // 成交量
+    "regularMarketVolume": 1931329, // 常规市场成交量
+    "averageVolume": 13632414, // 平均成交量
+    "averageVolume10days": 10469980, // 10日平均成交量
+    "averageDailyVolume10Day": 10469980, // 10日日均成交量
+    "bid": 429.14, // 买入价
+    "ask": 429.28, // 卖出价
+    "bidSize": 40, // 买盘量
+    "askSize": 80, // 卖盘量
+    "marketCap": 2232596561920, // 总市值
+    "nonDilutedMarketCap": 1931574085745, // 非稀释市值
+    "fiftyTwoWeekLow": 223.7, // 52周最低价
+    "fiftyTwoWeekHigh": 479.0, // 52周最高价
+    "allTimeHigh": 479.0, // 历史最高价
+    "allTimeLow": 2.842947, // 历史最低价
+    "priceToSalesTrailing12Months": 0.5025767, // 市销率 (TTM)
+    "fiftyDayAverage": 425.162, // 50日均价
+    "twoHundredDayAverage": 363.49365, // 200日均价
+    "trailingAnnualDividendRate": 26.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.06098276, // 年度股息收益率
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 15282526486528, // 企业价值 (EV)
+    "profitMargins": 0.49923, // 利润率
+    "floatShares": 37844248565, // 流通股本
+    "sharesOutstanding": 5186474013, // 发行在外股份总数
+    "sharesShort": 33191967,
+    "sharesShortPriorMonth": 27731361,
+    "sharesShortPreviousMonthDate": 1782777600,
+    "dateShortInterest": 1785456000,
+    "sharesPercentSharesOut": 0.0064,
+    "heldPercentInsiders": 0.00013, // 内部人士持股比例
+    "heldPercentInstitutions": 0.15472999, // 机构持股比例
+    "shortRatio": 2.16,
+    "shortPercentOfFloat": 0.0069,
+    "impliedSharesOutstanding": 5186474013, // 隐含发行在外股份
+    "bookValue": 4.7950196, // 每股净资产
+    "priceToBook": 89.7734, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": 0.774, // 季度盈利增长
+    "netIncomeToCommon": 2216808415232, // 归属于普通股股东的净利润
+    "trailingEps": 13.26, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 21.78127, // 预测每股收益
+    "pegRatio": 1.03, // PEG比率
+    "lastSplitFactor": "1005:1000",
+    "lastSplitDate": 1247616000,
+    "enterpriseToRevenue": 3.442, // 企业价值/营收比
+    "enterpriseToEbitda": 4.825, // 企业价值/EBITDA比
+    "52WeekChange": 0.76608264, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 0.955,
+    "lastDividendDate": 1781136000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 430.29, // 当前价格
+    "targetHighPrice": 700.0, // 目标最高价
+    "targetLowPrice": 431.5, // 目标最低价
+    "targetMeanPrice": 547.09375, // 目标平均价
+    "targetMedianPrice": 536.0, // 目标中位价
+    "recommendationMean": 1.42105, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 18, // 分析师人数
+    "totalCash": 3518010228736, // 现金总额
+    "totalCashPerShare": 84.788, // 每股现金
+    "ebitda": 3167467077632, // EBITDA
+    "totalDebt": 1068558516224, // 总债务
+    "quickRatio": 2.132, // 速动比率
+    "currentRatio": 2.458, // 流动比率
+    "totalRevenue": 4440492343296, // 总营收
+    "debtToEquity": 16.504, // 债务权益比
+    "revenuePerShare": 107.0325, // 每股营收
+    "returnOnAssets": 0.19002001, // 资产回报率 (ROA)
+    "returnOnEquity": 0.39969003, // 权益回报率 (ROE)
+    "grossProfits": 2852135895040, // 毛利润
+    "freeCashflow": 730826014720, // 自由现金流
+    "operatingCashflow": 2634679058432, // 经营现金流
+    "earningsGrowth": 0.774, // 盈利增长
+    "revenueGrowth": 0.36, // 营收增长
+    "grossMargins": 0.6423, // 毛利率
+    "ebitdaMargins": 0.71331, // EBITDA利润率
+    "operatingMargins": 0.60344005, // 营业利润率
+    "financialCurrency": "TWD", // 财务报表货币
+    "symbol": "TSM", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Nasdaq Real Time Price", // 报价来源
+    "triggerable": true, // 是否可触发
+    "customPriceAlertConfidence": "HIGH", // 自定义价格警报信心度
+    "regularMarketChangePercent": 0.96521723, // 常规市场变动百分比
+    "regularMarketPrice": 430.4652, // 常规市场当前价格
+    "marketState": "REGULAR", // 市场状态
+    "earningsTimestamp": 1784205000, // 财报时间戳
+    "earningsTimestampStart": 1792067400, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1792067400, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1784181600, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1784181600, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 13.26, // 过去12个月每股收益
+    "epsForward": 21.78127, // 预测每股收益
+    "epsCurrentYear": 16.89809, // 本年度每股收益
+    "priceEpsCurrentYear": 25.474194, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 5.3032227, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.0124734165, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 66.97156, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.1842441, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 0, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.4 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "corporateActions": [ // 公司行为
+      {
+        "header": "Dividend",
+        "message": "TSM announced a cash dividend of $1.114 with an ex-date of Sep. 16, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1789531200000,
+          "amount": "1.114"
+        }
+      }
+    ],
+    "regularMarketTime": 1786977424, // 常规市场时间戳
+    "hasPrePostMarketData": true, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 876403800000, // 首次交易日期时间戳
+    "regularMarketChange": 4.115204, // 常规市场价格变动
+    "regularMarketDayRange": "426.8 - 432.0", // 常规市场当日价格范围
+    "fullExchangeName": "NYSE", // 交易所全称
+    "averageDailyVolume3Month": 13632414, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 206.76521, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.9242969, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "223.7 - 479.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -48.53479, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.10132524, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 76.60826, // 52周价格变动百分比
+    "dividendDate": 1799280000,
+    "exchange": "NYQ", // 交易所代码
+    "messageBoardId": "finmb_380075", // 留言板ID
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "shortName": "Taiwan Semiconductor Manufactur", // 公司简称
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited", // 公司正式名称
+    "displayName": "Taiwan Semiconductor Manufacturing Company",
+    "trailingPegRatio": 1.0279 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "60075bbc-b054-3e0b-86dc-23fb0ee0b423",
+      "content": {
+        "id": "60075bbc-b054-3e0b-86dc-23fb0ee0b423",
+        "contentType": "STORY",
+        "title": "Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying", // 职位
+        "description": "",
+        "summary": "David Tepper just posted a 32% return in six months riding memory chips, then quietly dumped his winners and moved the money somewhere most AI investors are completely ignoring.",
+        "pubDate": "2026-08-17T14:09:13Z",
+        "displayTime": "2026-08-17T14:09:13Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
+          "originalWidth": 2845,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Eqakt4vyKTVdmMwH3THYhQ--~B/aD0xNjAwO3c9Mjg0NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
+              "width": 2845,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/s65STbSPcWzD1vdAFWFacw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/billionaire-david-tepper-trimmed-micron-and-sold-out-of-sandisk-heres-the-new-ai-stocks-hes-buying/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6238a164-79a4-30cc-ac25-13cad2788b9b",
+      "content": {
+        "id": "6238a164-79a4-30cc-ac25-13cad2788b9b",
+        "contentType": "STORY",
+        "title": "The Market Is Sending a Signal And These Stocks Stand Out", // 职位
+        "description": "",
+        "summary": "Three AI infrastructure giants are flashing the same rare combination of signals at once, and analysts are quietly setting price targets that would require gains few stocks ever deliver in a single year.",
+        "pubDate": "2026-08-17T14:00:12Z",
+        "displayTime": "2026-08-17T14:00:12Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
+          "originalWidth": 2844,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/iCqKN2EfX8ALEawq77o1bw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
+              "width": 2844,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KxFDG6nJzhhDrWEAzpEFGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/the-market-is-sending-a-signal-and-these-stocks-stand-out/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-sending-signal-stocks-stand-140012931.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
+      "content": {
+        "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
+        "contentType": "STORY",
+        "title": "Harvard Has a Massive Stake in SpaceX", // 职位
+        "description": "",
+        "summary": "$2.2 billion That’s the stake that Harvard University’s endowment fund holds in SpaceX, according to a Friday securities filing. It amounts to roughly 12.9 million shares. That’s a much bigger investment than in other major tech companies, the document showed: By comparison, Harvard Management has a roughly $350 million stake in Taiwan Semiconductor Manufacturing and $234 million worth of Amazon shares.",
+        "pubDate": "2026-08-17T13:49:22Z",
+        "displayTime": "2026-08-17T13:49:22Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/11e3f917-3baf-368a-a4c4-2ebc1cfb88d0/harvard-has-a-massive-stake.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MSwVyvYy46d8AnK9c6vhNw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bNu.ToVbwcGTpoUqYpaztA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/harvard-has-a-massive-stake-in-spacex-8P4e6O1CP3NpA1LMTcoM?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cae2e62d-3789-38bb-9b40-e193d361e267",
+      "content": {
+        "id": "cae2e62d-3789-38bb-9b40-e193d361e267",
+        "contentType": "STORY",
+        "title": "Zacks Market Edge Highlights: ARW, MKSI and MWH", // 职位
+        "description": "",
+        "summary": "Arrow Electronics, MKS and SOLV Energy stand out as AI infrastructure plays with surging sales, earnings and orders.",
+        "pubDate": "2026-08-17T09:09:00Z",
+        "displayTime": "2026-08-17T09:09:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/023ufLULAipHh3oHz3w7HQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OoY.Tg.gyCCmM.W0_wB4NQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-arw-090900911.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-arw-090900911.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cc0a7ff2-8b78-3980-8e25-a5b7451294b7",
+      "content": {
+        "id": "cc0a7ff2-8b78-3980-8e25-a5b7451294b7",
+        "contentType": "STORY",
+        "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’", // 职位
+        "description": "",
+        "summary": "Top hedge funds quietly rotated out of one chip giant and piled into another last quarter, and the price action since then suggests they knew something. Here is what Druckenmiller, Loeb, and Tepper actually did with their semiconductor books.",
+        "pubDate": "2026-08-16T22:13:14Z",
+        "displayTime": "2026-08-16T22:13:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ba8f275e43b774e895051671f68a4efe.jpg",
+          "originalWidth": 7680,
+          "originalHeight": 4320,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FySmrhFhv_1MnJRfMcFI5Q--~B/aD00MzIwO3c9NzY4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/ba8f275e43b774e895051671f68a4efe.jpg",
+              "width": 7680,
+              "height": 4320,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3097XBBP4GAln5VGBg6ixg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ba8f275e43b774e895051671f68a4efe.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ca41f793-ce40-388d-a916-920e4ca1f060",
+      "content": {
+        "id": "ca41f793-ce40-388d-a916-920e4ca1f060",
+        "contentType": "STORY",
+        "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here’s Why Elon Musk is Pushing All-In", // 职位
+        "description": "",
+        "summary": "SpaceX is moving fast enough to potentially spend half a trillion dollars on data centers in a single year, and the inference economics driving that decision reveal something surprising about where the entire AI arms race could break down.",
+        "pubDate": "2026-08-16T13:31:55Z",
+        "displayTime": "2026-08-16T13:31:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/728649af3f60cb8e1bc68323bc430385.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/r4xYp3OnwiOln_mqQlv94A--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/728649af3f60cb8e1bc68323bc430385.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sAmkryiU2PhYIfuDBMSGrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/728649af3f60cb8e1bc68323bc430385.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/16/spacex-is-planning-to-spend-up-to-500-billion-on-data-centers-heres-why-elon-musk-is-pushing-all-in/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-planning-spend-500-billion-133155872.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e3d6f329-86fd-363e-ae9c-2e27239ea112",
+      "content": {
+        "id": "e3d6f329-86fd-363e-ae9c-2e27239ea112",
+        "contentType": "STORY",
+        "title": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says.", // 职位
+        "description": "",
+        "summary": "TSMC looks pricey, but there's a good reason for that.",
+        "pubDate": "2026-08-16T11:55:00Z",
+        "displayTime": "2026-08-16T11:55:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a00ede48b09047e447a13e2dfa04b959.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The Taiwan Semiconductor logo.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TowKdKgxSelw2_zr0Rmv9A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a00ede48b09047e447a13e2dfa04b959.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dtEMV1NoETWT9hTinjXyVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a00ede48b09047e447a13e2dfa04b959.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/16/should-you-buy-taiwan-semiconductor-stock-below-44/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-stock-below-115500690.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ed5a3b8e-b186-3462-ad3b-018a9dea03f2",
+      "content": {
+        "id": "ed5a3b8e-b186-3462-ad3b-018a9dea03f2",
+        "contentType": "STORY",
+        "title": "These 5 AI Stocks Have Returned 300%-Plus Over the Past 3 Years -- and 1 Still Looks Dirt Cheap", // 职位
+        "description": "",
+        "summary": "Even among an impressive peer group of chip companies, Micron Technology stands out.",
+        "pubDate": "2026-08-16T08:33:00Z",
+        "displayTime": "2026-08-16T08:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/93b3317bab6c2c012ca93fae65e3c6b9.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "A person sitting at a desk.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Gq1nuJFY7y5_FosQ3AmsDQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/93b3317bab6c2c012ca93fae65e3c6b9.jpg",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VIq9IxS0cJKni71wFY1uMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/93b3317bab6c2c012ca93fae65e3c6b9.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/16/these-5-ai-stocks-have-returned-300-plus-over-the/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stocks-returned-300-083300466.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "24c72d5d-930f-3aa6-93e7-aac9a8608458",
+      "content": {
+        "id": "24c72d5d-930f-3aa6-93e7-aac9a8608458",
+        "contentType": "STORY",
+        "title": "How Investors May Respond To SoftBank Group (TSE:9984) Shifting From TSMC To Capital One After Q1 Results", // 职位
+        "description": "",
+        "summary": "SoftBank Group Corp. has reported past first-quarter 2026 results, with sales rising to ¥2,019.59 billion while net income eased to ¥347.33 billion, alongside disclosures of a new stake in Capital One and a sale of 71.5% of its Taiwan Semiconductor Manufacturing holding. The combination of higher revenue but lower per-share earnings and a sharp portfolio shift toward U.S. financials and away from a major semiconductor holding gives investors fresh insight into how SoftBank is reshaping its...",
+        "pubDate": "2026-08-15T15:09:41Z",
+        "displayTime": "2026-08-15T15:09:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/f928ca386683eccc57c93fd764c6866f.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qw7Dy7C3vR7ejhsjoDNGSQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/f928ca386683eccc57c93fd764c6866f.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WH4R2aXg9vgjHkqmTkWCsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f928ca386683eccc57c93fd764c6866f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-softbank-group-150941472.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-softbank-group-150941472.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "52daecb0-af0b-3ab1-a8d2-98a818521b67",
+      "content": {
+        "id": "52daecb0-af0b-3ab1-a8d2-98a818521b67",
+        "contentType": "STORY",
+        "title": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem", // 职位
+        "description": "",
+        "summary": "Nvidia just moved beyond selling processors and seized control of the invisible infrastructure that every AI cluster depends on, and the companies supplying that buildout are already reporting explosive growth.",
+        "pubDate": "2026-08-15T14:36:02Z",
+        "displayTime": "2026-08-15T14:36:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg",
+          "originalWidth": 2844,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8PJsvyZa6McxtXFaGq66cw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg",
+              "width": 2844,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RnZRlpFisVHB5rCi0XmuJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/15/nvidia-is-looking-to-own-another-layer-of-the-ai-ecosystem/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-looking-own-another-layer-143602047.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 432.0, // 当日最高价
+    "dayLow": 426.79998779296875, // 当日最低价
+    "exchange": "NYQ", // 交易所代码
+    "fiftyDayAverage": 425.1620001220703, // 50日均价
+    "lastPrice": 430.2900085449219,
+    "lastVolume": 1932692,
+    "marketCap": 2231687947371.785, // 总市值
+    "open": 429.9700012207031, // 今日开盘价
+    "previousClose": 425.2, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 426.3500061035156, // 常规市场昨日收盘价
+    "shares": 5186474013,
+    "tenDayAverageVolume": 10469980,
+    "threeMonthAverageVolume": 13604417,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 363.49364990234375, // 200日均价
+    "yearChange": 0.7660825965615674,
+    "yearHigh": 479.0,
+    "yearLow": 223.6999969482422
+  },
+  "calendar": "{'Dividend Date': datetime.date(2027, 1, 7), 'Ex-Dividend Date': datetime.date(2026, 9, 16), 'Earnings Date': [datetime.date(2026, 10, 15)], 'Earnings High': 4.72, 'Earnings Low': 4.26, 'Earnings Average': 4.45834, 'Revenue High': 1476431000000, 'Revenue Low': 1423000000000, 'Revenue Average': 1454960072270}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.45
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.23
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.28
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.4
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.1
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 1.08
+    },
+    {
+      "Dividends": 0.082804,
+      "Stock Splits": 1.14
+    },
+    {
+      "Dividends": 0.308168,
+      "Stock Splits": 1.05
+    },
+    {
+      "Dividends": 0.376119,
+      "Stock Splits": 1.03
+    },
+    {
+      "Dividends": 0.444776,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.495522,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.453,
+      "Stock Splits": 1.005
+    },
+    {
+      "Dividends": 0.469,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.519,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.502,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.502,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.502,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.728,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.929,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.159,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.345,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.276,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.322,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.41,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.417,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.42,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.427,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.442,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.448,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.451,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.497,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.496,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.49,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.467,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.448,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.451,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.449,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.448,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.471,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.479,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.554,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.544,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.626,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.616,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.684,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.78,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.822,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.835,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.956,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.955,
+      "Stock Splits": 0.0
+    }
+  ]
+}

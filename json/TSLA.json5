@@ -1,0 +1,889 @@
+{
+  "info": {
+    "address1": "1 Tesla Road", // 地址1
+    "city": "Austin", // 城市
+    "state": "TX",
+    "zip": "78725", // 邮编
+    "country": "United States", // 国家
+    "phone": "512 516 8177", // 电话
+    "website": "https://www.tesla.com", // 官方网站
+    "industry": "Auto Manufacturers", // 行业
+    "industryKey": "auto-manufacturers", // 行业键
+    "industryDisp": "Auto Manufacturers", // 行业显示名称
+    "sector": "Consumer Cyclical", // 板块
+    "sectorKey": "consumer-cyclical", // 板块键
+    "sectorDisp": "Consumer Cyclical", // 板块显示名称
+    "longBusinessSummary": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. In addition, the company engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. Further, it provides services and repairs to its energy product customers, including under warranty and extended service plans; and various financing options to its residential customers; lithium-ion battery energy storage products, such as Powerwall and Megapack; energy generation products, including solar panels and solar roof; self-driving development and artificial intelligence software, vehicle control and infotainment software, and battery and powertrain. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.", // 公司业务摘要
+    "fullTimeEmployees": 134785, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Elon R. Musk", // 姓名
+        "age": 54, // 年龄
+        "title": "Co-Founder, Technoking of Tesla, CEO & Director", // 职位
+        "yearBorn": 1971, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 129602732032 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Vaibhav  Taneja", // 姓名
+        "age": 47, // 年龄
+        "title": "Chief Financial Officer", // 职位
+        "yearBorn": 1978, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 403000,
+        "exercisedValue": 15033838, // 已行权价值
+        "unexercisedValue": 417696224 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Xiaotong  Zhu", // 姓名
+        "age": 45, // 年龄
+        "title": "Senior Vice President of APAC & Global Vehicle Manufacturing", // 职位
+        "yearBorn": 1980, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 376322,
+        "exercisedValue": 4548562, // 已行权价值
+        "unexercisedValue": 808327104 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Travis  Axelrod", // 姓名
+        "title": "Head of Investor Relations", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Brandon  Ehrhart", // 姓名
+        "title": "General Counsel & Corporate Secretary", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Franz  von Holzhausen", // 姓名
+        "title": "Chief Designer", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Roxanne  Inskip-Kaye", // 姓名
+        "title": "Head of Operations - Electric Vehicle Business", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. John  Walker", // 姓名
+        "age": 62, // 年龄
+        "title": "Vice President of Sales - North America", // 职位
+        "yearBorn": 1963, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 121550,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Rodney D. Westmoreland Jr.", // 姓名
+        "title": "Director of Construction Management", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Lars  Moravy", // 姓名
+        "title": "Vice President of Vehicle Engineering", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 4, // 审计风险
+    "boardRisk": 10, // 董事会风险
+    "compensationRisk": 10, // 薪酬风险
+    "shareHolderRightsRisk": 9, // 股东权益风险
+    "overallRisk": 10, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 342.27, // 昨日收盘价
+    "open": 340.69, // 今日开盘价
+    "dayLow": 337.49, // 当日最低价
+    "dayHigh": 343.1, // 当日最高价
+    "regularMarketPreviousClose": 342.27, // 常规市场昨日收盘价
+    "regularMarketOpen": 340.69, // 常规市场今日开盘价
+    "regularMarketDayLow": 337.49, // 常规市场当日最低价
+    "regularMarketDayHigh": 343.1, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "beta": 1.827, // 贝塔系数
+    "trailingPE": 308.96817, // 滚动市盈率 (TTM)
+    "forwardPE": 155.935, // 预测市盈率
+    "volume": 6894185, // 成交量
+    "regularMarketVolume": 6894184, // 常规市场成交量
+    "averageVolume": 42903616, // 平均成交量
+    "averageVolume10days": 32207790, // 10日平均成交量
+    "averageDailyVolume10Day": 32207790, // 10日日均成交量
+    "bid": 334.0, // 买入价
+    "ask": 344.9, // 卖出价
+    "bidSize": 7, // 买盘量
+    "askSize": 4, // 卖盘量
+    "marketCap": 1342312939520, // 总市值
+    "nonDilutedMarketCap": 1351811586544, // 非稀释市值
+    "fiftyTwoWeekLow": 297.38, // 52周最低价
+    "fiftyTwoWeekHigh": 498.83, // 52周最高价
+    "allTimeHigh": 498.83, // 历史最高价
+    "allTimeLow": 0.998667, // 历史最低价
+    "priceToSalesTrailing12Months": 12.954312, // 市销率 (TTM)
+    "fiftyDayAverage": 371.0854, // 50日均价
+    "twoHundredDayAverage": 406.07944, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 1325028605952, // 企业价值 (EV)
+    "profitMargins": 0.03671, // 利润率
+    "floatShares": 2819186930, // 流通股本
+    "sharesOutstanding": 3949547394, // 发行在外股份总数
+    "sharesShort": 68501639,
+    "sharesShortPriorMonth": 79109257,
+    "sharesShortPreviousMonthDate": 1782777600,
+    "dateShortInterest": 1785456000,
+    "sharesPercentSharesOut": 0.0173,
+    "heldPercentInsiders": 0.17819001, // 内部人士持股比例
+    "heldPercentInstitutions": 0.43726003, // 机构持股比例
+    "shortRatio": 1.61,
+    "shortPercentOfFloat": 0.0194,
+    "impliedSharesOutstanding": 3949547394, // 隐含发行在外股份
+    "bookValue": 21.995, // 每股净资产
+    "priceToBook": 15.45192, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": -0.049, // 季度盈利增长
+    "netIncomeToCommon": 3806000128, // 归属于普通股股东的净利润
+    "trailingEps": 1.1, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 2.17953, // 预测每股收益
+    "pegRatio": 5.01, // PEG比率
+    "lastSplitFactor": "3:1",
+    "lastSplitDate": 1661385600,
+    "enterpriseToRevenue": 12.788, // 企业价值/营收比
+    "enterpriseToEbitda": 123.201, // 企业价值/EBITDA比
+    "52WeekChange": 0.02121377, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 339.865, // 当前价格
+    "targetHighPrice": 600.0, // 目标最高价
+    "targetLowPrice": 125.0, // 目标最低价
+    "targetMeanPrice": 395.3405, // 目标平均价
+    "targetMedianPrice": 415.0, // 目标中位价
+    "recommendationMean": 2.31915, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 40, // 分析师人数
+    "totalCash": 43524001792, // 现金总额
+    "totalCashPerShare": 11.02, // 每股现金
+    "ebitda": 10755000320, // EBITDA
+    "totalDebt": 16080000000, // 总债务
+    "quickRatio": 1.347, // 速动比率
+    "currentRatio": 1.941, // 流动比率
+    "totalRevenue": 103619002368, // 总营收
+    "debtToEquity": 18.373, // 债务权益比
+    "revenuePerShare": 32.055, // 每股营收
+    "returnOnAssets": 0.019299999, // 资产回报率 (ROA)
+    "returnOnEquity": 0.046669997, // 权益回报率 (ROE)
+    "grossProfits": 19534000128, // 毛利润
+    "freeCashflow": 4835999744, // 自由现金流
+    "operatingCashflow": 18684999680, // 经营现金流
+    "earningsGrowth": -0.03, // 盈利增长
+    "revenueGrowth": 0.255, // 营收增长
+    "grossMargins": 0.18852, // 毛利率
+    "ebitdaMargins": 0.10379, // EBITDA利润率
+    "operatingMargins": 0.014099999, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "TSLA", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Nasdaq Real Time Price", // 报价来源
+    "triggerable": true, // 是否可触发
+    "customPriceAlertConfidence": "HIGH", // 自定义价格警报信心度
+    "shortName": "Tesla, Inc.", // 公司简称
+    "longName": "Tesla, Inc.", // 公司正式名称
+    "marketState": "REGULAR", // 市场状态
+    "regularMarketChange": -2.4049988, // 常规市场价格变动
+    "regularMarketDayRange": "337.49 - 343.1", // 常规市场当日价格范围
+    "fullExchangeName": "NasdaqGS", // 交易所全称
+    "averageDailyVolume3Month": 42903616, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 42.484985, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.1428643, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "297.38 - 498.83", // 52周价格范围
+    "fiftyTwoWeekHighChange": -158.965, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.3186757, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 2.121377, // 52周价格变动百分比
+    "earningsTimestamp": 1784750400, // 财报时间戳
+    "earningsTimestampStart": 1792612800, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1792612800, // 财报发布截止时间戳
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786977411, // 常规市场时间戳
+    "exchange": "NMS", // 交易所代码
+    "messageBoardId": "finmb_27444752", // 留言板ID
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": -0.7026716, // 常规市场变动百分比
+    "regularMarketPrice": 339.865, // 常规市场当前价格
+    "earningsCallTimestampStart": 1784755800, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1784755800, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 1.1, // 过去12个月每股收益
+    "epsForward": 2.17953, // 预测每股收益
+    "epsCurrentYear": 1.78059, // 本年度每股收益
+    "priceEpsCurrentYear": 190.87212, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -31.220398, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.08413265, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -66.21445, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.16305786, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 0, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "2.3 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": true, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1277818200000, // 首次交易日期时间戳
+    "displayName": "Tesla",
+    "trailingPegRatio": 5.0149 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "5f9b0e31-c8d1-32e4-a756-f114f7226a64",
+      "content": {
+        "id": "5f9b0e31-c8d1-32e4-a756-f114f7226a64",
+        "contentType": "STORY",
+        "title": "Tesla (TSLA) Advances After Beating Key Metrics in Q1", // 职位
+        "description": "",
+        "summary": "Baron Capital, an investment management company, released its Q2 2026 letter for “Baron Partners Fund”. A copy of the letter can be downloaded here. Baron Partners Fund reported a 16.61% (Institutional Shares) gain in Q2, outperforming both the Russell Midcap Growth Index (14.55%) and the Russell 3000 Index (15.44%). Year-to-date, it has returned 10.40%, exceeding […]",
+        "pubDate": "2026-08-17T13:38:12Z",
+        "displayTime": "2026-08-17T13:38:12Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3.jpg",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "Tesla, Inc. (TSLA) Isn't Being Targeted By Trump's Copper Tariffs, Says Jim Cramer",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XoGmw7YVIhRqBPIBgMKc3A--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3.jpg",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/58eGRHLOmsZRkntqo9f7fw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "04d1536b-8488-39ae-89ff-360330a1e69a",
+      "content": {
+        "id": "04d1536b-8488-39ae-89ff-360330a1e69a",
+        "contentType": "STORY",
+        "title": "Wall Street Is Divided on Tesla’s Next Move: Buy, Sell or Hold?", // 职位
+        "description": "",
+        "summary": "Tesla just posted record deliveries and a massive revenue beat while simultaneously cratering its own earnings and flipping free cash flow negative. Wall Street's 47 analysts cannot agree on what that contradiction means, and the next move in shares may hinge on one number most investors are not watching.",
+        "pubDate": "2026-08-17T13:00:43Z",
+        "displayTime": "2026-08-17T13:00:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3d70c8f704faf3d079191d635ba8d6c1",
+          "originalWidth": 1376,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/s0CA6BIOcc1LKBYSe8TPCg--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/3d70c8f704faf3d079191d635ba8d6c1",
+              "width": 1376,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/V9SgCTW_mDbx0PlBMHmcZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3d70c8f704faf3d079191d635ba8d6c1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/wall-street-is-divided-on-teslas-next-move-buy-sell-or-hold/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-divided-tesla-next-130043834.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "39bcf7b6-6f3a-3fec-beef-45673cbe3d5b",
+      "content": {
+        "id": "39bcf7b6-6f3a-3fec-beef-45673cbe3d5b",
+        "contentType": "STORY",
+        "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed", // 职位
+        "description": "",
+        "summary": "A series filings reveal the massive stakes tech giants Nvidia and Alphabet and mega investors Peter Thiel have in SpaceX.",
+        "pubDate": "2026-08-17T12:47:16Z",
+        "displayTime": "2026-08-17T12:47:16Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/39bcf7b6-6f3a-3fec-beef-45673cbe3d5b/nvidia-alphabet-peter.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 511,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0s0mlER23Y8GaSdXBnES.A--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
+              "width": 1000,
+              "height": 511,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/A0RSFsuTuE4Dd7n.Mpg.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+      "content": {
+        "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+        "contentType": "STORY",
+        "title": "U.S. EV market shows signs of bottoming out: Bernstein", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bernstein said global electric vehicle demand recovered in the second quarter, with the U.S. market showing signs of stabilization after a weak start to the year.",
+        "pubDate": "2026-08-17T12:14:52Z",
+        "displayTime": "2026-08-17T12:14:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "91303a01-c30a-32ed-80bc-3608651417c8",
+      "content": {
+        "id": "91303a01-c30a-32ed-80bc-3608651417c8",
+        "contentType": "STORY",
+        "title": "Why Tesla Stock Moves Are Increasingly Tied to SpaceX", // 职位
+        "description": "",
+        "summary": "Coming into Monday trading, Tesla stock had gained for two consecutive weeks, just like SpaceX stock.",
+        "pubDate": "2026-08-17T13:59:00Z",
+        "displayTime": "2026-08-17T13:59:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/91303a01-c30a-32ed-80bc-3608651417c8/why-tesla-stock-moves-are.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/v3jcKhGQtK5FKxzCMr6UQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VIHpV_wbYx6w9OrOp1jM3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f3790499-e603-304f-b4e8-6a8cbcb85731",
+      "content": {
+        "id": "f3790499-e603-304f-b4e8-6a8cbcb85731",
+        "contentType": "STORY",
+        "title": "Tesla Stock Is Climbing Again and These 6 Catalysts Could Push It Higher", // 职位
+        "description": "",
+        "summary": "Six catalysts are pushing Tesla shares higher after a brutal stretch, but a glaring profitability problem lurking beneath the momentum could stop any rally cold before it starts.",
+        "pubDate": "2026-08-17T11:20:45Z",
+        "displayTime": "2026-08-17T11:20:45Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/eb3924ee1dcebe001be936954210853e.jpg",
+          "originalWidth": 1376,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OIWSVh15RAMTeNEpnHcpFg--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/eb3924ee1dcebe001be936954210853e.jpg",
+              "width": 1376,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FDzisuUApmUeR6fNZRC_dA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb3924ee1dcebe001be936954210853e.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/tesla-stock-is-climbing-again-and-these-6-catalysts-could-push-it-higher/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-climbing-again-6-112045457.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "acba1101-9693-3000-9da1-018603588fb9",
+      "content": {
+        "id": "acba1101-9693-3000-9da1-018603588fb9",
+        "contentType": "STORY",
+        "title": "Cathie Wood Pouring Cash Into Least Loved Mag 7 Stock, Buying An Estimated 450,000 Shares In 45 Days", // 职位
+        "description": "",
+        "summary": "Cathie Wood keeps loading up on the one Magnificent Seven stock Wall Street has spent 2026 punishing, and her conviction is either the boldest contrarian bet of the year or a costly mistake in the making.",
+        "pubDate": "2026-08-17T11:10:13Z",
+        "displayTime": "2026-08-17T11:10:13Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/1e8e80d481c0f199f72737b22537e533.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nLw2L9Mby4tYyPWNtgypQA--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/1e8e80d481c0f199f72737b22537e533.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0BkS9ACvR_CndRIHd6Hs3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1e8e80d481c0f199f72737b22537e533.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/cathie-wood-pouring-cash-into-least-loved-mag-7-stock-buying-an-estimated-450000-shares-in-45-days/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-pouring-cash-least-111013833.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cfabe0d2-01ae-3089-bf9e-1bae89870120",
+      "content": {
+        "id": "cfabe0d2-01ae-3089-bf9e-1bae89870120",
+        "contentType": "STORY",
+        "title": "Elon Musk To Invest $2.8 Billion In What He Once Called “The Dumbest Experiment In History”", // 职位
+        "description": "",
+        "summary": "Elon Musk once called burning fossil fuels the single dumbest experiment humanity has ever run. A closer look at SpaceX's IPO filing reveals he is now betting billions to do exactly that, and a federal lawsuit in Memphis may decide whether the rest of the AI industry follows.",
+        "pubDate": "2026-08-17T11:02:09Z",
+        "displayTime": "2026-08-17T11:02:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6c9172c924051b7c417de63491b54664.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EOGcVIPyhdxKRKmnxpI38Q--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/6c9172c924051b7c417de63491b54664.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/x1YIrQstL49zLRkKoeVpJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c9172c924051b7c417de63491b54664.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/elon-musk-to-invest-2-8-billion-in-what-he-once-called-the-dumbest-experiment-in-history/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/elon-musk-invest-2-8-110209392.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "89357747-5d14-3f5b-b4da-49a30f328c99",
+      "content": {
+        "id": "89357747-5d14-3f5b-b4da-49a30f328c99",
+        "contentType": "STORY",
+        "title": "Elon Musk’s 5-Word Statement Should Have Every Micron Investor Paying Attention", // 职位
+        "description": "",
+        "summary": "When Elon Musk names the single constraint capping his AI ambitions on a live earnings call, every investor in the semiconductor supply chain should be listening closely to what he says next.",
+        "pubDate": "2026-08-17T10:39:57Z",
+        "displayTime": "2026-08-17T10:39:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e37d471590480bd41452a76d350ba908.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/X7e0._OCZeQn0aDrDOb7Mg--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/e37d471590480bd41452a76d350ba908.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/l8dXcxBwmSh0Lr_uWJazBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e37d471590480bd41452a76d350ba908.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/elon-musks-5-word-statement-should-have-every-micron-investor-paying-attention/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-5-word-statement-103957809.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "043682f6-c63c-35a3-8af8-285d97e08b3e",
+      "content": {
+        "id": "043682f6-c63c-35a3-8af8-285d97e08b3e",
+        "contentType": "STORY",
+        "title": "Nvidia’s Stake in SpaceX—and Musk’s Massive Holdings", // 职位
+        "description": "",
+        "summary": "The chip maker king owns 123 million shares, a strategic stake of just under 1%. And CEO Elon Musk controls a whopping 6.4 billion shares, almost half of the stock outstanding.",
+        "pubDate": "2026-08-17T14:21:00Z",
+        "displayTime": "2026-08-17T14:21:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/043682f6-c63c-35a3-8af8-285d97e08b3e/nvidia%E2%80%99s-stake-in-spacex%E2%80%94and.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Wu5hThvP14LwDLcDX1ufgQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4Fdb_YGKc9P43AIThRouJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 343.1000061035156, // 当日最高价
+    "dayLow": 337.489990234375, // 当日最低价
+    "exchange": "NMS", // 交易所代码
+    "fiftyDayAverage": 371.08539794921876, // 50日均价
+    "lastPrice": 339.9230041503906,
+    "lastVolume": 6894283,
+    "marketCap": 1342542015202.8264, // 总市值
+    "open": 340.69000244140625, // 今日开盘价
+    "previousClose": 341.65, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 342.2699890136719, // 常规市场昨日收盘价
+    "shares": 3949547394,
+    "tenDayAverageVolume": 32207790,
+    "threeMonthAverageVolume": 43058934,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 406.07944992065427, // 200日均价
+    "yearChange": 0.021213704719762482,
+    "yearHigh": 498.8299865722656,
+    "yearLow": 297.3800048828125
+  },
+  "calendar": "{'Earnings Date': [datetime.date(2026, 10, 22)], 'Earnings High': 0.6, 'Earnings Low': 0.27, 'Earnings Average': 0.45408, 'Revenue High': 30566000000, 'Revenue Low': 24286500000, 'Revenue Average': 27537100960}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 5.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 3.0
+    }
+  ]
+}

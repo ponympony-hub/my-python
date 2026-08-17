@@ -1,0 +1,967 @@
+{
+  "info": {
+    "address1": "Tencent Binhai Towers", // 地址1
+    "address2": "No. 33 Haitian 2nd Road Nanshan District", // 地址2
+    "city": "Shenzhen", // 城市
+    "zip": "518054", // 邮编
+    "country": "China", // 国家
+    "phone": "86 755 8601 3388", // 电话
+    "website": "https://www.tencent.com", // 官方网站
+    "industry": "Internet Content & Information", // 行业
+    "industryKey": "internet-content-information", // 行业键
+    "industryDisp": "Internet Content & Information", // 行业显示名称
+    "sector": "Communication Services", // 板块
+    "sectorKey": "communication-services", // 板块键
+    "sectorDisp": "Communication Services", // 板块显示名称
+    "longBusinessSummary": "Tencent Holdings Limited, an investment holding company, provides value-added services, marketing services, fintech, and business services in Mainland China and internationally. The company's consumers business includes communications and social services, such as instant messaging and social networks; digital content, including online games, videos, live streaming, news, music, and literature; fintech services, which include mobile payment, wealth management, consumer loans, and securities trading; and various tools comprising network security management, browsing, navigation, application management, email, etc. Its enterprise business comprises marketing solutions, which offer digital tools, including user insight, creative management, placement strategy, and digital assets management; and cloud services, such as cloud computing, big data analytics, artificial intelligence, Internet of Things, and security and other technologies for financial services, education, healthcare, retail, industry, transport, energy, and radio and television industries. The company also invests in, produces, and distributes films and television programs; offers copyrights licensing and merchandise sales and other services; provides internet advertisement services; and offers software development, and information technology and system integration services, as well as develops and operates mobile games. The company was formerly known as Tencent (BVI) Limited and changed its name to Tencent Holdings Limited in February 2004. Tencent Holdings Limited was founded in 1998 and is headquartered in Shenzhen, the People's Republic of China.", // 公司业务摘要
+    "fullTimeEmployees": 115927, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Huateng  Ma", // 姓名
+        "age": 53, // 年龄
+        "title": "Co-Founder, Chairman & CEO", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 56477970,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Chi Ping  Lau", // 姓名
+        "age": 52, // 年龄
+        "title": "President", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 19309049,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 1111984384 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Liqing  Zeng", // 姓名
+        "age": 55, // 年龄
+        "title": "Co-Founder & Advisor Emeritus", // 职位
+        "yearBorn": 1970, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Chenye  Xu", // 姓名
+        "age": 54, // 年龄
+        "title": "Co-Founder & Chief Information Officer", // 职位
+        "yearBorn": 1971, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zhidong  Zhang", // 姓名
+        "age": 53, // 年龄
+        "title": "Co-Founder & Advisor Emeritus", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 18777889,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yidan  Chen", // 姓名
+        "age": 54, // 年龄
+        "title": "Co-Founder & Advisor Emeritus", // 职位
+        "yearBorn": 1971, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Weibiao  Zhan", // 姓名
+        "age": 52, // 年龄
+        "title": "Managing Director", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shek Hon  Lo CPA", // 姓名
+        "age": 56, // 年龄
+        "title": "CFO & Senior VP", // 职位
+        "yearBorn": 1969, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yuxin  Ren", // 姓名
+        "age": 49, // 年龄
+        "title": "COO and President of Platform & Content Group & Interactive Entertainment Group", // 职位
+        "yearBorn": 1976, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shan  Lu", // 姓名
+        "age": 50, // 年龄
+        "title": "Senior EVP and President of Technology & Engineering Group", // 职位
+        "yearBorn": 1975, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 2, // 审计风险
+    "boardRisk": 7, // 董事会风险
+    "compensationRisk": 10, // 薪酬风险
+    "shareHolderRightsRisk": 5, // 股东权益风险
+    "overallRisk": 10, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 440.0, // 昨日收盘价
+    "open": 444.8, // 今日开盘价
+    "dayLow": 442.6, // 当日最低价
+    "dayHigh": 450.4, // 当日最高价
+    "regularMarketPreviousClose": 440.0, // 常规市场昨日收盘价
+    "regularMarketOpen": 444.8, // 常规市场今日开盘价
+    "regularMarketDayLow": 442.6, // 常规市场当日最低价
+    "regularMarketDayHigh": 450.4, // 常规市场当日最高价
+    "dividendRate": 5.3,
+    "dividendYield": 1.2,
+    "exDividendDate": 1778803200,
+    "payoutRatio": 0.17979999, // 股利支付率
+    "fiveYearAvgDividendYield": 0.7,
+    "beta": 0.745, // 贝塔系数
+    "trailingPE": 15.075987, // 滚动市盈率 (TTM)
+    "forwardPE": 12.314823, // 预测市盈率
+    "volume": 19843908, // 成交量
+    "regularMarketVolume": 19843908, // 常规市场成交量
+    "averageVolume": 33561960, // 平均成交量
+    "averageVolume10days": 28697982, // 10日平均成交量
+    "averageDailyVolume10Day": 28697982, // 10日日均成交量
+    "bid": 447.4, // 买入价
+    "ask": 447.0, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 4023047946240, // 总市值
+    "nonDilutedMarketCap": 3965369981320, // 非稀释市值
+    "fiftyTwoWeekLow": 411.0, // 52周最低价
+    "fiftyTwoWeekHigh": 683.0, // 52周最高价
+    "allTimeHigh": 714.89966, // 历史最高价
+    "allTimeLow": 0.622253, // 历史最低价
+    "priceToSalesTrailing12Months": 5.1022635, // 市销率 (TTM)
+    "fiftyDayAverage": 455.32, // 50日均价
+    "twoHundredDayAverage": 526.2435, // 200日均价
+    "trailingAnnualDividendRate": 4.763, // 年度股息率
+    "trailingAnnualDividendYield": 0.010825, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 4070584090624, // 企业价值 (EV)
+    "profitMargins": 0.29868, // 利润率
+    "floatShares": 6220391000, // 流通股本
+    "sharesOutstanding": 9012204503, // 发行在外股份总数
+    "heldPercentInsiders": 0.3169, // 内部人士持股比例
+    "heldPercentInstitutions": 0.25498, // 机构持股比例
+    "impliedSharesOutstanding": 9012204503, // 隐含发行在外股份
+    "bookValue": 146.46194, // 每股净资产
+    "priceToBook": 3.0478907, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": 0.007, // 季度盈利增长
+    "netIncomeToCommon": 235508006912, // 归属于普通股股东的净利润
+    "trailingEps": 29.61, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 36.248997, // 预测每股收益
+    "pegRatio": 1.42, // PEG比率
+    "lastSplitFactor": "5:1",
+    "lastSplitDate": 1400112000,
+    "enterpriseToRevenue": 5.163, // 企业价值/营收比
+    "enterpriseToEbitda": 13.701, // 企业价值/EBITDA比
+    "52WeekChange": -0.25042588, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 5.3,
+    "lastDividendDate": 1778803200,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 446.4, // 当前价格
+    "targetHighPrice": 880.9441, // 目标最高价
+    "targetLowPrice": 425.973, // 目标最低价
+    "targetMeanPrice": 667.3294, // 目标平均价
+    "targetMedianPrice": 673.2531, // 目标中位价
+    "recommendationMean": 1.33333, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 42, // 分析师人数
+    "totalCash": 458904010752, // 现金总额
+    "totalCashPerShare": 50.848, // 每股现金
+    "ebitda": 297101000704, // EBITDA
+    "totalDebt": 471828004864, // 总债务
+    "quickRatio": 0.998, // 速动比率
+    "currentRatio": 1.287, // 流动比率
+    "totalRevenue": 788483014656, // 总营收
+    "debtToEquity": 38.595, // 债务权益比
+    "revenuePerShare": 87.135, // 每股营收
+    "returnOnAssets": 0.07867, // 资产回报率 (ROA)
+    "returnOnEquity": 0.19906001, // 权益回报率 (ROE)
+    "grossProfits": 447062016000, // 毛利润
+    "freeCashflow": 130099748864, // 自由现金流
+    "operatingCashflow": 305847992320, // 经营现金流
+    "earningsGrowth": 0.018, // 盈利增长
+    "revenueGrowth": 0.11, // 营收增长
+    "grossMargins": 0.56699, // 毛利率
+    "ebitdaMargins": 0.3768, // EBITDA利润率
+    "operatingMargins": 0.32852, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "0700.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "fiftyDayAverageChange": -8.920013, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.019590646, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -79.84354, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.15172355, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.3 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1087349400000, // 首次交易日期时间戳
+    "regularMarketChange": 6.399994, // 常规市场价格变动
+    "regularMarketDayRange": "442.6 - 450.4", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 33561960, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 35.399994, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.08613137, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "411.0 - 683.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -236.6, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.3464129, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -25.042587, // 52周价格变动百分比
+    "earningsTimestamp": 1786522200, // 财报时间戳
+    "earningsTimestampStart": 1794471000, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1794471000, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1786536000, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1786536000, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": true, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 29.61, // 过去12个月每股收益
+    "epsForward": 36.248997, // 预测每股收益
+    "epsCurrentYear": 29.13204, // 本年度每股收益
+    "priceEpsCurrentYear": 15.323335, // 本年度股价/EPS比
+    "shortName": "TENCENT", // 公司简称
+    "longName": "Tencent Holdings Limited", // 公司正式名称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954107, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_11042136", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 1.4545441, // 常规市场变动百分比
+    "regularMarketPrice": 446.4, // 常规市场当前价格
+    "marketState": "POSTPOST", // 市场状态
+    "trailingPegRatio": 1.4165 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+      "content": {
+        "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
+        "contentType": "STORY",
+        "title": "CXMT’s Rise to China’s Most Valuable Firm Heralds New Tech Era", // 职位
+        "description": "",
+        "summary": "CXMT Corp.’s ascent to the pinnacle of Chinese markets heralds a potentially consequential shift away from private-sector giants toward a new generation of hardware companies more closely aligned with Beijing’s strategic ambitions.",
+        "pubDate": "2026-08-17T01:07:38Z",
+        "displayTime": "2026-08-17T01:07:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1485,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Lt2Kg36xM1MI1tZgOTUMEA--~B/aD0xNDg1O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 2010,
+              "height": 1485,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sH66uoNI_zUloiBB0XpBDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "090d31cc-385f-34e5-9595-90d0902a25b7",
+      "content": {
+        "id": "090d31cc-385f-34e5-9595-90d0902a25b7",
+        "contentType": "STORY",
+        "title": "Alibaba, Baidu, Kuaishou Address Mounting AI Costs as Competition Intensifies", // 职位
+        "description": "",
+        "summary": "Alibaba Group Holding Ltd., Baidu Inc. and Kuaishou Technology are the next big names in tech that will have to address concerns over the mounting financial costs needed to sustain intense AI competition.",
+        "pubDate": "2026-08-17T01:04:00Z",
+        "displayTime": "2026-08-17T01:04:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1383,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LgUnmvW6fcbek7ayfCUuGA--~B/aD0xMzgzO3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+              "width": 2010,
+              "height": 1383,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ljUIcxhCQqRp6o6ECfuYfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7401f0a4bc0d8255eaf51e295ff5667b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-kuaishou-address-mounting-010400663.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-kuaishou-address-mounting-010400663.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b7002a29-ccd1-3780-9339-3b9b3134ba34",
+      "content": {
+        "id": "b7002a29-ccd1-3780-9339-3b9b3134ba34",
+        "contentType": "STORY",
+        "title": "Why Tencent Music Stock Sank This Week", // 职位
+        "description": "",
+        "summary": "Tencent Music served up solid Q2 results, but that wasn't enough for investors.",
+        "pubDate": "2026-08-15T12:33:49Z",
+        "displayTime": "2026-08-15T12:33:49Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3267843afbed9ab89cc9754f24d2b8a4.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 875,
+          "caption": "Chart lines going down and a dollar sign.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gGz2anFRQC67A0e1lm8.Fw--~B/aD04NzU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3267843afbed9ab89cc9754f24d2b8a4.jpg",
+              "width": 1400,
+              "height": 875,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/On7sQbv6HEiAMzUdBLMaYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3267843afbed9ab89cc9754f24d2b8a4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/15/why-tencent-music-stock-sank-this-week/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tencent-music-stock-sank-123349964.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ac5b4cc1-7469-3629-8479-734ed224a38b",
+      "content": {
+        "id": "ac5b4cc1-7469-3629-8479-734ed224a38b",
+        "contentType": "STORY",
+        "title": "Tencent Holdings (SEHK:700) Backs AI Startup As Global AI Push Picks Up", // 职位
+        "description": "",
+        "summary": "Tencent Holdings (SEHK:700) is ramping up its global AI efforts with a significant investment in Swedish AI coding startup Lovable. The company is extending its AI product reach through the Hy3 large language model, aimed at international users. Tencent is also pushing its cloud services abroad, including a partnership with Saudi retailer Alsaif Gallery to support AI powered applications. Tencent is far from the only stock tied to the build out of global AI infrastructure. It can be useful...",
+        "pubDate": "2026-08-14T23:10:14Z",
+        "displayTime": "2026-08-14T23:10:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/7cd227f8d0d6c5f1f91c43c05edf831f.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yLu9GGin5944fk2RMT_nRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7cd227f8d0d6c5f1f91c43c05edf831f.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zTQuFn_SBIPvvxrC00xQdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/7cd227f8d0d6c5f1f91c43c05edf831f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-holdings-sehk-700-backs-231014467.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-holdings-sehk-700-backs-231014467.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9e032125-4815-332f-b8e0-0b74465d5681",
+      "content": {
+        "id": "9e032125-4815-332f-b8e0-0b74465d5681",
+        "contentType": "STORY",
+        "title": "Tencent Stock Slips Again as AI Spending Outruns Profit Growth", // 职位
+        "description": "",
+        "summary": "Revenue remained resilient, but quarterly capital expenditure rose 176% and pushed free cash flow below zero.",
+        "pubDate": "2026-08-14T19:19:31Z",
+        "displayTime": "2026-08-14T19:19:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-stock-slips-again-ai-191931585.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-stock-slips-again-ai-191931585.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+      "content": {
+        "id": "d98cef8e-9662-3dbd-8e80-8f5fc08ab1eb",
+        "contentType": "STORY",
+        "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet", // 职位
+        "description": "",
+        "summary": "Chinese tech firms’ early earnings are giving hardware stocks renewed momentum, while internet platforms still struggle to show a full consumer‑demand recovery.",
+        "pubDate": "2026-08-14T03:54:06Z",
+        "displayTime": "2026-08-14T03:54:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EoTwto.xSQTHTiS1lZvVEQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6waSA8jFYtQOph3xQr.nGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b3a8773aac4bcebc86fdecc0a8c455a6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "38886ea2-e0e0-3012-93fd-349dc16abe12",
+      "content": {
+        "id": "38886ea2-e0e0-3012-93fd-349dc16abe12",
+        "contentType": "STORY",
+        "title": "JD.com Profit Beats Estimates After Food Delivery Fight Calms", // 职位
+        "description": "",
+        "summary": "JD.com Inc. reported better-than-expected quarterly profit as its food delivery battle with Alibaba Group Holding Ltd. and Meituan cooled down amid regulatory curbs.",
+        "pubDate": "2026-08-13T10:05:19Z",
+        "displayTime": "2026-08-13T10:05:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d719efe02540d07e89fed949d8bdca43.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1446,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wGAqhSpuiJopUKrvtrpccg--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/d719efe02540d07e89fed949d8bdca43.jpg",
+              "width": 2010,
+              "height": 1446,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lN483Xe71p9ay6qQtUf66g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/d719efe02540d07e89fed949d8bdca43.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-profit-beats-estimates-100519514.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-profit-beats-estimates-100519514.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bf9ad18b-139c-3e7a-be5b-f60e1f080097",
+      "content": {
+        "id": "bf9ad18b-139c-3e7a-be5b-f60e1f080097",
+        "contentType": "STORY",
+        "title": "Lovable hits $13.3bn valuation in $400m Series C", // 职位
+        "description": "",
+        "summary": "Lovable provides a platform that allows users without extensive technical skills to build, launch and manage web-based applications.",
+        "pubDate": "2026-08-13T09:05:53Z",
+        "displayTime": "2026-08-13T09:05:53Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/verdict_626/da8fc90707e86dc8e3cf01e843e0a0ef.jpg",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "Lovable completes $400m Series C",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9LOU.gWDm82uUiMrhCFCMA--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/verdict_626/da8fc90707e86dc8e3cf01e843e0a0ef.jpg",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6LnaGVCpcUO7kfipRFp.DQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/verdict_626/da8fc90707e86dc8e3cf01e843e0a0ef.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Verdict",
+          "url": "https://www.globaldata.com/",
+          "sourceId": "verdict_626"
+        },
+        "canonicalUrl": {
+          "url": "https://www.verdict.co.uk/lovable-series-c-round/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/lovable-hits-13-3bn-valuation-090553383.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dd5ef1b7-9fd4-3c44-b6f2-7d75dff30ba4",
+      "content": {
+        "id": "dd5ef1b7-9fd4-3c44-b6f2-7d75dff30ba4",
+        "contentType": "STORY",
+        "title": "SpaceX Passes First Lockup Expiry Test With $500 Billion Rally", // 职位
+        "description": "",
+        "summary": "Since SpaceX went public in June, Wall Street had been dreading Aug. 6, when the first lockup preventing early investors from selling the stock expired and millions of shares were set to flood the market.",
+        "pubDate": "2026-08-13T08:45:30Z",
+        "displayTime": "2026-08-13T08:45:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/0abde649059afa19a94dd980519a1902.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1665,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RVRNy1IGY1AscIGYTSRsdQ--~B/aD0xNjY1O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/0abde649059afa19a94dd980519a1902.jpg",
+              "width": 2010,
+              "height": 1665,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cKqa9dc2eB6q5qvXhltxDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/0abde649059afa19a94dd980519a1902.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-passes-first-lockup-expiry-084530660.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-passes-first-lockup-expiry-084530660.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2987cc1d-10a4-39ba-b1a6-d48a51451724",
+      "content": {
+        "id": "2987cc1d-10a4-39ba-b1a6-d48a51451724",
+        "contentType": "STORY",
+        "title": "Tencent Holdings Ltd (TCEHY) (Q2 2026) Earnings Call Highlights: AI Investments Drive Revenue ...", // 职位
+        "description": "",
+        "summary": "Tencent's domestic games and marketing services lead growth, while aggressive AI infrastructure spending results in negative free cash flow and a sharp decline in net cash position.",
+        "pubDate": "2026-08-12T23:05:39Z",
+        "displayTime": "2026-08-12T23:05:39Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-holdings-ltd-tcehy-q2-230539924.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-holdings-ltd-tcehy-q2-230539924.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 450.3999938964844, // 当日最高价
+    "dayLow": 442.6000061035156, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 455.3200018310547, // 50日均价
+    "lastPrice": 446.3999938964844,
+    "lastVolume": 19843908,
+    "marketCap": 4023048035133.069, // 总市值
+    "open": 444.79998779296875, // 今日开盘价
+    "previousClose": 440.0, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 440.0, // 常规市场昨日收盘价
+    "shares": 9012204503,
+    "tenDayAverageVolume": 28697982,
+    "threeMonthAverageVolume": 33449070,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 531.3235008239747, // 200日均价
+    "yearChange": -0.2504258943781942,
+    "yearHigh": 683.0,
+    "yearLow": 411.0
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 5, 15), 'Earnings Date': [datetime.date(2026, 11, 12)], 'Earnings High': 7.91, 'Earnings Low': 6.75624, 'Earnings Average': 7.26942, 'Revenue High': 206644000000, 'Revenue Low': 194428100000, 'Revenue Average': 202421045050}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.032,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.07,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.11,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.15,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.2,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 5.0
+    },
+    {
+      "Dividends": 0.24,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.36,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.47,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.61,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.88,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.2,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.6,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.6,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 2.4,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 3.4,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 4.5,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 5.3,
+      "Stock Splits": 0.0
+    }
+  ]
+}

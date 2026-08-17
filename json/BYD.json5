@@ -1,0 +1,921 @@
+{
+  "info": {
+    "address1": "No.3009, BYD Road", // 地址1
+    "address2": "Pingshan District", // 地址2
+    "city": "Shenzhen", // 城市
+    "zip": "518118", // 邮编
+    "country": "China", // 国家
+    "phone": "86 755 8988 8888", // 电话
+    "website": "https://www.bydglobal.com", // 官方网站
+    "industry": "Auto Manufacturers", // 行业
+    "industryKey": "auto-manufacturers", // 行业键
+    "industryDisp": "Auto Manufacturers", // 行业显示名称
+    "sector": "Consumer Cyclical", // 板块
+    "sectorKey": "consumer-cyclical", // 板块键
+    "sectorDisp": "Consumer Cyclical", // 板块显示名称
+    "longBusinessSummary": "BYD Company Limited, together with its subsidiaries, engages in automobiles and batteries business in the People's Republic of China, Hong Kong, Macau, Taiwan, and internationally. It operates in two segments, Mobile Handset Components, Assembly Service and Other Products; and Automobiles and Related Products and Other Products. The Mobile Handset Components, Assembly Service and Other Products segment manufactures and sells mobile handset components, such as housings and electronic components, and provides assembly services. Its Automobiles and Related Products and Other Products segment is involved in the manufacturing and sale of automobiles, and auto-related molds and components; provision of automobile leasing and after sales services, automobile power batteries, lithium-ion batteries, photovoltaic, and iron battery products; and rail transport and related business. The company develops urban rail transportation business. BYD Company Limited was founded in 1994 and is headquartered in Shenzhen, China.", // 公司业务摘要
+    "fullTimeEmployees": 869600, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Chuan-Fu  Wang", // 姓名
+        "age": 59, // 年龄
+        "title": "Executive Chairman, President & CEO", // 职位
+        "yearBorn": 1966, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 8139000,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Ya-Lin  Zhou", // 姓名
+        "age": 48, // 年龄
+        "title": "Senior VP & CFO", // 职位
+        "yearBorn": 1977, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Qian  Li", // 姓名
+        "age": 52, // 年龄
+        "title": "Secretary to the Board, Company Secretary & GM of Investment Department", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Ke  Li", // 姓名
+        "age": 55, // 年龄
+        "title": "Executive Vice President", // 职位
+        "yearBorn": 1970, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Long  He", // 姓名
+        "age": 53, // 年龄
+        "title": "Executive Vice President", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Hong-Bin  Luo", // 姓名
+        "age": 59, // 年龄
+        "title": "Senior Vice President & GM of Division 14", // 职位
+        "yearBorn": 1966, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Dong-Sheng  Yang", // 姓名
+        "age": 46, // 年龄
+        "title": "Senior Vice President", // 职位
+        "yearBorn": 1979, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zhi-Qi  He", // 姓名
+        "age": 53, // 年龄
+        "title": "Executive VP & COO of Passenger Car Division", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Huan-Ming  Liu", // 姓名
+        "age": 62, // 年龄
+        "title": "VP & GM of the Audit Inspection Division", // 职位
+        "yearBorn": 1963, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Chuanfang  Wang", // 姓名
+        "age": 64, // 年龄
+        "title": "VP & GM Logistics Division", // 职位
+        "yearBorn": 1961, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 88.9, // 昨日收盘价
+    "open": 89.3, // 今日开盘价
+    "dayLow": 88.61, // 当日最低价
+    "dayHigh": 90.44, // 当日最高价
+    "regularMarketPreviousClose": 88.9, // 常规市场昨日收盘价
+    "regularMarketOpen": 89.3, // 常规市场今日开盘价
+    "regularMarketDayLow": 88.61, // 常规市场当日最低价
+    "regularMarketDayHigh": 90.44, // 常规市场当日最高价
+    "dividendRate": 0.36,
+    "dividendYield": 0.4,
+    "exDividendDate": 1785456000,
+    "payoutRatio": 0.4432, // 股利支付率
+    "fiveYearAvgDividendYield": 0.6,
+    "beta": 0.335, // 贝塔系数
+    "trailingPE": 30.0602, // 滚动市盈率 (TTM)
+    "forwardPE": 15.716941, // 预测市盈率
+    "volume": 24625494, // 成交量
+    "regularMarketVolume": 24625494, // 常规市场成交量
+    "averageVolume": 43561498, // 平均成交量
+    "averageVolume10days": 35902601, // 10日平均成交量
+    "averageDailyVolume10Day": 35902601, // 10日日均成交量
+    "bid": 89.94, // 买入价
+    "ask": 89.95, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 819453689856, // 总市值
+    "nonDilutedMarketCap": 762456840009, // 非稀释市值
+    "fiftyTwoWeekLow": 77.6, // 52周最低价
+    "fiftyTwoWeekHigh": 116.59, // 52周最高价
+    "allTimeHigh": 138.70334, // 历史最高价
+    "allTimeLow": 4.503333, // 历史最低价
+    "priceToSalesTrailing12Months": 1.0454484, // 市销率 (TTM)
+    "fiftyDayAverage": 89.4058, // 50日均价
+    "twoHundredDayAverage": 95.08655, // 200日均价
+    "trailingAnnualDividendRate": 0.358, // 年度股息率
+    "trailingAnnualDividendYield": 0.004026997, // 年度股息收益率
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 834674032640, // 企业价值 (EV)
+    "profitMargins": 0.035150003, // 利润率
+    "floatShares": 6076537428, // 流通股本
+    "sharesOutstanding": 5433797565, // 发行在外股份总数
+    "heldPercentInsiders": 0.58985, // 内部人士持股比例
+    "heldPercentInstitutions": 0.06832, // 机构持股比例
+    "impliedSharesOutstanding": 9117197565, // 隐含发行在外股份
+    "bookValue": 25.527, // 每股净资产
+    "priceToBook": 3.5209777, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1774915200, // 最近一个季度日
+    "earningsQuarterlyGrowth": -0.554, // 季度盈利增长
+    "netIncomeToCommon": 27256473600, // 归属于普通股股东的净利润
+    "trailingEps": 2.99, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 5.71867, // 预测每股收益
+    "pegRatio": 0.86, // PEG比率
+    "lastSplitFactor": "3:1",
+    "lastSplitDate": 1753747200,
+    "enterpriseToRevenue": 1.065, // 企业价值/营收比
+    "enterpriseToEbitda": 7.496, // 企业价值/EBITDA比
+    "52WeekChange": -0.17966229, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 0.358,
+    "lastDividendDate": 1785456000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 89.88, // 当前价格
+    "targetHighPrice": 137.0, // 目标最高价
+    "targetLowPrice": 90.0, // 目标最低价
+    "targetMeanPrice": 119.74714, // 目标平均价
+    "targetMedianPrice": 123.0, // 目标中位价
+    "recommendationMean": 1.5, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 21, // 分析师人数
+    "totalCash": 129541152768, // 现金总额
+    "totalCashPerShare": 14.259, // 每股现金
+    "ebitda": 111350251520, // EBITDA
+    "totalDebt": 144350314496, // 总债务
+    "quickRatio": 0.376, // 速动比率
+    "currentRatio": 0.815, // 流动比率
+    "totalRevenue": 783829827584, // 总营收
+    "debtToEquity": 55.07, // 债务权益比
+    "revenuePerShare": 86.107, // 每股营收
+    "returnOnAssets": 0.023, // 资产回报率 (ROA)
+    "returnOnEquity": 0.11147001, // 权益回报率 (ROE)
+    "grossProfits": 135104217088, // 毛利润
+    "freeCashflow": -117094318080, // 自由现金流
+    "operatingCashflow": 53344886784, // 经营现金流
+    "earningsGrowth": -0.569, // 盈利增长
+    "revenueGrowth": -0.118, // 营收增长
+    "grossMargins": 0.17236, // 毛利率
+    "ebitdaMargins": 0.14206, // EBITDA利润率
+    "operatingMargins": 0.04777, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "002594.SZ", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950243, // 常规市场时间戳
+    "exchange": "SHZ", // 交易所代码
+    "messageBoardId": "finmb_5575412", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 1.1023574, // 常规市场变动百分比
+    "regularMarketPrice": 89.88, // 常规市场当前价格
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.5 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "shortName": "BYD", // 公司简称
+    "longName": "BYD Company Limited", // 公司正式名称
+    "marketState": "POSTPOST", // 市场状态
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1309397400000, // 首次交易日期时间戳
+    "regularMarketChange": 0.9799957, // 常规市场价格变动
+    "regularMarketDayRange": "88.61 - 90.44", // 常规市场当日价格范围
+    "fullExchangeName": "Shenzhen", // 交易所全称
+    "averageDailyVolume3Month": 43561498, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 12.279999, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.15824741, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "77.6 - 116.59", // 52周价格范围
+    "fiftyTwoWeekHighChange": -26.71, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.2290934, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -17.966228, // 52周价格变动百分比
+    "earningsTimestampStart": 1756205940, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1756728000, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1712732400, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1712732400, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": true, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 2.99, // 过去12个月每股收益
+    "epsForward": 5.71867, // 预测每股收益
+    "epsCurrentYear": 4.17488, // 本年度每股收益
+    "priceEpsCurrentYear": 21.52876, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 0.4741974, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.0053038774, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -5.2065506, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.05475591, // 200日均价变动百分比
+    "trailingPegRatio": 0.8582 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+      "content": {
+        "id": "c9d2c17c-18f2-333a-b344-cb03be986c70",
+        "contentType": "STORY",
+        "title": "U.S. EV market shows signs of bottoming out: Bernstein", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bernstein said global electric vehicle demand recovered in the second quarter, with the U.S. market showing signs of stabilization after a weak start to the year.",
+        "pubDate": "2026-08-17T12:14:52Z",
+        "displayTime": "2026-08-17T12:14:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/u-ev-market-shows-signs-121452688.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1bd3ac7d-b1ab-352c-a8d3-809d4c96ec0a",
+      "content": {
+        "id": "1bd3ac7d-b1ab-352c-a8d3-809d4c96ec0a",
+        "contentType": "STORY",
+        "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around", // 职位
+        "description": "",
+        "summary": "Waymo has imported 3,200 Zeekr cars from China since 2024 through the Port of Los Angeles. Most of those vehicles were imported this year.",
+        "pubDate": "2026-08-16T16:30:00Z",
+        "displayTime": "2026-08-16T16:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "A photo of a Waymo Zeekr car",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6agIksZzlpgpzs2h5t50aQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u800erPUG210wvLaJJpTxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/44673e309195babb9767771534d8d4ef.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c141d694-e9a5-33c6-8396-cbeaeab75fa0",
+      "content": {
+        "id": "c141d694-e9a5-33c6-8396-cbeaeab75fa0",
+        "contentType": "STORY",
+        "title": "1 Profitable Stock with Exciting Potential and 2 We Question", // 职位
+        "description": "",
+        "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn’t mean it will thrive tomorrow.",
+        "pubDate": "2026-08-16T15:01:00Z",
+        "displayTime": "2026-08-16T15:01:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/c0a618594b13890ae6213a542a3f16a4.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "SHOP Cover Image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5653oiCXnAFgTs6jNgTNzA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/c0a618594b13890ae6213a542a3f16a4.jpg",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/odhvajk52Sl_6N1hgvisiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/c0a618594b13890ae6213a542a3f16a4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-exciting-potential-150100032.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-exciting-potential-150100032.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f05916df-692d-3dbd-8c36-2e2880d26bbf",
+      "content": {
+        "id": "f05916df-692d-3dbd-8c36-2e2880d26bbf",
+        "contentType": "STORY",
+        "title": "China plans faster rollout of renewable-energy recycling rules - CCTV", // 职位
+        "description": "",
+        "summary": "Investing.com -- China plans to accelerate rules governing the recycling and reuse of electric-vehicle batteries, wind turbines and solar equipment, Bloomberg reported on Sunday, citing state broadcaster China Central Television.",
+        "pubDate": "2026-08-16T06:56:33Z",
+        "displayTime": "2026-08-16T06:56:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/china-plans-faster-rollout-renewable-065633535.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/china-plans-faster-rollout-renewable-065633535.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "57ddadc3-9501-3707-a554-9d6688a8480c",
+      "content": {
+        "id": "57ddadc3-9501-3707-a554-9d6688a8480c",
+        "contentType": "STORY",
+        "title": "Waymo doubles down on the cars America won’t let you buy", // 职位
+        "description": "",
+        "summary": "Trade barriers are supposed to be simple machines. You raise the price of a thing until buying it stops making sense, and the buying stops. Washington built one of the tallest of those walls in modern trade policy around Chinese electric vehicles, and by the only measure most people can see, it ...",
+        "pubDate": "2026-08-14T19:37:00Z",
+        "displayTime": "2026-08-14T19:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j7v3fxScPV2sMgw26vQJUQ--~B/aD0yODgwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+              "width": 3840,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/53kGzhchre3CMPnmMn9VSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/automotive/waymo-doubles-down-on-chinese-evs-america-wont-let-you-buy",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/waymo-doubles-down-cars-america-193700164.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "780c9dc7-0780-3ac8-b0f1-e52a5629edeb",
+      "content": {
+        "id": "780c9dc7-0780-3ac8-b0f1-e52a5629edeb",
+        "contentType": "STORY",
+        "title": "Why Tesla Doesn't Need to Win China's Brutal EV Price War (Revised)", // 职位
+        "description": "",
+        "summary": "TSLA is sidestepping China's brutal EV price war by preserving its premium appeal at home while turning Shanghai into a record-setting export hub.",
+        "pubDate": "2026-08-14T09:26:00Z",
+        "displayTime": "2026-08-14T09:26:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZCOx5Er.iEoQWGnkYT_3Ug--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lw95xun2rU257SOJRGkhBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-doesnt-win-chinas-092600563.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-doesnt-win-chinas-092600563.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0aa8669a-c722-3b00-afd0-48b51fe62664",
+      "content": {
+        "id": "0aa8669a-c722-3b00-afd0-48b51fe62664",
+        "contentType": "STORY",
+        "title": "There Aren’t Enough Ships to Handle China’s Booming Car Exports", // 职位
+        "description": "",
+        "summary": "As demand slumps at home, Chinese cars are flooding other markets—and testing the shipping industry.",
+        "pubDate": "2026-08-14T02:00:00Z",
+        "displayTime": "2026-08-14T02:00:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/0aa8669a-c722-3b00-afd0-48b51fe62664/there-aren%E2%80%99t-enough-ships-to.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/980fe343a5875466d50bbbf8cf0f4807.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gOtJ3jiwHHcLubf_4oHN0Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/980fe343a5875466d50bbbf8cf0f4807.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Hwb70lQiFkwc.JWGFIYrzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/980fe343a5875466d50bbbf8cf0f4807.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/business/logistics/there-arent-enough-ships-to-handle-chinas-booming-car-exports-d2b66787?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ab0e2f7e-be32-32f8-a384-849fd9c34481",
+      "content": {
+        "id": "ab0e2f7e-be32-32f8-a384-849fd9c34481",
+        "contentType": "STORY",
+        "title": "American auto retreat from China accelerates", // 职位
+        "description": "",
+        "summary": "The U.S. auto industry's retreat from China is accelerating, while Chinese carmakers are inching closer to the American market despite attempts to keep them out.Why it matters: China once represented a lucrative growth opportunity and manufacturing base for American automakers, but those ties are unraveling as Chinese rivals like BYD and Geely expand their reach around the world.The latest: Ford announced late Wednesday that it will end production of its Lincoln luxury brand in China for export",
+        "pubDate": "2026-08-13T21:15:15Z",
+        "displayTime": "2026-08-13T21:15:15Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/axios_527/03cdd6a1236e73c1081bf833b83d09b0.jpg",
+          "originalWidth": 320,
+          "originalHeight": 320,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.HV0oFbf04TlgrhNqn3u1A--~B/aD0zMjA7dz0zMjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/axios_527/03cdd6a1236e73c1081bf833b83d09b0.jpg",
+              "width": 320,
+              "height": 320,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sAEcbzIj9bJ2ZwrHVGG8QQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/axios_527/03cdd6a1236e73c1081bf833b83d09b0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Axios",
+          "url": "https://www.axios.com/",
+          "sourceId": "axios_527"
+        },
+        "canonicalUrl": {
+          "url": "https://www.axios.com/2026/08/13/china-mexico-autos-lincoln-gm-chevy#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/american-auto-retreat-china-accelerates-211515521.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1283d51b-d664-3cfa-98a6-fc58bfd364b2",
+      "content": {
+        "id": "1283d51b-d664-3cfa-98a6-fc58bfd364b2",
+        "contentType": "STORY",
+        "title": "Why Tesla Doesn't Need to Win China's Brutal EV Price War", // 职位
+        "description": "",
+        "summary": "TSLA is sidestepping China's brutal EV price war by preserving its premium appeal at home while turning Shanghai into a record-setting export hub.",
+        "pubDate": "2026-08-13T13:50:00Z",
+        "displayTime": "2026-08-13T13:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZCOx5Er.iEoQWGnkYT_3Ug--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lw95xun2rU257SOJRGkhBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-doesnt-win-chinas-135000666.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-doesnt-win-chinas-135000666.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0cfb3f7d-a494-37a3-8348-aec1838407ab",
+      "content": {
+        "id": "0cfb3f7d-a494-37a3-8348-aec1838407ab",
+        "contentType": "STORY",
+        "title": "BYD (SEHK:1211) Tops China NEV Exports As New Battery Models Arrive", // 职位
+        "description": "",
+        "summary": "BYD (SEHK:1211) currently leads China's new energy vehicle export market as of August 2026. The company is rolling out new models that feature advanced flash charging technology. BYD is introducing a new generation of its Blade Battery aimed at higher efficiency and safety in upcoming vehicles. You may also want to look at other stocks in related growth themes, starting with 55 AI infrastructure stocks. SEHK:1211 Earnings & Revenue Growth as at Aug 2026 BYD operates across both auto...",
+        "pubDate": "2026-08-13T12:09:26Z",
+        "displayTime": "2026-08-13T12:09:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/7665404e4784395f2fabaf0da7c7079d.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nJ3GdcxL5V6YbzxlhvpGWQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7665404e4784395f2fabaf0da7c7079d.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/AnGIDDw6YbK60Vub9uRBQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/7665404e4784395f2fabaf0da7c7079d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/byd-sehk-1211-tops-china-120926947.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/byd-sehk-1211-tops-china-120926947.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 90.44000244140625, // 当日最高价
+    "dayLow": 88.61000061035156, // 当日最低价
+    "exchange": "SHZ", // 交易所代码
+    "fiftyDayAverage": 89.40580017089843, // 50日均价
+    "lastPrice": 89.87999725341797,
+    "lastVolume": 24625494,
+    "marketCap": 819453692101.069, // 总市值
+    "open": 89.30000305175781, // 今日开盘价
+    "previousClose": 88.97000122070312, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 88.9000015258789, // 常规市场昨日收盘价
+    "shares": 9117197565,
+    "tenDayAverageVolume": 35902601,
+    "threeMonthAverageVolume": 43608578,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 95.46195014953614, // 200日均价
+    "yearChange": -0.17966227486616176,
+    "yearHigh": 116.58999633789062,
+    "yearLow": 77.5999984741211
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 7, 31), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 253483308750, 'Revenue Low': 216742861000, 'Revenue Average': 229418723250}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.016667,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.122333,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.059333,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.047,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.068,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.02,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.049333,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.035,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.380667,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.032591,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.32466,
+      "Stock Splits": 3.0
+    },
+    {
+      "Dividends": 0.358,
+      "Stock Splits": 0.0
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "info": {
+    "address1": "Zhizhen Building", // 地址1
+    "address2": "Floors 5, 11-13, 16, Block D No. 7 Zhichun Road Haidian District", // 地址2
+    "city": "Beijing", // 城市
+    "zip": "100191", // 邮编
+    "country": "China", // 国家
+    "phone": "86 10 8303 0796", // 电话
+    "fax": "86 10 8303 0796",
+    "website": "https://www.cambricon.com", // 官方网站
+    "industry": "Semiconductors", // 行业
+    "industryKey": "semiconductors", // 行业键
+    "industryDisp": "Semiconductors", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Cambricon Technologies Corporation Limited engages in the research, development, design, and sale of core AI chips for terminal devices in China. The company offers cloud-based intelligent chips and boards, intelligent complete machines, edge intelligence chips and boards, and related supporting basic system software. It also provides smart accelerator cards, including the Siyuan 370 and Siyuan 270 series; intelligent computing modules comprising the Siyuan 220 module; terminal intelligent processor IP, which consists of Cambricon-1M and Cambricon-1H; and software development platforms, such as the Cambricon NeuWare and MagicMind. The company was founded in 2016 and is based in Beijing, China.", // 公司业务摘要
+    "fullTimeEmployees": 1249, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Tianshi  Chen", // 姓名
+        "age": 40, // 年龄
+        "title": "Founder, GM & Chairman", // 职位
+        "yearBorn": 1985, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Bang Yin  Ye", // 姓名
+        "age": 37, // 年龄
+        "title": "Deputy GM, CFO, Secretary of the Board, Accounting Supervisor & Director", // 职位
+        "yearBorn": 1988, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Zai  Wang", // 姓名
+        "age": 41, // 年龄
+        "title": "Deputy GM, COO & Director", // 职位
+        "yearBorn": 1984, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yao  Zhang", // 姓名
+        "age": 39, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1986, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yi  Liu", // 姓名
+        "age": 40, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1985, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shuai  Chen", // 姓名
+        "age": 39, // 年龄
+        "title": "Deputy General Manager", // 职位
+        "yearBorn": 1986, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shao Li  Liu", // 姓名
+        "age": 38, // 年龄
+        "title": "Deputy GM & Director", // 职位
+        "yearBorn": 1987, // 出生年份
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 1093.0, // 昨日收盘价
+    "open": 1096.0, // 今日开盘价
+    "dayLow": 1085.7, // 当日最低价
+    "dayHigh": 1156.68, // 当日最高价
+    "regularMarketPreviousClose": 1093.0, // 常规市场昨日收盘价
+    "regularMarketOpen": 1096.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 1085.7, // 常规市场当日最低价
+    "regularMarketDayHigh": 1156.68, // 常规市场当日最高价
+    "dividendRate": 1.5,
+    "dividendYield": 0.14,
+    "exDividendDate": 1778198400,
+    "payoutRatio": 0.2854, // 股利支付率
+    "beta": 0.967, // 贝塔系数
+    "trailingPE": 220.19048, // 滚动市盈率 (TTM)
+    "forwardPE": 59.492867, // 预测市盈率
+    "volume": 13999152, // 成交量
+    "regularMarketVolume": 13999152, // 常规市场成交量
+    "averageVolume": 13946335, // 平均成交量
+    "averageVolume10days": 14578589, // 10日平均成交量
+    "averageDailyVolume10Day": 14578589, // 10日日均成交量
+    "bid": 1156.0, // 买入价
+    "ask": 1156.01, // 卖出价
+    "marketCap": 726306717696, // 总市值
+    "nonDilutedMarketCap": 686724215117, // 非稀释市值
+    "fiftyTwoWeekLow": 604.02686, // 52周最低价
+    "fiftyTwoWeekHigh": 1620.0, // 52周最高价
+    "allTimeHigh": 1620.0, // 历史最高价
+    "allTimeLow": 31.268456, // 历史最低价
+    "priceToSalesTrailing12Months": 75.56151, // 市销率 (TTM)
+    "fiftyDayAverage": 1288.3008, // 50日均价
+    "twoHundredDayAverage": 1005.6517, // 200日均价
+    "trailingAnnualDividendRate": 1.007, // 年度股息率
+    "trailingAnnualDividendYield": 0.00092131743, // 年度股息收益率
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 681916301312, // 企业价值 (EV)
+    "profitMargins": 0.34665, // 利润率
+    "floatShares": 289167559, // 流通股本
+    "sharesOutstanding": 628292969, // 发行在外股份总数
+    "heldPercentInsiders": 0.54615, // 内部人士持股比例
+    "heldPercentInstitutions": 0.12433, // 机构持股比例
+    "impliedSharesOutstanding": 628292969, // 隐含发行在外股份
+    "bookValue": 21.576, // 每股净资产
+    "priceToBook": 53.57805, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1782777600, // 最近一个季度日
+    "earningsQuarterlyGrowth": 0.901, // 季度盈利增长
+    "netIncomeToCommon": 3332058112, // 归属于普通股股东的净利润
+    "trailingEps": 5.25, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 19.4309, // 预测每股收益
+    "lastSplitFactor": "1.49:1",
+    "lastSplitDate": 1778198400,
+    "enterpriseToRevenue": 70.943, // 企业价值/营收比
+    "enterpriseToEbitda": 217.055, // 企业价值/EBITDA比
+    "52WeekChange": 0.7142842, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 1.5,
+    "lastDividendDate": 1778198400,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 1156.0, // 当前价格
+    "targetHighPrice": 2060.0, // 目标最高价
+    "targetLowPrice": 1340.0, // 目标最低价
+    "targetMeanPrice": 1564.454, // 目标平均价
+    "targetMedianPrice": 1408.0, // 目标中位价
+    "recommendationMean": 1.16667, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 5, // 分析师人数
+    "totalCash": 4793420288, // 现金总额
+    "totalCashPerShare": 7.63, // 每股现金
+    "ebitda": 3141669888, // EBITDA
+    "totalDebt": 18590524, // 总债务
+    "quickRatio": 1.14, // 速动比率
+    "currentRatio": 3.739, // 流动比率
+    "totalRevenue": 9612126208, // 总营收
+    "debtToEquity": 0.137, // 债务权益比
+    "revenuePerShare": 15.321, // 每股营收
+    "returnOnAssets": 0.13516, // 资产回报率 (ROA)
+    "returnOnEquity": 0.32783002, // 权益回报率 (ROE)
+    "grossProfits": 4808073728, // 毛利润
+    "freeCashflow": -3145672448, // 自由现金流
+    "operatingCashflow": -1098233856, // 经营现金流
+    "earningsGrowth": 0.866, // 盈利增长
+    "revenueGrowth": 0.758, // 营收增长
+    "grossMargins": 0.50021, // 毛利率
+    "ebitdaMargins": 0.32683998, // EBITDA利润率
+    "operatingMargins": 0.28430998, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "688256.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "fiftyDayAverageChange": -132.30078, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.10269402, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 150.34833, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.14950338, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.2 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1595208600000, // 首次交易日期时间戳
+    "regularMarketChange": 63.0, // 常规市场价格变动
+    "regularMarketDayRange": "1085.7 - 1156.68", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "averageDailyVolume3Month": 13946335, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 551.97314, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.9138222, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "604.02686 - 1620.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -464.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.28641975, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 71.42842, // 52周价格变动百分比
+    "earningsTimestampStart": 1745060340, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1745060340, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1747026000, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1747026000, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 5.25, // 过去12个月每股收益
+    "epsForward": 19.4309, // 预测每股收益
+    "epsCurrentYear": 9.4943, // 本年度每股收益
+    "priceEpsCurrentYear": 121.75726, // 本年度股价/EPS比
+    "shortName": "CAMBRICON TECHNOLOGIES CORPORAT", // 公司简称
+    "longName": "Cambricon Technologies Corporation Limited", // 公司正式名称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786950003, // 常规市场时间戳
+    "exchange": "SHH", // 交易所代码
+    "messageBoardId": "finmb_534782538", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 5.7639523, // 常规市场变动百分比
+    "regularMarketPrice": 1156.0, // 常规市场当前价格
+    "marketState": "POSTPOST", // 市场状态
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "f92c04d2-bd13-324e-bc07-7c35d71a416b",
+      "content": {
+        "id": "f92c04d2-bd13-324e-bc07-7c35d71a416b",
+        "contentType": "STORY",
+        "title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- China’s AI chip designers are expecting bumper sales this earnings season off the back of Beijing’s push to get local firms to use homegrown components and reduce their reliance on American tech.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do Data Centers Use",
+        "pubDate": "2026-08-07T03:32:20Z",
+        "displayTime": "2026-08-07T03:32:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-chipmakers-poised-gain-033220643.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-chipmakers-poised-gain-033220643.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0f58858a-18da-3fe1-8f42-bcced3854385",
+      "content": {
+        "id": "0f58858a-18da-3fe1-8f42-bcced3854385",
+        "contentType": "STORY",
+        "title": "Z.AI to Use Only Chinese AI Chips at New Giant Data Center", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- Z.AI has completed construction of a major data center that it plans to fill only with Chinese-made chips, a step forward in Beijing’s efforts to shift away from restricted Nvidia Corp. silicon for future AI development.Most Read from BloombergYemen’s Houthis to Impose Maritime Blockade on Saudi ArabiaChina AI Sensation Moonshot’s Gamble on Big Models Pays OffTrump Vows 50% Tariff on Canadian Goods Using Depression-Era LawMoonshot’s Kimi K3 May Be More About Memory Than ComputeUS",
+        "pubDate": "2026-07-21T14:07:28Z",
+        "displayTime": "2026-07-21T14:07:28Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/z-ai-only-chinese-ai-140728901.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/z-ai-only-chinese-ai-140728901.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "82fef778-9a9e-3b5e-80f9-f7a8ec19ca41",
+      "content": {
+        "id": "82fef778-9a9e-3b5e-80f9-f7a8ec19ca41",
+        "contentType": "STORY",
+        "title": "Nvidia and AMD Face China Chip Pressure", // 职位
+        "description": "",
+        "summary": "Domestic AI options gain budget share, survey says",
+        "pubDate": "2026-07-07T19:16:36Z",
+        "displayTime": "2026-07-07T19:16:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-face-china-chip-191636641.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-face-china-chip-191636641.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c4c72ef2-d084-3d1d-bafa-985b21a545f6",
+      "content": {
+        "id": "c4c72ef2-d084-3d1d-bafa-985b21a545f6",
+        "contentType": "STORY",
+        "title": "Nvidia Faces China Shift as Domestic AI Chip Budgets Jump to 46%", // 职位
+        "description": "",
+        "summary": "Chinese companies plan to raise domestic AI accelerator spending as Beijing advances its AI infrastructure strategy.",
+        "pubDate": "2026-07-07T19:16:03Z",
+        "displayTime": "2026-07-07T19:16:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-china-shift-domestic-191603710.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-china-shift-domestic-191603710.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "48892d00-7c2a-33e1-903a-645f615971e9",
+      "content": {
+        "id": "48892d00-7c2a-33e1-903a-645f615971e9",
+        "contentType": "STORY",
+        "title": "Nvidia and AMD Face Fresh China Threat as AI Buyers Shift to Local Chips", // 职位
+        "description": "",
+        "summary": "Chinese Firms Plan Major Shift Away From Nvidia and AMD Chips, Survey Finds",
+        "pubDate": "2026-07-07T16:54:33Z",
+        "displayTime": "2026-07-07T16:54:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-face-fresh-china-165433145.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-face-fresh-china-165433145.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e8bfbcad-fe3f-3f6a-bd75-2010555498c9",
+      "content": {
+        "id": "e8bfbcad-fe3f-3f6a-bd75-2010555498c9",
+        "contentType": "STORY",
+        "title": "Nvidia's China Woes Deepen As TikTok Parent ByteDance Eyes AI Chips From Iluvatar CoreX, Baidu: Report", // 职位
+        "description": "",
+        "summary": "ByteDance, the parent company of TikTok, is reportedly in talks with Iluvatar CoreX and Baidu Inc. to acquire AI chips. Iluvatar CoreX is projected to deliver at least 50,000 chips to ByteDance this year, primarily for AI inference tasks, as...",
+        "pubDate": "2026-06-16T19:31:35Z",
+        "displayTime": "2026-06-16T19:31:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/034a5ec38a85290501feff6c8e3c1767",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "Nvidia's China Woes Deepen As TikTok Parent ByteDance Eyes AI Chips From Iluvatar CoreX, Baidu: Report",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yBfgGk_jRUaGc_0QF5miWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/034a5ec38a85290501feff6c8e3c1767",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5beZA7yGmsXLG6dLH5fhnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/034a5ec38a85290501feff6c8e3c1767",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-china-woes-deepen-tiktok-193135281.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-china-woes-deepen-tiktok-193135281.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ade82e7f-9361-3f64-8e04-6458a64e9d01",
+      "content": {
+        "id": "ade82e7f-9361-3f64-8e04-6458a64e9d01",
+        "contentType": "STORY",
+        "title": "A Place Where Some AI Stocks Are Still Cheap: China", // 职位
+        "description": "",
+        "summary": "The country offers a different way to play the boom, with relative bargains to be found, but volatile geopolitics are a challenge.",
+        "pubDate": "2026-06-15T03:00:00Z",
+        "displayTime": "2026-06-15T03:00:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/ade82e7f-9361-3f64-8e04-6458a64e9d01/a-place-where-some-ai-stocks.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/4d9631c00ce8fa3815bcaaf5fac115c4",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2mqG8xLuNgU3kfCloxNmsA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/4d9631c00ce8fa3815bcaaf5fac115c4",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u1zrI6dDr.seqsk4fBdCwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4d9631c00ce8fa3815bcaaf5fac115c4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/finance/stocks/a-place-where-some-ai-stocks-are-still-cheap-china-22559ee9?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "03d87492-de18-3d06-b1b4-52116faf1ddf",
+      "content": {
+        "id": "03d87492-de18-3d06-b1b4-52116faf1ddf",
+        "contentType": "STORY",
+        "title": "China banned Nvidia’s gaming chip during Jensen Huang’s visit", // 职位
+        "description": "",
+        "summary": "Beijing banned an Nvidia gaming chip while the company’s chief executive Jensen Huang was visiting China with Donald Trump last week, the latest...",
+        "pubDate": "2026-05-20T08:08:34Z",
+        "displayTime": "2026-05-20T08:08:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Financial Times",
+          "url": "https://www.ft.com/",
+          "sourceId": "financial_times_premium_news_167"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/china-banned-nvidia-gaming-chip-080834455.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/china-banned-nvidia-gaming-chip-080834455.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c0056d4f-18e3-3d7e-9661-5e5564cf4d0a",
+      "content": {
+        "id": "c0056d4f-18e3-3d7e-9661-5e5564cf4d0a",
+        "contentType": "STORY",
+        "title": "DeepSeek's V4 model will run on Huawei chips, The Information reports", // 职位
+        "description": "",
+        "summary": "China's DeepSeek's new model called V4 will run on the latest chips designed by Huawei Technologies, ‌U.S. digital news outlet The Information reported on Friday.  In preparation ‌for V4's launch, Chinese tech giants, including Alibaba Group, ByteDance and Tencent Holdings, have placed ​bulk orders for Huawei's upcoming chip totaling hundreds of thousands of units, the report said, citing five people with direct knowledge of the purchase.  Huawei Technologies and ⁠DeepSeek did not immediately respond to Reuters requests for comment sent outside normal office hours.",
+        "pubDate": "2026-04-03T13:43:41Z",
+        "displayTime": "2026-04-03T13:43:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/925faa3ee445c692a9744bbda89a3a5f",
+          "originalWidth": 800,
+          "originalHeight": 494,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u0_7eV8K.bAzLHFDJFEacQ--~B/aD00OTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/925faa3ee445c692a9744bbda89a3a5f",
+              "width": 800,
+              "height": 494,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yzwLa0NnuTU_Pej.kMH8fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/925faa3ee445c692a9744bbda89a3a5f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-v4-model-run-huawei-134341751.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-v4-model-run-huawei-134341751.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "983f566f-7083-35ca-9249-fe145d233b71",
+      "content": {
+        "id": "983f566f-7083-35ca-9249-fe145d233b71",
+        "contentType": "STORY",
+        "title": "China AI Hardware Earnings Pull Further Ahead of Internet Giants", // 职位
+        "description": "",
+        "summary": "Bloomberg Intelligence data shows IT profit estimates up 50% year-on-year, while China's Tech 8 face a 12% decline amid competition.",
+        "pubDate": "2026-01-27T13:08:32Z",
+        "displayTime": "2026-01-27T13:08:32Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/us.finance.gurufocus/76a1738dba3b3cb45d19c040ccdb1dd2",
+          "originalWidth": 5215,
+          "originalHeight": 3477,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ij.PSQVlmwCTNB4anfxtdw--~B/aD0zNDc3O3c9NTIxNTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/us.finance.gurufocus/76a1738dba3b3cb45d19c040ccdb1dd2",
+              "width": 5215,
+              "height": 3477,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yDwPDmUpHWfnyRfXei5SBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/76a1738dba3b3cb45d19c040ccdb1dd2",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/china-ai-hardware-earnings-pull-130832076.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/china-ai-hardware-earnings-pull-130832076.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 1156.6800537109375, // 当日最高价
+    "dayLow": 1085.699951171875, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": 1288.30080078125, // 50日均价
+    "lastPrice": 1156.0,
+    "lastVolume": 13999152,
+    "marketCap": 726306672164.0, // 总市值
+    "open": 1096.0, // 今日开盘价
+    "previousClose": 1092.02001953125, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 1093.0, // 常规市场昨日收盘价
+    "shares": 628292969,
+    "tenDayAverageVolume": 14578589,
+    "threeMonthAverageVolume": 13980622,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 1010.9338784790039, // 200日均价
+    "yearChange": 0.7142842920288328,
+    "yearHigh": 1620.0,
+    "yearLow": 604.02685546875
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 5, 8), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 8143590000, 'Revenue Low': 8143590000, 'Revenue Average': 8143590000}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 1.5,
+      "Stock Splits": 1.49
+    }
+  ]
+}

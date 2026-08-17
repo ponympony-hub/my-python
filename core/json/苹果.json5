@@ -1,0 +1,1266 @@
+{
+  "info": {
+    "address1": "One Apple Park Way", // 地址1
+    "city": "Cupertino", // 城市
+    "state": "CA",
+    "zip": "95014", // 邮编
+    "country": "United States", // 国家
+    "phone": "(408) 996-1010", // 电话
+    "website": "https://www.apple.com", // 官方网站
+    "industry": "Consumer Electronics", // 行业
+    "industryKey": "consumer-electronics", // 行业键
+    "industryDisp": "Consumer Electronics", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allows customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.", // 公司业务摘要
+    "fullTimeEmployees": 150000, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Timothy D. Cook", // 姓名
+        "age": 64, // 年龄
+        "title": "CEO & Director", // 职位
+        "yearBorn": 1961, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 16759518,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Kevan  Parekh", // 姓名
+        "age": 53, // 年龄
+        "title": "Senior VP & CFO", // 职位
+        "yearBorn": 1972, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 4034174,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Sabih  Khan", // 姓名
+        "age": 58, // 年龄
+        "title": "Senior VP & Chief Operating Officer", // 职位
+        "yearBorn": 1967, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 5021905,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Deirdre  O'Brien", // 姓名
+        "age": 58, // 年龄
+        "title": "Senior Vice President of Retail & People", // 职位
+        "yearBorn": 1967, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 5037867,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Katherine L. Adams", // 姓名
+        "age": 61, // 年龄
+        "title": "Senior VP of Government Affairs & Secretary", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 5022482,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ben  Borders", // 姓名
+        "age": 44, // 年龄
+        "title": "Principal Accounting Officer", // 职位
+        "yearBorn": 1981, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Suhasini  Chandramouli", // 姓名
+        "title": "Director of Investor Relations", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Jennifer G. Newstead J.D.", // 姓名
+        "age": 55, // 年龄
+        "title": "Senior VP & General Counsel", // 职位
+        "yearBorn": 1970, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Kristin Huguet Quayle", // 姓名
+        "title": "Vice President of Worldwide Communications", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Greg  Joswiak", // 姓名
+        "title": "Senior Vice President of Worldwide Marketing", // 职位
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 2, // 审计风险
+    "boardRisk": 1, // 董事会风险
+    "compensationRisk": 7, // 薪酬风险
+    "shareHolderRightsRisk": 1, // 股东权益风险
+    "overallRisk": 1, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "irWebsite": "http://investor.apple.com/",
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 305.93, // 昨日收盘价
+    "open": 306.21, // 今日开盘价
+    "dayLow": 304.055, // 当日最低价
+    "dayHigh": 307.66, // 当日最高价
+    "regularMarketPreviousClose": 305.93, // 常规市场昨日收盘价
+    "regularMarketOpen": 306.21, // 常规市场今日开盘价
+    "regularMarketDayLow": 304.055, // 常规市场当日最低价
+    "regularMarketDayHigh": 307.66, // 常规市场当日最高价
+    "dividendRate": 1.08,
+    "dividendYield": 0.35,
+    "exDividendDate": 1786320000,
+    "payoutRatio": 0.1204, // 股利支付率
+    "fiveYearAvgDividendYield": 0.5,
+    "beta": 1.086, // 贝塔系数
+    "trailingPE": 34.911694, // 滚动市盈率 (TTM)
+    "forwardPE": 32.019276, // 预测市盈率
+    "volume": 8532331, // 成交量
+    "regularMarketVolume": 8532331, // 常规市场成交量
+    "averageVolume": 56191185, // 平均成交量
+    "averageVolume10days": 46555190, // 10日平均成交量
+    "averageDailyVolume10Day": 46555190, // 10日日均成交量
+    "bid": 305.02, // 买入价
+    "ask": 306.97, // 卖出价
+    "bidSize": 3, // 买盘量
+    "askSize": 4, // 卖盘量
+    "marketCap": 4442906165248, // 总市值
+    "nonDilutedMarketCap": 4464797487400, // 非稀释市值
+    "fiftyTwoWeekLow": 223.78, // 52周最低价
+    "fiftyTwoWeekHigh": 344.57, // 52周最高价
+    "allTimeHigh": 344.57, // 历史最高价
+    "allTimeLow": 0.049107, // 历史最低价
+    "priceToSalesTrailing12Months": 9.517325, // 市销率 (TTM)
+    "fiftyDayAverage": 309.1908, // 50日均价
+    "twoHundredDayAverage": 280.48364, // 200日均价
+    "trailingAnnualDividendRate": 1.05, // 年度股息率
+    "trailingAnnualDividendYield": 0.0034321577, // 年度股息收益率
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 4486742409216, // 企业价值 (EV)
+    "profitMargins": 0.27618998, // 利润率
+    "floatShares": 14569223952, // 流通股本
+    "sharesOutstanding": 14594180000, // 发行在外股份总数
+    "sharesShort": 141606163,
+    "sharesShortPriorMonth": 140526320,
+    "sharesShortPreviousMonthDate": 1782777600,
+    "dateShortInterest": 1785456000,
+    "sharesPercentSharesOut": 0.0097,
+    "heldPercentInsiders": 0.01648, // 内部人士持股比例
+    "heldPercentInstitutions": 0.66483, // 机构持股比例
+    "shortRatio": 2.58,
+    "shortPercentOfFloat": 0.0097,
+    "impliedSharesOutstanding": 14594180000, // 隐含发行在外股份
+    "bookValue": 7.36, // 每股净资产
+    "priceToBook": 41.36277, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1758931200, // 上个财年结束日
+    "nextFiscalYearEnd": 1790467200, // 下个财年结束日
+    "mostRecentQuarter": 1782518400, // 最近一个季度日
+    "earningsQuarterlyGrowth": 0.271, // 季度盈利增长
+    "netIncomeToCommon": 128929996800, // 归属于普通股股东的净利润
+    "trailingEps": 8.72, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 9.50771, // 预测每股收益
+    "pegRatio": 2.47, // PEG比率
+    "lastSplitFactor": "4:1",
+    "lastSplitDate": 1598832000,
+    "enterpriseToRevenue": 9.611, // 企业价值/营收比
+    "enterpriseToEbitda": 26.713, // 企业价值/EBITDA比
+    "52WeekChange": 0.32500327, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 0.27,
+    "lastDividendDate": 1786320000,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 304.43, // 当前价格
+    "targetHighPrice": 400.0, // 目标最高价
+    "targetLowPrice": 215.0, // 目标最低价
+    "targetMeanPrice": 322.2844, // 目标平均价
+    "targetMedianPrice": 335.0, // 目标中位价
+    "recommendationMean": 2.13043, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 41, // 分析师人数
+    "totalCash": 62399000576, // 现金总额
+    "totalCashPerShare": 4.276, // 每股现金
+    "ebitda": 167959003136, // EBITDA
+    "totalDebt": 84343996416, // 总债务
+    "quickRatio": 0.812, // 速动比率
+    "currentRatio": 1.003, // 流动比率
+    "totalRevenue": 466822987776, // 总营收
+    "debtToEquity": 78.445, // 债务权益比
+    "revenuePerShare": 31.707, // 每股营收
+    "returnOnAssets": 0.27082002, // 资产回报率 (ROA)
+    "returnOnEquity": 1.4875101, // 权益回报率 (ROE)
+    "grossProfits": 227123003392, // 毛利润
+    "freeCashflow": 107721875456, // 自由现金流
+    "operatingCashflow": 146723995648, // 经营现金流
+    "earningsGrowth": 0.287, // 盈利增长
+    "revenueGrowth": 0.164, // 营收增长
+    "grossMargins": 0.48653, // 毛利率
+    "ebitdaMargins": 0.35979, // EBITDA利润率
+    "operatingMargins": 0.32623002, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "AAPL", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Nasdaq Real Time Price", // 报价来源
+    "triggerable": true, // 是否可触发
+    "customPriceAlertConfidence": "HIGH", // 自定义价格警报信心度
+    "marketState": "REGULAR", // 市场状态
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "shortName": "Apple Inc.", // 公司简称
+    "hasPrePostMarketData": true, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 345479400000, // 首次交易日期时间戳
+    "regularMarketChange": -1.5, // 常规市场价格变动
+    "regularMarketDayRange": "304.055 - 307.66", // 常规市场当日价格范围
+    "fullExchangeName": "NasdaqGS", // 交易所全称
+    "averageDailyVolume3Month": 56191185, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 80.649994, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.3603986, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "223.78 - 344.57", // 52周价格范围
+    "fiftyTwoWeekHighChange": -40.140015, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.11649306, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 32.500328, // 52周价格变动百分比
+    "dividendDate": 1786579200,
+    "earningsTimestamp": 1785441600, // 财报时间戳
+    "longName": "Apple Inc.", // 公司正式名称
+    "earningsTimestampStart": 1793304000, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1793304000, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1785441600, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1785441600, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": true, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 8.72, // 过去12个月每股收益
+    "epsForward": 9.50771, // 预测每股收益
+    "epsCurrentYear": 8.7999, // 本年度每股收益
+    "priceEpsCurrentYear": 34.59471, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -4.760803, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.015397623, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 23.94635, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.08537521, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 0, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "2.1 - Buy", // 平均分析师评级
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786977570, // 常规市场时间戳
+    "exchange": "NMS", // 交易所代码
+    "messageBoardId": "finmb_24937", // 留言板ID
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": -0.49027616, // 常规市场变动百分比
+    "regularMarketPrice": 304.43, // 常规市场当前价格
+    "displayName": "Apple",
+    "trailingPegRatio": 2.4668 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "d473d72e-6f6d-3df3-a85a-439f1377843c",
+      "content": {
+        "id": "d473d72e-6f6d-3df3-a85a-439f1377843c",
+        "contentType": "STORY",
+        "title": "Micron shares rise as White House pushes Apple away from Chinese memory chips", // 职位
+        "description": "",
+        "summary": "Micron Technology (NASDAQ:MU) shares gained 2. 6% ahead of Monday’s opening bell as pressure from the Trump administration on Apple not to source memory chips from Chinese manufacturers strengthened the outlook for U.",
+        "pubDate": "2026-08-17T14:16:16Z",
+        "displayTime": "2026-08-17T14:16:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/bbb49a6559ff287cdf297c894c9199c3.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "caption": "Semiconductor ©Adobe Stock Images",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7Kqz.rezyW6rD6bdPoI7AA--~B/aD02NTk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorshub_458/bbb49a6559ff287cdf297c894c9199c3.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2oM9p4J2gpupfs0BNhghag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/bbb49a6559ff287cdf297c894c9199c3.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/",
+          "sourceId": "investorshub_458"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/34436/micron-shares-rise-as-white-house-pushes-apple-away-from-chinese-memory-chips",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/micron-shares-rise-white-house-141616676.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c1646e37-0e47-3464-9a4b-6a54b8292791",
+      "content": {
+        "id": "c1646e37-0e47-3464-9a4b-6a54b8292791",
+        "contentType": "STORY",
+        "title": "Micron Stock Breaks $1,000 After Key Move by Trump Administration", // 职位
+        "description": "",
+        "summary": "Micron Technology  was gaining early on Monday.  Renewed momentum for the memory-chip trade might be boosted by the Trump administration’s rejection of Chinese hardware.  Micron shares were up 5% at $1,019.83 in early trading.",
+        "pubDate": "2026-08-17T14:02:00Z",
+        "displayTime": "2026-08-17T14:02:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/c1646e37-0e47-3464-9a4b-6a54b8292791/micron-stock-breaks-1-000.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/c90519638bed4bfed7c76da39707532a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/48weikdHNkQeql2k653dEA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c90519638bed4bfed7c76da39707532a.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5LgYbREkNEO3QWy7WMYrpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c90519638bed4bfed7c76da39707532a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/micron-stock-price-china-memory-364ae185?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+      "content": {
+        "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+        "contentType": "STORY",
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market", // 职位
+        "description": "",
+        "summary": "Stocks are trading slightly lower as the summer doldrums hit the market. Several AI stocks are rising.",
+        "pubDate": "2026-08-17T14:02:00Z",
+        "displayTime": "2026-08-17T14:02:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk-micron-nvidia-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UQPEWbwBR0SJb2PMLshoxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9926f4e4-be5d-3c35-bf41-26c3d65e189d",
+      "content": {
+        "id": "9926f4e4-be5d-3c35-bf41-26c3d65e189d",
+        "contentType": "STORY",
+        "title": "Netflix Stock Has Fallen On Slowing Sales While Margin And Buybacks Compound Earnings", // 职位
+        "description": "",
+        "summary": "Netflix's revenue growth is cooling, and the line that actually compounds for shareholders has been running far ahead of it.",
+        "pubDate": "2026-08-17T14:00:06Z",
+        "displayTime": "2026-08-17T14:00:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DbacNY7gyOVF8.tyD7Ys3g--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zu_8z6kGAEXHp16s7lUVxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/articles/611679/netflix-stock-has-fallen-on-slowing-sales-while-margin-and-buybacks-compound-earnings/2026-08-17",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-fallen-slowing-sales-140006237.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f0b816a8-890c-3014-aeec-e2be232f2365",
+      "content": {
+        "id": "f0b816a8-890c-3014-aeec-e2be232f2365",
+        "contentType": "STORY",
+        "title": "Apple’s Red Flags Are Real and Signal Trouble", // 职位
+        "description": "",
+        "summary": "Apple just posted its strongest June quarter ever and still watched shares sink 7% in a single day. Something underneath the headline numbers is quietly breaking down, and the October earnings report could expose it.",
+        "pubDate": "2026-08-17T13:54:05Z",
+        "displayTime": "2026-08-17T13:54:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bf95606d896a87d8b5218bb58c2b1692.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2fTyTCk4p1lu6yGNCeDdBw--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/bf95606d896a87d8b5218bb58c2b1692.jpg",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5Qc7qbT43Lef75in3gEy7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf95606d896a87d8b5218bb58c2b1692.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/apples-red-flags-are-real-and-signal-trouble/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-red-flags-real-signal-135405325.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9c58832a-ac31-3e6c-9340-793142d64a4d",
+      "content": {
+        "id": "9c58832a-ac31-3e6c-9340-793142d64a4d",
+        "contentType": "STORY",
+        "title": "Why Sandisk Stock Is Getting Its Mojo Back", // 职位
+        "description": "",
+        "summary": "Sandisk  stock is on a hot streak and may finally be getting its mojo back.  The shares are on a five-day winning streak through Friday, jumping 35% in that time.  The strong run looks set to continue with the stock rising 5.8% to $1,735 in early trading Monday.",
+        "pubDate": "2026-08-17T13:42:00Z",
+        "displayTime": "2026-08-17T13:42:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/9c58832a-ac31-3e6c-9340-793142d64a4d/why-sandisk-stock-is-getting.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/ca3448f4b21ffd6e7bc7f76cc2e9ef5a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j_eHPhgaRxiQn0Cz2CaqRg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ca3448f4b21ffd6e7bc7f76cc2e9ef5a.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Z.jTqhukVf7gSwsU6D_klw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ca3448f4b21ffd6e7bc7f76cc2e9ef5a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/sandisk-stock-memory-chip-china-cd80db15?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b5a42586-4562-30fd-8763-a0211d6b7b1a",
+      "content": {
+        "id": "b5a42586-4562-30fd-8763-a0211d6b7b1a",
+        "contentType": "STORY",
+        "title": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls", // 职位
+        "description": "",
+        "summary": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls",
+        "pubDate": "2026-08-17T13:36:24Z",
+        "displayTime": "2026-08-17T13:36:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 628,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6Fdl5y1Uo6M68fLesAA_Mg--~B/aD02Mjg7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec.jpg",
+              "width": 1200,
+              "height": 628,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6d5bAugL5VzaDM1EXnyXnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Fly",
+          "url": "https://thefly.com/",
+          "sourceId": "the_fly_169"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c3b03332-ba3d-3bfb-95df-17cc37f1a6e9",
+      "content": {
+        "id": "c3b03332-ba3d-3bfb-95df-17cc37f1a6e9",
+        "contentType": "STORY",
+        "title": "Micron rises as White House presses Apple to avoid Chinese memory chips", // 职位
+        "description": "",
+        "summary": "Micron is the direct beneficiary of Washington’s stance: a U.S. Commerce Department block on Apple sourcing DRAM from China’s ChangXin Memory Technologies (CXMT) effectively funnels Apple back toward domestic and allied suppliers, with Micron as the leading American producer.",
+        "pubDate": "2026-08-17T13:14:50Z",
+        "displayTime": "2026-08-17T13:14:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/micron-rises-white-house-presses-131450433.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/micron-rises-white-house-presses-131450433.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3f330521-52ac-3b7a-bcf9-16fb36d77177",
+      "content": {
+        "id": "3f330521-52ac-3b7a-bcf9-16fb36d77177",
+        "contentType": "STORY",
+        "title": "Gemini Hits 1 Billion Active Users: Why Wall Street Is Mispricing Google’s Consumer AI Dominance", // 职位
+        "description": "",
+        "summary": "Wall Street is pricing Alphabet like a company losing the AI race, but a quiet milestone suggests the market may be making a very expensive mistake.",
+        "pubDate": "2026-08-17T12:55:03Z",
+        "displayTime": "2026-08-17T12:55:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/151846c410be11192db740f9c64f6679.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IEF4fjUo1itS7wd_hqAidA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/151846c410be11192db740f9c64f6679.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nE5SXLNnFe5PO2VCAmTf.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/151846c410be11192db740f9c64f6679.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/gemini-hits-1-billion-active-users-why-wall-street-is-mispricing-googles-consumer-ai-dominance/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/gemini-hits-1-billion-active-125503063.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "021356c3-8d84-336b-aa2b-247175895f02",
+      "content": {
+        "id": "021356c3-8d84-336b-aa2b-247175895f02",
+        "contentType": "STORY",
+        "title": "Intel's $23 Billion Raise May Signal Foundry Progress", // 职位
+        "description": "",
+        "summary": "GF sees stronger yields and broader customer interest.",
+        "pubDate": "2026-08-17T12:26:58Z",
+        "displayTime": "2026-08-17T12:26:58Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/intels-23-billion-raise-may-122658146.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/intels-23-billion-raise-may-122658146.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 307.6600036621094, // 当日最高价
+    "dayLow": 304.05499267578125, // 当日最低价
+    "exchange": "NMS", // 交易所代码
+    "fiftyDayAverage": 309.19080017089846, // 50日均价
+    "lastPrice": 304.42999267578125,
+    "lastVolume": 8532352,
+    "marketCap": 4442906110509.033, // 总市值
+    "open": 306.2099914550781, // 今日开盘价
+    "previousClose": 305.7705, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 305.92999267578125, // 常规市场昨日收盘价
+    "shares": 14594180000,
+    "tenDayAverageVolume": 46555190,
+    "threeMonthAverageVolume": 56170100,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 280.483649597168, // 200日均价
+    "yearChange": 0.32500322008098675,
+    "yearHigh": 344.57000732421875,
+    "yearLow": 223.77999877929688
+  },
+  "calendar": "{'Dividend Date': datetime.date(2026, 8, 13), 'Ex-Dividend Date': datetime.date(2026, 8, 10), 'Earnings Date': [datetime.date(2026, 10, 30)], 'Earnings High': 2.07, 'Earnings Low': 1.93, 'Earnings Average': 1.98013, 'Revenue High': 117219700000, 'Revenue Low': 112137000000, 'Revenue Average': 113550860190}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.000536,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 2.0
+    },
+    {
+      "Dividends": 0.000536,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000714,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000714,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000714,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000714,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000893,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000893,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000893,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000893,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000982,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000982,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000982,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.000982,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.001071,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 2.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 2.0
+    },
+    {
+      "Dividends": 0.094643,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.094643,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.094643,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.108929,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.108929,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.108929,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.108929,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1175,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 7.0
+    },
+    {
+      "Dividends": 0.1175,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1175,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1175,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.13,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.13,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.13,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.13,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1425,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1425,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1425,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1425,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1575,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1575,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1575,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1575,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1825,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1825,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1825,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1825,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1925,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1925,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1925,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.1925,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.205,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.205,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.0,
+      "Stock Splits": 4.0
+    },
+    {
+      "Dividends": 0.205,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.205,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.22,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.22,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.22,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.22,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.23,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.23,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.23,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.23,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.24,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.24,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.24,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.24,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.25,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.25,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.25,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.25,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.26,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.26,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.26,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.26,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.27,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 0.27,
+      "Stock Splits": 0.0
+    }
+  ]
+}

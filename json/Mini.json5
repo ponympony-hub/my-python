@@ -1,0 +1,735 @@
+{
+  "info": {
+    "address1": "Xinyan Mansion", // 地址1
+    "address2": "11th Floor, Building B No. 65 Guiqing Road Xuhui District", // 地址2
+    "city": "Shanghai", // 城市
+    "country": "China", // 国家
+    "website": "https://www.minimaxi.com", // 官方网站
+    "industry": "Software - Infrastructure", // 行业
+    "industryKey": "software-infrastructure", // 行业键
+    "industryDisp": "Software - Infrastructure", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "MiniMax Group Inc. engages in research and development of an artificial intelligence (AI) foundation model. The company's platform offers a wide range of modalities, including language, video, speech, and music. It also provides AI-based enterprise services; AI-native products, including enterprise-facing open platform; and consumer products, such as MiniMax Agent, Hailuo AI, Talkie and Xingye. The company was founded in 2022 and is headquartered in Shanghai, the People's Republic of China.", // 公司业务摘要
+    "fullTimeEmployees": 415, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Junjie  Yan", // 姓名
+        "age": 35, // 年龄
+        "title": "Founder, Executive Chairman, CTO & CEO", // 职位
+        "yearBorn": 1990, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1891294,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Yeyi  Yun", // 姓名
+        "age": 30, // 年龄
+        "title": "Executive Director & President", // 职位
+        "yearBorn": 1995, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 9032693,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Pengyu  Zhao", // 姓名
+        "age": 28, // 年龄
+        "title": "Executive Director and Large Language Model Research & Engineering Leader", // 职位
+        "yearBorn": 1997, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2558348,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yucong  Zhou", // 姓名
+        "age": 31, // 年龄
+        "title": "Executive Director and Visual Models Research & Engineering Leader", // 职位
+        "yearBorn": 1994, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 2848712,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zizhao  Xue", // 姓名
+        "age": 32, // 年龄
+        "title": "VP of Capital Markets & Investments and Joint Company Secretary", // 职位
+        "yearBorn": 1993, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Sau Ling  Chan ACIS, ACS(PE), FCIS, P.E.", // 姓名
+        "age": 55, // 年龄
+        "title": "Joint Company Secretary", // 职位
+        "yearBorn": 1970, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 329.0, // 昨日收盘价
+    "open": 337.0, // 今日开盘价
+    "dayLow": 324.2, // 当日最低价
+    "dayHigh": 344.2, // 当日最高价
+    "regularMarketPreviousClose": 329.0, // 常规市场昨日收盘价
+    "regularMarketOpen": 337.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 324.2, // 常规市场当日最低价
+    "regularMarketDayHigh": 344.2, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "forwardPE": -27.439503, // 预测市盈率
+    "volume": 10150331, // 成交量
+    "regularMarketVolume": 10150331, // 常规市场成交量
+    "averageVolume": 6561727, // 平均成交量
+    "averageVolume10days": 18452753, // 10日平均成交量
+    "averageDailyVolume10Day": 18452753, // 10日日均成交量
+    "bid": 333.6, // 买入价
+    "ask": 333.0, // 卖出价
+    "marketCap": 116574740480, // 总市值
+    "nonDilutedMarketCap": 114898416332, // 非稀释市值
+    "fiftyTwoWeekLow": 186.2, // 52周最低价
+    "fiftyTwoWeekHigh": 1330.0, // 52周最高价
+    "allTimeHigh": 1330.0, // 历史最高价
+    "allTimeLow": 186.2, // 历史最低价
+    "priceToSalesTrailing12Months": 1474.9202, // 市销率 (TTM)
+    "fiftyDayAverage": 338.322, // 50日均价
+    "twoHundredDayAverage": 629.08655, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 105851068416, // 企业价值 (EV)
+    "profitMargins": 0.0, // 利润率
+    "floatShares": 122320906, // 流通股本
+    "sharesOutstanding": 268132774, // 发行在外股份总数
+    "heldPercentInsiders": 0.56084996, // 内部人士持股比例
+    "heldPercentInstitutions": 0.18091999, // 机构持股比例
+    "impliedSharesOutstanding": 349235308, // 隐含发行在外股份
+    "bookValue": -191.27965, // 每股净资产
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1767139200, // 最近一个季度日
+    "netIncomeToCommon": -1871617024, // 归属于普通股股东的净利润
+    "trailingEps": -48.07, // 滚动每股收益 (EPS TTM)
+    "forwardEps": -12.164943, // 预测每股收益
+    "enterpriseToRevenue": 1339.243, // 企业价值/营收比
+    "enterpriseToEbitda": -330.063, // 企业价值/EBITDA比
+    "52WeekChange": -0.046376824, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 333.8, // 当前价格
+    "targetHighPrice": 1301.8262, // 目标最高价
+    "targetLowPrice": 160.10393, // 目标最低价
+    "targetMeanPrice": 673.6421, // 目标平均价
+    "targetMedianPrice": 606.0915, // 目标中位价
+    "recommendationMean": 1.66667, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 18, // 分析师人数
+    "totalCash": 969918976, // 现金总额
+    "totalCashPerShare": 3.093, // 每股现金
+    "ebitda": -320700000, // EBITDA
+    "totalDebt": 3634973952, // 总债务
+    "quickRatio": 0.264, // 速动比率
+    "currentRatio": 0.27, // 流动比率
+    "totalRevenue": 79038000, // 总营收
+    "revenuePerShare": 0.727, // 每股营收
+    "returnOnAssets": -0.20101999, // 资产回报率 (ROA)
+    "grossProfits": 20079000, // 毛利润
+    "freeCashflow": -161440992, // 自由现金流
+    "operatingCashflow": -279640992, // 经营现金流
+    "revenueGrowth": 1.313, // 营收增长
+    "grossMargins": 0.25404, // 毛利率
+    "ebitdaMargins": 0.0, // EBITDA利润率
+    "operatingMargins": -3.6017, // 营业利润率
+    "financialCurrency": "USD", // 财务报表货币
+    "symbol": "0100.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "shortName": "MINIMAX-W", // 公司简称
+    "longName": "MiniMax Group Inc", // 公司正式名称
+    "regularMarketChangePercent": 1.4589628, // 常规市场变动百分比
+    "regularMarketPrice": 333.8, // 常规市场当前价格
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954107, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_1877310191", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1767922200000, // 首次交易日期时间戳
+    "regularMarketChange": 4.799988, // 常规市场价格变动
+    "regularMarketDayRange": "324.2 - 344.2", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 6561727, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 147.59999, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.792696, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "186.2 - 1330.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -996.2, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.74902254, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -4.6376824, // 52周价格变动百分比
+    "earningsTimestamp": 1787731800, // 财报时间戳
+    "earningsTimestampStart": 1787731800, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1787731800, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1786968000, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1786968000, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": -48.07, // 过去12个月每股收益
+    "epsForward": -12.164943, // 预测每股收益
+    "epsCurrentYear": -1.39016, // 本年度每股收益
+    "priceEpsCurrentYear": -240.11624, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -4.522003, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.013365975, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -295.28656, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.4693894, // 200日均价变动百分比
+    "priceToBook": -1.7450889, // 市净率 (P/B)
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.6 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "marketState": "POSTPOST", // 市场状态
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "01d98123-8ba9-3986-af52-fe8e79bac896",
+      "content": {
+        "id": "01d98123-8ba9-3986-af52-fe8e79bac896",
+        "contentType": "STORY",
+        "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels", // 职位
+        "description": "",
+        "summary": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not.",
+        "pubDate": "2026-08-16T09:30:00Z",
+        "displayTime": "2026-08-16T09:30:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/01d98123-8ba9-3986-af52-fe8e79bac896/open-weight-ai-won%E2%80%99t-crimp.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/ac11f4210ee14b0c60bfe4398f666584.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yU7dgk5V5NQHGMw3FnAzeg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ac11f4210ee14b0c60bfe4398f666584.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5rF6WhuFQPitFRCWT0g1dQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ac11f4210ee14b0c60bfe4398f666584.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4cedcc2b-af3c-3303-9ce1-0bab0cb7df25",
+      "content": {
+        "id": "4cedcc2b-af3c-3303-9ce1-0bab0cb7df25",
+        "contentType": "STORY",
+        "title": "Bernstein starts coverage of China’s AI labs, favors Z.ai over Minimax", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bernstein initiated coverage of China's listed artificial intelligence labs with an optimistic long-term outlook for the sector, launching Outperform coverage on Z.ai and Market-Perform on Minimax as it expects frontier AI development to remain a key technological and strategic priority in China.",
+        "pubDate": "2026-08-04T13:54:16Z",
+        "displayTime": "2026-08-04T13:54:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-starts-coverage-china-ai-135416517.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-starts-coverage-china-ai-135416517.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a560706b-70dc-3b00-9c7c-e8843fe0b2ae",
+      "content": {
+        "id": "a560706b-70dc-3b00-9c7c-e8843fe0b2ae",
+        "contentType": "STORY",
+        "title": "Could China's Moonshot AI Create a 'DeepSeek 2.0' Moment in Markets?", // 职位
+        "description": "",
+        "summary": "Investors have a long list of reasons to be concerned about the AI trade right now.  Here's another one: A new model from China's Moonshot AI that claims to outperform some cutting-edge U.S. systems.  Analysts said the release fueled further concerns about AI competition from China and what it means for capex spending down the line.",
+        "pubDate": "2026-07-17T13:35:38Z",
+        "displayTime": "2026-07-17T13:35:38Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/a560706b-70dc-3b00-9c7c-e8843fe0b2ae/could-china-s-moonshot-ai.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+          "originalWidth": 1200,
+          "originalHeight": 630,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+              "width": 1200,
+              "height": 630,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-17-2026/card/could-china-s-moonshot-ai-create-a-deepseek-2-0-moment-in-markets--HCmvY1xGWgwIja3BRAYZ?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "39828562-fc23-38ec-a8a8-916d652e8389",
+      "content": {
+        "id": "39828562-fc23-38ec-a8a8-916d652e8389",
+        "contentType": "STORY",
+        "title": "MiniMax Slides 18% as JPMorgan Cuts Target Again Amid $2 Billion Raise", // 职位
+        "description": "",
+        "summary": "Dilution concerns and pricing pressure deepen the AI firm's decline to over 80% below its March peak.",
+        "pubDate": "2026-07-13T18:53:10Z",
+        "displayTime": "2026-07-13T18:53:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/minimax-slides-18-jpmorgan-cuts-185310377.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/minimax-slides-18-jpmorgan-cuts-185310377.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "75eb2f10-7a24-36d5-8cc8-7614cd3809da",
+      "content": {
+        "id": "75eb2f10-7a24-36d5-8cc8-7614cd3809da",
+        "contentType": "STORY",
+        "title": "A Look At MiniMax Group (SEHK:100) Valuation After Strong Year To Date Share Price Gains", // 职位
+        "description": "",
+        "summary": "Why MiniMax Group Stock Is On Investors’ Radar MiniMax Group (SEHK:100) has drawn attention after its recent share performance, with the stock up 0.8% in the past day and 8.5% over the past week, despite weaker month and past 3 months returns. See our latest analysis for MiniMax Group. The recent 1-day share price return of 0.76% and 7-day gain of 8.55%, against a weaker 30-day and 90-day share price return, sit within a much stronger year to date share price return of 131.88%. This suggests...",
+        "pubDate": "2026-05-18T13:13:01Z",
+        "displayTime": "2026-05-18T13:13:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p9AmAMKjf.qGqvNo1JBhgQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wGj4CqPUCYLMz_BgnPGdqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-minimax-group-sehk-100-131301167.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-minimax-group-sehk-100-131301167.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5642571d-2ecd-320f-bb95-09cf8b7b33e6",
+      "content": {
+        "id": "5642571d-2ecd-320f-bb95-09cf8b7b33e6",
+        "contentType": "STORY",
+        "title": "Nvidia China Optics Send Zhipu Shares Up Nearly 900% Since IPO", // 职位
+        "description": "",
+        "summary": "Huang joining Trump's Beijing trip lifted hopes for wider Nvidia H200 chip access for Chinese AI firms.",
+        "pubDate": "2026-05-15T00:36:15Z",
+        "displayTime": "2026-05-15T00:36:15Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-china-optics-send-zhipu-003615628.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-china-optics-send-zhipu-003615628.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "91a2de73-e77c-34e6-a6af-cf9be6e52cee",
+      "content": {
+        "id": "91a2de73-e77c-34e6-a6af-cf9be6e52cee",
+        "contentType": "STORY",
+        "title": "China AI Startups Surge Up To 750% As Token Demand Drives $40 Billion Valuations", // 职位
+        "description": "",
+        "summary": "Low-cost models and rising token consumption lift MiniMax and Zhipu above major tech peers",
+        "pubDate": "2026-04-20T19:22:40Z",
+        "displayTime": "2026-04-20T19:22:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/china-ai-startups-surge-750-192240976.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/china-ai-startups-surge-750-192240976.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "37d59e21-5869-3dbc-89c0-95d2f7f65eeb",
+      "content": {
+        "id": "37d59e21-5869-3dbc-89c0-95d2f7f65eeb",
+        "contentType": "STORY",
+        "title": "Assessing MiniMax Group (SEHK:100) Valuation After A Volatile Share Price Pullback", // 职位
+        "description": "",
+        "summary": "MiniMax Group stock reacts to recent trading performance MiniMax Group (SEHK:100) has seen sharp price swings recently, with a 4.6% decline over the past day, a 13.9% fall over the past week, and a 30.6% drop over the past month. See our latest analysis for MiniMax Group. While the recent 30 day share price return of negative 30.6% shows fading short term momentum, the 90 day and year to date share price returns of 96.1% and 149.0% highlight how strong the earlier run up has been. If this...",
+        "pubDate": "2026-04-17T13:06:19Z",
+        "displayTime": "2026-04-17T13:06:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p9AmAMKjf.qGqvNo1JBhgQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wGj4CqPUCYLMz_BgnPGdqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-minimax-group-sehk-100-130619808.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-minimax-group-sehk-100-130619808.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "838a8aa8-c277-36f7-b27b-513c282d6369",
+      "content": {
+        "id": "838a8aa8-c277-36f7-b27b-513c282d6369",
+        "contentType": "STORY",
+        "title": "OpenClaw Rally Lifts Chinese AI Stocks as MiniMax Jumps 29%", // 职位
+        "description": "",
+        "summary": "Nvidia CEO Jensen Huang's comments on OpenClaw drive gains across Chinese AI firms, with MiniMax, Zhipu, and UCloud rising.",
+        "pubDate": "2026-03-18T17:29:57Z",
+        "displayTime": "2026-03-18T17:29:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/openclaw-rally-lifts-chinese-ai-172957876.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/openclaw-rally-lifts-chinese-ai-172957876.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cb321be5-e8f4-3d38-94d8-74ed81228331",
+      "content": {
+        "id": "cb321be5-e8f4-3d38-94d8-74ed81228331",
+        "contentType": "STORY",
+        "title": "Chinese AI Stocks Jump. Why Nvidia's AI Comments Are Moving China Tech", // 职位
+        "description": "",
+        "summary": "Nvidia's Jensen Huang Sparks Fresh Buying in AI Agents",
+        "pubDate": "2026-03-18T12:31:24Z",
+        "displayTime": "2026-03-18T12:31:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/chinese-ai-stocks-jump-why-123124412.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/chinese-ai-stocks-jump-why-123124412.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 344.20001220703125, // 当日最高价
+    "dayLow": 324.20001220703125, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 344.35999969482424, // 50日均价
+    "lastPrice": 333.79998779296875,
+    "lastVolume": 10150331,
+    "marketCap": 116574741547.27368, // 总市值
+    "open": 337.0, // 今日开盘价
+    "previousClose": 329.0, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 329.0, // 常规市场昨日收盘价
+    "shares": 349235308,
+    "tenDayAverageVolume": 18452753,
+    "threeMonthAverageVolume": 6480899,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 618.8486299906691, // 200日均价
+    "yearChange": -0.0463768115942029,
+    "yearHigh": 1330.0,
+    "yearLow": 186.1999969482422
+  },
+  "calendar": "{'Earnings Date': [datetime.date(2026, 8, 26)], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': None, 'Revenue Low': None, 'Revenue Average': None}" // 财报日历
+}

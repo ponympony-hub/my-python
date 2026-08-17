@@ -1,0 +1,675 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 82.4, // 昨日收盘价
+    "open": 82.53, // 今日开盘价
+    "dayLow": 81.5, // 当日最低价
+    "dayHigh": 83.23, // 当日最高价
+    "regularMarketPreviousClose": 82.4, // 常规市场昨日收盘价
+    "regularMarketOpen": 82.53, // 常规市场今日开盘价
+    "regularMarketDayLow": 81.5, // 常规市场当日最低价
+    "regularMarketDayHigh": 83.23, // 常规市场当日最高价
+    "volume": 83911, // 成交量
+    "regularMarketVolume": 83912, // 常规市场成交量
+    "averageVolume": 257345, // 平均成交量
+    "averageVolume10days": 270195, // 10日平均成交量
+    "averageDailyVolume10Day": 270195, // 10日日均成交量
+    "bid": 82.43, // 买入价
+    "ask": 82.45, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "expireDate": 1787184000,
+    "openInterest": 113839,
+    "fiftyTwoWeekLow": 54.98, // 52周最低价
+    "fiftyTwoWeekHigh": 119.48, // 52周最高价
+    "allTimeHigh": 147.27, // 历史最高价
+    "allTimeLow": -40.32, // 历史最低价
+    "fiftyDayAverage": 78.806, // 50日均价
+    "twoHundredDayAverage": 77.11275, // 200日均价
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "FUTURE", // 报价类型
+    "symbol": "CL=F", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Futures", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "NONE", // 自定义价格警报信心度
+    "contractSymbol": false,
+    "headSymbolAsString": "CL=F",
+    "shortName": "Crude Oil Sep 26", // 公司简称
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 967003200000, // 首次交易日期时间戳
+    "regularMarketChange": 0.02999878, // 常规市场价格变动
+    "regularMarketDayRange": "81.5 - 83.23", // 常规市场当日价格范围
+    "fullExchangeName": "NY Mercantile", // 交易所全称
+    "averageDailyVolume3Month": 257345, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 27.45, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.4992725, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "54.98 - 119.48", // 52周价格范围
+    "fiftyTwoWeekHighChange": -37.050003, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.31009376, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 29.927467, // 52周价格变动百分比
+    "expireIsoDate": "2026-08-20T00:00:00Z",
+    "fiftyDayAverageChange": 3.6240005, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.045986354, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 5.317253, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.06895427, // 200日均价变动百分比
+    "sourceInterval": 30, // 数据源更新间隔
+    "exchangeDataDelayedBy": 10, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786976813, // 常规市场时间戳
+    "underlyingSymbol": "CLU26.NYM",
+    "underlyingExchangeSymbol": "CLU26.NYM",
+    "exchange": "NYM", // 交易所代码
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us24_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 0.036406286, // 常规市场变动百分比
+    "regularMarketPrice": 82.43, // 常规市场当前价格
+    "marketState": "REGULAR", // 市场状态
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "2d8c20d8-bf01-40f9-b084-98e71880676b",
+      "content": {
+        "id": "2d8c20d8-bf01-40f9-b084-98e71880676b",
+        "contentType": "STORY",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings", // 职位
+        "description": "",
+        "summary": "Stocks were little changed ahead of a relatively quiet week, with retail earnings on the docket.",
+        "pubDate": "2026-08-17T09:44:21Z",
+        "displayTime": "2026-08-17T14:01:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/UoLU.nT9AV_Q14wEN9ek3A--~B/aD01NDY0O3c9ODE5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2172027595_4556.jpg",
+          "originalWidth": 8192,
+          "originalHeight": 5464,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UoLU.nT9AV_Q14wEN9ek3A--~B/aD01NDY0O3c9ODE5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2172027595_4556.jpg",
+              "width": 8192,
+              "height": 5464,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sPKZhZwsaR7JBlnSxsMOCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2172027595_4556.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7654dd66-1194-303a-af9a-35b802d06b78",
+      "content": {
+        "id": "7654dd66-1194-303a-af9a-35b802d06b78",
+        "contentType": "STORY",
+        "title": "Stock Market Today: Dow Falls, Oil Rises After Trump Oman Threat; Micron, Sandisk Extend Gains (Live Coverage)", // 职位
+        "description": "",
+        "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. President Donald Trump threatens Oman.",
+        "pubDate": "2026-08-17T14:26:23Z",
+        "displayTime": "2026-08-17T14:26:23Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/7654dd66-1194-303a-af9a-35b802d06b78/stock-market-today-dow.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/777aace66204b88fff07c71f663862e4.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sSiN6QZytWWyrEyiFCfqog--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/777aace66204b88fff07c71f663862e4.jpg",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/V5lUEJqHtAvEaGbND.MzEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/777aace66204b88fff07c71f663862e4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b57ba078-639a-3192-87d1-f9231d510889",
+      "content": {
+        "id": "b57ba078-639a-3192-87d1-f9231d510889",
+        "contentType": "STORY",
+        "title": "Vista Energy Stock Gains After Peter Thiel Discloses Stake", // 职位
+        "description": "",
+        "summary": "Shares in oil producer Vista Energy jumped over 5% this morning after investor Peter Thiel's hedge fund disclosed it had bought a stake in it.  Thiel Macro held a stake worth $76 million as of the end of the June, according to a document filed Friday.  Headquartered in Mexico City, Vista says it's the largest independent energy company in Argentina and operates in the Vaca Muerta shale deposit.",
+        "pubDate": "2026-08-17T13:45:35Z",
+        "displayTime": "2026-08-17T13:45:35Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/b57ba078-639a-3192-87d1-f9231d510889/vista-energy-stock-gains.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/cba480d05c29a7e74da301a332deb41d.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NTPOSKPVxh6NMhy_MHeD3w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/cba480d05c29a7e74da301a332deb41d.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zwAdW1T4beUAnHz2VkNGYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/cba480d05c29a7e74da301a332deb41d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/vista-energy-stock-gains-after-peter-thiel-discloses-stake-R1bWxAaPHhD6PW6gFEKN?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "949aba85-78ef-3124-a695-aa5c484ef595",
+      "content": {
+        "id": "949aba85-78ef-3124-a695-aa5c484ef595",
+        "contentType": "STORY",
+        "title": "Stocks lower as Hormuz concerns and high oil prices persist", // 职位
+        "description": "",
+        "summary": "Global stocks mostly slipped Monday as lack of progress on opening the Straits of Hormuz outweighed expectations that the Federal Reserve will not raise US interest rates anytime soon.Still, fading expectations that the Federal Reserve will raise rates and confidence that the United States and Iran will step back from the brink have kept a floor under equity prices, which have largely risen so far this August.",
+        "pubDate": "2026-08-17T13:44:54Z",
+        "displayTime": "2026-08-17T13:44:54Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/afp.com/4647d6183ecc9db630728a794b397432.jpg",
+          "originalWidth": 768,
+          "originalHeight": 510,
+          "caption": "The US economy is showing signs of softness amid elevated oil prices and above-target inflation (Brandon Bell)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/L7M1FuKJfXnwZY_u1QlCrA--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/4647d6183ecc9db630728a794b397432.jpg",
+              "width": 768,
+              "height": 510,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ua5v1lMU6rrdExtivVSS8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/4647d6183ecc9db630728a794b397432.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "AFP",
+          "url": "http://www.afp.com/",
+          "sourceId": "afp.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "15411e67-f4be-362a-b1b6-aa00236ac340",
+      "content": {
+        "id": "15411e67-f4be-362a-b1b6-aa00236ac340",
+        "contentType": "STORY",
+        "title": "Sector Update: Energy Stocks Edge Higher Premarket Monday", // 职位
+        "description": "",
+        "summary": "Energy stocks edged higher premarket Monday, with the State Street Energy Select Sector SPDR ETF (XL",
+        "pubDate": "2026-08-17T13:27:41Z",
+        "displayTime": "2026-08-17T13:27:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132741328.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132741328.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ebe8dc9c-1065-37a9-aeb9-6b77698b10af",
+      "content": {
+        "id": "ebe8dc9c-1065-37a9-aeb9-6b77698b10af",
+        "contentType": "STORY",
+        "title": "Update: US Equity Futures Mixed Pre-Bell as 60-Day US-Iran Ceasefire Expires", // 职位
+        "description": "",
+        "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+        "pubDate": "2026-08-17T12:55:00Z",
+        "displayTime": "2026-08-17T12:55:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125500559.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125500559.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fd3e6598-acba-3401-af3c-2d964116a690",
+      "content": {
+        "id": "fd3e6598-acba-3401-af3c-2d964116a690",
+        "contentType": "STORY",
+        "title": "PBR Q2 Earnings Beat on Record Production and Higher Brent", // 职位
+        "description": "",
+        "summary": "Brazil's Petrobras beat Q2 estimates as record production, stronger exports and higher Brent pricing lifted earnings, revenues and cash flow.",
+        "pubDate": "2026-08-17T12:52:00Z",
+        "displayTime": "2026-08-17T12:52:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/1c71cc6a7bc2b87d666549be23ae79eb.png",
+          "originalWidth": 568,
+          "originalHeight": 264,
+          "caption": "Petroleo Brasileiro S.A.- Petrobras Price, Consensus and EPS Surprise",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eQ.nUZMgE.oOZCpOt2E8Yw--~B/aD0yNjQ7dz01Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1c71cc6a7bc2b87d666549be23ae79eb.png",
+              "width": 568,
+              "height": 264,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0SC.TboxzPr7J7VsLRT9IA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1c71cc6a7bc2b87d666549be23ae79eb.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/pbr-q2-earnings-beat-record-125200496.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/pbr-q2-earnings-beat-record-125200496.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "10e8b873-0cf3-3641-9f0f-78c4f801a9b8",
+      "content": {
+        "id": "10e8b873-0cf3-3641-9f0f-78c4f801a9b8",
+        "contentType": "STORY",
+        "title": "Beat the Market the Zacks Way: Bank of America, Marex, Mettler-Toledo International in Focus", // 职位
+        "description": "",
+        "summary": "Bank of America, Mettler-Toledo and VSE post strong gains as Zacks' Focus List, ECAP and Top 10 picks outperform.",
+        "pubDate": "2026-08-17T12:51:00Z",
+        "displayTime": "2026-08-17T12:51:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/eaae393aa5b2d4c0b3afb35ffb7dc1e0.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Z1PkCu4rzzuSO99e8AF19g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/eaae393aa5b2d4c0b3afb35ffb7dc1e0.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dcWPgIATxVWZTV3OEJK_0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/eaae393aa5b2d4c0b3afb35ffb7dc1e0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-bank-125100488.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-bank-125100488.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b9328d34-b77a-384a-89da-7afd6a9cd136",
+      "content": {
+        "id": "b9328d34-b77a-384a-89da-7afd6a9cd136",
+        "contentType": "STORY",
+        "title": "Peter Thiel's Thiel Macro buys stake in Vista Energy Q2 2026", // 职位
+        "description": "",
+        "summary": "Thiel Macro LLC disclosed owning nearly 1.2 million Vista Energy ADS as of June 30, sending the stock up more than 5% in premarket trading Monday",
+        "pubDate": "2026-08-17T12:12:20Z",
+        "displayTime": "2026-08-17T12:12:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/81d860e3885543b64406ff17d05003bd.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UMsEWYy7GNToq6UNqH3SMw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/81d860e3885543b64406ff17d05003bd.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C.pvqFQ_dUJWRj0NLRgs9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/81d860e3885543b64406ff17d05003bd.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
+        },
+        "canonicalUrl": {
+          "url": "https://qz.com/peter-thiel-thiel-macro-vista-energy-argentina-stake-081726",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/peter-thiels-thiel-macro-buys-121220238.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "85b912b4-06ea-300b-b1eb-a1a03778b1bb",
+      "content": {
+        "id": "85b912b4-06ea-300b-b1eb-a1a03778b1bb",
+        "contentType": "STORY",
+        "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More", // 职位
+        "description": "",
+        "summary": "Wall Street kicked off the week with a flurry of bold calls on some of the market's most closely watched names, and at least one stock just scored a target price hike of more than 50 percent from a major firm.",
+        "pubDate": "2026-08-17T11:54:21Z",
+        "displayTime": "2026-08-17T11:54:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8338f370f249766d037be2988fc68cf3.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/91hpPRbHYZB4wtwyLAmQhQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8338f370f249766d037be2988fc68cf3.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/X_6163BdL2cJp5Ki7cJUEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8338f370f249766d037be2988fc68cf3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/here-are-mondays-top-wall-street-analyst-research-calls-apple-dave-etsy-federal-signal-mobileye-global-netskope-okta-shopify-workday-and-more/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-115421667.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 83.2300033569336, // 当日最高价
+    "dayLow": 81.5, // 当日最低价
+    "exchange": "NYM", // 交易所代码
+    "fiftyDayAverage": 79.55119979858398, // 50日均价
+    "lastPrice": 82.43000030517578,
+    "lastVolume": 83912,
+    "marketCap": null, // 总市值
+    "open": 82.52999877929688, // 今日开盘价
+    "previousClose": 82.23999786376953, // 昨日收盘价
+    "quoteType": "FUTURE", // 报价类型
+    "regularMarketPreviousClose": 82.4000015258789, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": 270195,
+    "threeMonthAverageVolume": 258435,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 76.8372498512268, // 200日均价
+    "yearChange": 0.29927473833052676,
+    "yearHigh": 119.4800033569336,
+    "yearLow": 54.97999954223633
+  },
+  "calendar": "{}" // 财报日历
+}

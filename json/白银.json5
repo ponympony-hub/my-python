@@ -1,0 +1,723 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 65.108, // 昨日收盘价
+    "open": 65.06, // 今日开盘价
+    "dayLow": 64.85, // 当日最低价
+    "dayHigh": 66.46, // 当日最高价
+    "regularMarketPreviousClose": 65.108, // 常规市场昨日收盘价
+    "regularMarketOpen": 65.06, // 常规市场今日开盘价
+    "regularMarketDayLow": 64.85, // 常规市场当日最低价
+    "regularMarketDayHigh": 66.46, // 常规市场当日最高价
+    "volume": 23452, // 成交量
+    "regularMarketVolume": 23452, // 常规市场成交量
+    "averageVolume": 658, // 平均成交量
+    "averageVolume10days": 79, // 10日平均成交量
+    "averageDailyVolume10Day": 79, // 10日日均成交量
+    "bid": 66.215, // 买入价
+    "ask": 66.225, // 卖出价
+    "bidSize": 9, // 买盘量
+    "askSize": 10, // 卖盘量
+    "expireDate": 1790553600,
+    "openInterest": 57909,
+    "fiftyTwoWeekLow": 37.205, // 52周最低价
+    "fiftyTwoWeekHigh": 121.3, // 52周最高价
+    "allTimeHigh": 121.3, // 历史最高价
+    "allTimeLow": 4.026, // 历史最低价
+    "fiftyDayAverage": 61.567, // 50日均价
+    "twoHundredDayAverage": 71.05669, // 200日均价
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "FUTURE", // 报价类型
+    "symbol": "SI=F", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Futures", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "NONE", // 自定义价格警报信心度
+    "headSymbolAsString": "SI=F",
+    "contractSymbol": false,
+    "marketState": "REGULAR", // 市场状态
+    "shortName": "Silver Sep 26", // 公司简称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786976818, // 常规市场时间戳
+    "underlyingSymbol": "SIU26.CMX",
+    "underlyingExchangeSymbol": "SIU26.CMX",
+    "exchange": "CMX", // 交易所代码
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us24_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 1.715606, // 常规市场变动百分比
+    "regularMarketPrice": 66.225, // 常规市场当前价格
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 967608000000, // 首次交易日期时间戳
+    "regularMarketChange": 1.1169968, // 常规市场价格变动
+    "regularMarketDayRange": "64.85 - 66.46", // 常规市场当日价格范围
+    "fullExchangeName": "COMEX", // 交易所全称
+    "averageDailyVolume3Month": 658, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 29.019997, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.78000253, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "37.205 - 121.3", // 52周价格范围
+    "fiftyTwoWeekHighChange": -55.075005, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.4540396, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 71.24187, // 52周价格变动百分比
+    "expireIsoDate": "2026-09-28T00:00:00Z",
+    "fiftyDayAverageChange": 4.657997, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.07565737, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -4.831688, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.06799766, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 10, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "e1129eaa-5b97-4fd2-9c13-92cae7b01ab0",
+      "content": {
+        "id": "e1129eaa-5b97-4fd2-9c13-92cae7b01ab0",
+        "contentType": "STORY",
+        "title": "Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain", // 职位
+        "description": "",
+        "summary": "Silver (SI=F) September futures opened at $65.06 per ounce on Monday, August 17, 2026, down 0.1% from Friday's closing price. The silver price moved up slightly this morning, reaching $65.32 as of 9:05 a.m. ET.",
+        "pubDate": "2026-08-17T13:52:47Z",
+        "displayTime": "2026-08-17T13:52:47Z",
+        "isHosted": true,
+        "bypassModal": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d",
+          "originalWidth": 4588,
+          "originalHeight": 3264,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CylAOwJ0ckTF1jADqazLmg--~B/aD0zMjY0O3c9NDU4ODthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d",
+              "width": 4588,
+              "height": 3264,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ltpWDTfFtxoxioXGTujHOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Personal Finance",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "yahoo_personal_finance_397"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-17-2026-buoyed-by-softer-economic-data-while-industrial-outlook-remains-uncertain-135247624.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-17-2026-buoyed-by-softer-economic-data-while-industrial-outlook-remains-uncertain-135247624.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9c1ade73-ad90-3542-9de6-259548cbaefc",
+      "content": {
+        "id": "9c1ade73-ad90-3542-9de6-259548cbaefc",
+        "contentType": "STORY",
+        "title": "Gunnison Copper advances 2026 drilling program at Arizona project", // 职位
+        "description": "",
+        "summary": "Gunnison Copper Corp (TSX:GCU, OTCQB:GCUMF, FRA:3XS0) announced that it has completed all planned metallurgical drilling at its Gunnison deposit in Arizona and expanded its metallurgical testing program as it prepares to ramp up its 2026 district-wide drilling campaign. The company currently...",
+        "pubDate": "2026-08-17T12:55:00Z",
+        "displayTime": "2026-08-17T12:55:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/692da61793a39b4e74f0e5a47f8d4007.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Gunnison Copper advances 2026 drilling program at Arizona project",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tpkoI3_fJFuNOEMKKBK40w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/692da61793a39b4e74f0e5a47f8d4007.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IaF7gALMiwuyWqc5DzYieQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/692da61793a39b4e74f0e5a47f8d4007.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1097136/gunnison-copper-advances-2026-drilling-program-at-arizona-project-1097136.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/gunnison-copper-advances-2026-drilling-125500924.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "239d3f1d-2e30-3449-b46a-4e78b842c392",
+      "content": {
+        "id": "239d3f1d-2e30-3449-b46a-4e78b842c392",
+        "contentType": "STORY",
+        "title": "Gold rises towards $4,400 as weaker dollar supports prices despite Middle East inflation concerns", // 职位
+        "description": "",
+        "summary": "Gold prices moved higher on Monday, remaining close to $4,400 an ounce as weakness in the U. S.",
+        "pubDate": "2026-08-17T09:22:43Z",
+        "displayTime": "2026-08-17T09:22:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/ef93107422aba4b7a9703bb62550455c.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "caption": "Gold nuggets ©James St. John",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pfLI0yhPLLA0Lzi1ZZ2ZDw--~B/aD02NTk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorshub_458/ef93107422aba4b7a9703bb62550455c.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xENrv7CPYi1YGresLWWMmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/ef93107422aba4b7a9703bb62550455c.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/",
+          "sourceId": "investorshub_458"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/34361/gold-rises-towards-4400-as-weaker-dollar-supports-prices-despite-middle-east-inflation-concerns",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-towards-4-400-092243418.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e734146a-c4d6-3245-976a-cd26c7404526",
+      "content": {
+        "id": "e734146a-c4d6-3245-976a-cd26c7404526",
+        "contentType": "STORY",
+        "title": "Tertiary Minerals discovers new shallow copper-mineralised zone in Zambia", // 职位
+        "description": "",
+        "summary": "Tertiary Minerals PLC (AIM:TYM, OTC:TTIRF, FRA:TMU) shares climbed 15%, rising to 0.075p, after the explorer discovered a new shallow copper-mineralised zone at its Mushima North project in Zambia, around 900 metres west-southwest of the existing Discovery Zone at Target A1. Preliminary pXRF...",
+        "pubDate": "2026-08-17T06:27:00Z",
+        "displayTime": "2026-08-17T06:27:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/9eb5c7dc7e97a716490d5f33e1108f36.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Tertiary Minerals discovers new shallow copper-mineralised zone in Zambia",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KzBdUnTkAZUggN.VOgT2Qg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/9eb5c7dc7e97a716490d5f33e1108f36.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kyxr9VUmGrPksK2UZIZGJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/9eb5c7dc7e97a716490d5f33e1108f36.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1097108/tertiary-minerals-discovers-new-shallow-copper-mineralised-zone-in-zambia-1097108.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/tertiary-minerals-discovers-shallow-copper-062700118.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9babdc49-d6f1-36b0-bacd-ca72c348c255",
+      "content": {
+        "id": "9babdc49-d6f1-36b0-bacd-ca72c348c255",
+        "contentType": "STORY",
+        "title": "Pandora opens unexpected box as silver price drops", // 职位
+        "description": "",
+        "summary": "Pandora (PNDORA) just told investors it will keep replacing silver in its jewelry, even though silver's price has fallen significantly from its record high. That decision surprised some market watchers. When the price of a material drops, most companies take the cost savings and move on. Pandora is ...",
+        "pubDate": "2026-08-15T23:17:00Z",
+        "displayTime": "2026-08-15T23:17:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d7b3db63187498d5d5bb8541786e06d4.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/r2Ub8_S9WIk.sH2DZwz8ag--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/d7b3db63187498d5d5bb8541786e06d4.jpg",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wi6LhSjISPfNZ0h5b1I0RA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d7b3db63187498d5d5bb8541786e06d4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/stocks/pandora-pndora-chooses-platinum-over-silver",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pandora-opens-unexpected-box-silver-231700677.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4125151d-f6ad-339c-b059-4e464e435527",
+      "content": {
+        "id": "4125151d-f6ad-339c-b059-4e464e435527",
+        "contentType": "STORY",
+        "title": "Arizona Gold & Silver reports strong Perry Zone results – ICYMI", // 职位
+        "description": "",
+        "summary": "Arizona Gold & Silver Inc (TSX-V:AZS, OTCQB:AZASF, FRA:A9J0) earlier this week highlighted new diamond drilling results from the Perry Zone at its Philadelphia Gold-Silver Project in the Oatman District of northwest Arizona, with senior vice president of exploration Lex Lambeck pointing to...",
+        "pubDate": "2026-08-15T13:01:00Z",
+        "displayTime": "2026-08-15T13:01:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/53d5f87ead019598e359697b509925b0.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Arizona Gold & Silver reports strong Perry Zone results – ICYMI",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qJUJBRiCySL7gVOpMP_Z_w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/53d5f87ead019598e359697b509925b0.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LbHYRJng63NNyMINDP4OVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/53d5f87ead019598e359697b509925b0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1097075/arizona-gold-silver-reports-strong-perry-zone-results-icymi-1097075.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/arizona-gold-silver-reports-strong-130100815.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dedc5312-6f46-3d57-aa24-6ae0d8e1ae91",
+      "content": {
+        "id": "dedc5312-6f46-3d57-aa24-6ae0d8e1ae91",
+        "contentType": "STORY",
+        "title": "Contango ORE Q2 Earnings Call Highlights", // 职位
+        "description": "",
+        "summary": "Contango ORE (NYSEAMERICAN:CTGO), which management referred to during its quarterly update as Contango Silver & Gold, said it expects stronger production, lower costs and increased cash distributions in the second half of 2026 as mining advances into higher-grade material at the Manh Choh joint",
+        "pubDate": "2026-08-14T21:02:18Z",
+        "displayTime": "2026-08-14T21:02:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "Contango ORE logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kn0mnkeK0E7jjsuButmKWg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yFGlZzlI_JugnB_mZtTApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/contango-ore-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/contango-ore-q2-earnings-call-210218193.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7503fecd-2ac2-31a2-815e-9b18f394e8d3",
+      "content": {
+        "id": "7503fecd-2ac2-31a2-815e-9b18f394e8d3",
+        "contentType": "STORY",
+        "title": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary", // 职位
+        "description": "",
+        "summary": "Moby summary of Americas Gold and Silver Corporation's Q2 2026 earnings call",
+        "pubDate": "2026-08-14T20:50:47Z",
+        "displayTime": "2026-08-14T20:50:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a.png",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NwlewaFIPdeqqlaoQMzf7w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a.png",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Bib_QqERE_KPSHjSnhxb8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moby",
+          "url": "https://moby.co/",
+          "sourceId": "moby_896"
+        },
+        "canonicalUrl": {
+          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-americas-gold-and-silver-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/americas-gold-silver-corporation-q2-205047227.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "49371557-c566-3235-a6db-0a1cb4a70d56",
+      "content": {
+        "id": "49371557-c566-3235-a6db-0a1cb4a70d56",
+        "contentType": "STORY",
+        "title": "Citi doubles down on silver after pullback", // 职位
+        "description": "",
+        "summary": "Silver has been clearly a wild trade so far this year. Spot silver traded near $64.25 per ounce on August 14, according to Reuters, leaving the metal around 10% behind where it closed out in 2025. Also, it’s trading at nearly half its January peak, especially after silver skyrocketed 161% ...",
+        "pubDate": "2026-08-14T18:33:00Z",
+        "displayTime": "2026-08-14T18:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/ef3b316fdd25ba62656127ba6c000e38.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2496,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CRI7gdO8xTH5lrxQcdkzAA--~B/aD0yNDk2O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/ef3b316fdd25ba62656127ba6c000e38.jpg",
+              "width": 3840,
+              "height": 2496,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UKsTCJeiC7VGA2errFrZUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ef3b316fdd25ba62656127ba6c000e38.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/citi-silver-price-target-outlook",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/citi-doubles-down-silver-pullback-183300222.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9483ecac-27f0-39a4-b360-94c3022e1df4",
+      "content": {
+        "id": "9483ecac-27f0-39a4-b360-94c3022e1df4",
+        "contentType": "STORY",
+        "title": "Aya Gold & Silver Q2 Earnings Call Highlights", // 职位
+        "description": "",
+        "summary": "Aya Gold & Silver (TSE:AYA) reported higher production, revenue and cash flow for the second quarter of 2026, supported by increased throughput at its Zgounder mine in Morocco and continued contributions from its Boumadine tailings reclamation operation. President and Chief Executive Officer Benoit",
+        "pubDate": "2026-08-14T17:04:21Z",
+        "displayTime": "2026-08-14T17:04:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/b8a4d13179032baf390847db042860e0.png",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "Aya Gold & Silver logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mnjA97EdaTg_G9xY1InTOQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/b8a4d13179032baf390847db042860e0.png",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4F0KBAkhI0MDOv47e4yQkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/b8a4d13179032baf390847db042860e0.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/aya-gold-silver-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aya-gold-silver-q2-earnings-170421356.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 66.45999908447266, // 当日最高价
+    "dayLow": 64.8499984741211, // 当日最低价
+    "exchange": "CMX", // 交易所代码
+    "fiftyDayAverage": 61.79457977294922, // 50日均价
+    "lastPrice": 66.2249984741211,
+    "lastVolume": 23452,
+    "marketCap": null, // 总市值
+    "open": 65.05999755859375, // 今日开盘价
+    "previousClose": 65.69499969482422, // 昨日收盘价
+    "quoteType": "FUTURE", // 报价类型
+    "regularMarketPreviousClose": 64.98799896240234, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": 79,
+    "threeMonthAverageVolume": 666,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 70.57812995910645, // 200日均价
+    "yearChange": 0.7124186081154716,
+    "yearHigh": 121.30000305175781,
+    "yearLow": 37.20500183105469
+  },
+  "calendar": "{}" // 财报日历
+}

@@ -1,0 +1,904 @@
+{
+  "info": {
+    "address1": "960-1 West Wen Yi Road", // 地址1
+    "address2": "Yu Hang District", // 地址2
+    "city": "Hangzhou", // 城市
+    "zip": "311121", // 邮编
+    "country": "China", // 国家
+    "phone": "86 571 8502 2088", // 电话
+    "fax": "86 571 8376 8429",
+    "website": "https://www.alibabagroup.com", // 官方网站
+    "industry": "Internet Retail", // 行业
+    "industryKey": "internet-retail", // 行业键
+    "industryDisp": "Internet Retail", // 行业显示名称
+    "sector": "Consumer Cyclical", // 板块
+    "sectorKey": "consumer-cyclical", // 板块键
+    "sectorDisp": "Consumer Cyclical", // 板块显示名称
+    "longBusinessSummary": "Alibaba Group Holding Limited, through its subsidiaries, provides technology infrastructure and marketing reach to help merchants, brands, retailers, and other businesses in the People's Republic of China and internationally. It operates through the Alibaba China E-Commerce Group, Alibaba International Digital Commerce Group, Cloud Intelligence Group, and All Others segments. The Alibaba China E-commerce Group segment operates Taobao and Tmall, which are digital retail platforms; Taobao Instant Commerce, a local services and on-demand delivery platform; 1688.com, a domestic wholesale marketplace; and Xianyu, a consumer-to-consumer community and marketplace for idle goods. Its Alibaba International Digital Commerce Group segment includes AliExpress, a global e-commerce platform; Trendyol, an e-commerce platform in Turkey; Lazada, an e-commerce platform in Southeast Asia; Daraz, an e-commerce platform in South Asia, primarily in Pakistan and Bangladesh; and Alibaba.com, an integrated international online wholesale marketplace. The Cloud Intelligence Group segment offers a suite of cloud services based on infrastructure-as-a-service, platform-as-a-service, and model-as-a-service. Its All Others segment comprises Amap, a provider of mobile digital maps, navigation, and real-time traffic information in China; Cainiao, which provides logistics solutions; Youku, an online long-form video platform in China; Freshippo, a retail platform for groceries and fresh goods; and Alibaba Health, a pharmaceutical and healthcare services platform. Alibaba Group Holding Limited was incorporated in 1999 and is based in Hangzhou, China.", // 公司业务摘要
+    "fullTimeEmployees": 131462, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Joseph C.  Tsai", // 姓名
+        "age": 61, // 年龄
+        "title": "Executive Chairman", // 职位
+        "yearBorn": 1964, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "totalPay": 44926821,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yongming  Wu", // 姓名
+        "age": 50, // 年龄
+        "title": "CEO, Head of Core E-Commerce Business & Director", // 职位
+        "yearBorn": 1975, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "totalPay": 75160433,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. J. Michael  Evans", // 姓名
+        "age": 67, // 年龄
+        "title": "President & Director", // 职位
+        "yearBorn": 1958, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "totalPay": 49602674,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Fang  Jiang", // 姓名
+        "age": 51, // 年龄
+        "title": "Chief People Officer", // 职位
+        "yearBorn": 1974, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Hong  Xu", // 姓名
+        "age": 52, // 年龄
+        "title": "Chief Financial Officer", // 职位
+        "yearBorn": 1973, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Yuen Jen Yao", // 姓名
+        "title": "Senior VP & Head of Corporate Finance", // 职位
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Zeming  Wu", // 姓名
+        "age": 44, // 年龄
+        "title": "Chairman & Chief Executive Officer of Ele.me and Group Chief Technology Officer", // 职位
+        "yearBorn": 1981, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Lydia  Lu", // 姓名
+        "title": "Head of Investor Relations", // 职位
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Siying  Yu", // 姓名
+        "age": 51, // 年龄
+        "title": "General Counsel", // 职位
+        "yearBorn": 1974, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Xiaofeng  Shao", // 姓名
+        "age": 59, // 年龄
+        "title": "Group Executive Vice President", // 职位
+        "yearBorn": 1966, // 出生年份
+        "fiscalYear": 2026, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "auditRisk": 1, // 审计风险
+    "boardRisk": 1, // 董事会风险
+    "compensationRisk": 10, // 薪酬风险
+    "shareHolderRightsRisk": 5, // 股东权益风险
+    "overallRisk": 6, // 综合风险
+    "governanceEpochDate": 1785542400, // 治理数据时间戳
+    "compensationAsOfEpochDate": 1798675200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 119.9, // 昨日收盘价
+    "open": 122.0, // 今日开盘价
+    "dayLow": 120.8, // 当日最低价
+    "dayHigh": 123.4, // 当日最高价
+    "regularMarketPreviousClose": 119.9, // 常规市场昨日收盘价
+    "regularMarketOpen": 122.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 120.8, // 常规市场当日最低价
+    "regularMarketDayHigh": 123.4, // 常规市场当日最高价
+    "dividendRate": 1.03,
+    "dividendYield": 0.86,
+    "exDividendDate": 1781049600,
+    "payoutRatio": 0.1712, // 股利支付率
+    "beta": 0.51, // 贝塔系数
+    "trailingPE": 19.09375, // 滚动市盈率 (TTM)
+    "forwardPE": 13.229158, // 预测市盈率
+    "volume": 48545092, // 成交量
+    "regularMarketVolume": 48563492, // 常规市场成交量
+    "averageVolume": 100967651, // 平均成交量
+    "averageVolume10days": 84451595, // 10日平均成交量
+    "averageDailyVolume10Day": 84451595, // 10日日均成交量
+    "bid": 122.8, // 买入价
+    "ask": 122.9, // 卖出价
+    "marketCap": 2343183581184, // 总市值
+    "nonDilutedMarketCap": 2299081171268, // 非稀释市值
+    "fiftyTwoWeekLow": 88.65, // 52周最低价
+    "fiftyTwoWeekHigh": 186.2, // 52周最高价
+    "allTimeHigh": 309.4, // 历史最高价
+    "allTimeLow": 60.25, // 历史最低价
+    "priceToSalesTrailing12Months": 2.289003, // 市销率 (TTM)
+    "fiftyDayAverage": 111.311, // 50日均价
+    "twoHundredDayAverage": 135.41576, // 200日均价
+    "trailingAnnualDividendRate": 7.242, // 年度股息率
+    "trailingAnnualDividendYield": 0.060400333, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 2268805464064, // 企业价值 (EV)
+    "profitMargins": 0.1012, // 利润率
+    "floatShares": 17677023493, // 流通股本
+    "sharesOutstanding": 19174988918, // 发行在外股份总数
+    "heldPercentInsiders": 0.04854, // 内部人士持股比例
+    "heldPercentInstitutions": 0.31822002, // 机构持股比例
+    "impliedSharesOutstanding": 19174988918, // 隐含发行在外股份
+    "bookValue": 66.389175, // 每股净资产
+    "priceToBook": 1.8406614, // 市净率 (P/B)
+    "lastFiscalYearEnd": 1774915200, // 上个财年结束日
+    "nextFiscalYearEnd": 1806451200, // 下个财年结束日
+    "mostRecentQuarter": 1774915200, // 最近一个季度日
+    "earningsQuarterlyGrowth": 1.034, // 季度盈利增长
+    "netIncomeToCommon": 105903996928, // 归属于普通股股东的净利润
+    "trailingEps": 6.4, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 9.237171, // 预测每股收益
+    "pegRatio": 0.51, // PEG比率
+    "enterpriseToRevenue": 2.216, // 企业价值/营收比
+    "enterpriseToEbitda": 20.607, // 企业价值/EBITDA比
+    "52WeekChange": 0.010961175, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "lastDividendValue": 0.13125,
+    "lastDividendDate": 1781049600,
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 122.2, // 当前价格
+    "targetHighPrice": 236.64482, // 目标最高价
+    "targetLowPrice": 92.54693, // 目标最低价
+    "targetMeanPrice": 180.45781, // 目标平均价
+    "targetMedianPrice": 181.87009, // 目标中位价
+    "recommendationMean": 1.35714, // 建议平均值
+    "recommendationKey": "strong_buy", // 推荐评级
+    "numberOfAnalystOpinions": 24, // 分析师人数
+    "totalCash": 316819996672, // 现金总额
+    "totalCashPerShare": 16.97, // 每股现金
+    "ebitda": 110100996096, // EBITDA
+    "totalDebt": 281721995264, // 总债务
+    "quickRatio": 0.863, // 速动比率
+    "currentRatio": 1.282, // 流动比率
+    "totalRevenue": 1023670026240, // 总营收
+    "debtToEquity": 25.014, // 债务权益比
+    "revenuePerShare": 441.047, // 每股营收
+    "returnOnAssets": 0.0212, // 资产回报率 (ROA)
+    "returnOnEquity": 0.092159994, // 权益回报率 (ROE)
+    "grossProfits": 407534010368, // 毛利润
+    "freeCashflow": -44074250240, // 自由现金流
+    "operatingCashflow": 76213002240, // 经营现金流
+    "earningsGrowth": 1.041, // 盈利增长
+    "revenueGrowth": 0.029, // 营收增长
+    "grossMargins": 0.39811, // 毛利率
+    "ebitdaMargins": 0.107559994, // EBITDA利润率
+    "operatingMargins": 0.0101499995, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "9988.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "marketState": "POSTPOST", // 市场状态
+    "shortName": "BABA-W", // 公司简称
+    "longName": "Alibaba Group Holding Limited", // 公司正式名称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954108, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_42083601", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 1.9182613, // 常规市场变动百分比
+    "regularMarketPrice": 122.2, // 常规市场当前价格
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1574731800000, // 首次交易日期时间戳
+    "regularMarketChange": 2.2999954, // 常规市场价格变动
+    "regularMarketDayRange": "120.8 - 123.4", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 100967651, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 33.549995, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.37845454, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "88.65 - 186.2", // 52周价格范围
+    "fiftyTwoWeekHighChange": -64.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.34371644, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 1.0961175, // 52周价格变动百分比
+    "earningsTimestamp": 1787213400, // 财报时间戳
+    "earningsTimestampStart": 1787213400, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1787213400, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1787213400, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1787213400, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 6.4, // 过去12个月每股收益
+    "epsForward": 9.237171, // 预测每股收益
+    "epsCurrentYear": 5.77978, // 本年度每股收益
+    "priceEpsCurrentYear": 21.142673, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 10.889, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.09782501, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -13.215759, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.097593956, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.4 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": 0.5106 // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "417ea2e1-f81a-367f-9bbe-47b06a2df70d",
+      "content": {
+        "id": "417ea2e1-f81a-367f-9bbe-47b06a2df70d",
+        "contentType": "STORY",
+        "title": "Steve Eisman Just Highlighted a Major Risk for the AI Boom — And It Doesn’t Appear to Bode Well for Nvidia", // 职位
+        "description": "",
+        "summary": "Steve Eisman, the man who called the housing collapse, sees a hidden vulnerability in the AI boom that could ripple far beyond Nvidia and force the biggest names in tech to rethink their spending in ways most investors haven't priced in.",
+        "pubDate": "2026-08-17T14:06:58Z",
+        "displayTime": "2026-08-17T14:06:58Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/60eeb7fe67b2c3c100541c4ae16f21c0.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 843,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Oi8SLayxzj1vk8WNwUsx5A--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/60eeb7fe67b2c3c100541c4ae16f21c0.jpg",
+              "width": 1500,
+              "height": 843,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Inm0_0lG3T6a98hOfI6QXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/60eeb7fe67b2c3c100541c4ae16f21c0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/17/steve-eisman-just-highlighted-a-major-risk-for-the-ai-boom-and-it-doesnt-appear-to-bode-well-for-nvidia/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-just-highlighted-major-140658181.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+      "content": {
+        "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+        "contentType": "STORY",
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market", // 职位
+        "description": "",
+        "summary": "Stocks are trading slightly lower as the summer doldrums hit the market. Several AI stocks are rising.",
+        "pubDate": "2026-08-17T14:02:00Z",
+        "displayTime": "2026-08-17T14:02:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/e16a2ee6-9fad-362d-ac29-c796aa9fd1b0/sandisk-micron-nvidia-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UQPEWbwBR0SJb2PMLshoxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "79c5a3c4-d273-3348-9c01-2d7c6491b385",
+      "content": {
+        "id": "79c5a3c4-d273-3348-9c01-2d7c6491b385",
+        "contentType": "STORY",
+        "title": "Trump's World Liberty Financial backs AI platform with Chinese models", // 职位
+        "description": "",
+        "summary": "Nearly half of WorldClaw's 90 AI models come from companies the U.S. has designated as military-aligned or restricted on national security grounds",
+        "pubDate": "2026-08-17T12:56:31Z",
+        "displayTime": "2026-08-17T12:56:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/db0c3b421b641878bbd5e6da69281460.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/b0U2k4G0OAlgHKxh.uV6CA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/db0c3b421b641878bbd5e6da69281460.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7UvVVUjU6NdOE83LOJc1vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/db0c3b421b641878bbd5e6da69281460.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
+        },
+        "canonicalUrl": {
+          "url": "https://qz.com/world-liberty-financial-worldclaw-ai-chinese-models-security-risks-081726",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/trumps-world-liberty-financial-backs-125631493.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "33ff8e66-9257-302b-bd2c-fb8c53ace832",
+      "content": {
+        "id": "33ff8e66-9257-302b-bd2c-fb8c53ace832",
+        "contentType": "STORY",
+        "title": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP", // 职位
+        "description": "",
+        "summary": "↗️ Alibaba (BABA, HK:9988): The Chinese company struck a $1.5 billion deal to sell its videogame business as it sharpens its focus on AI. Shares rose in Hong Kong; its U.S.-listed ADRs ticked up premarket.",
+        "pubDate": "2026-08-17T12:22:40Z",
+        "displayTime": "2026-08-17T12:22:40Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/33ff8e66-9257-302b-bd2c-fb8c53ace832/stocks-to-watch-alibaba-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/57c1a48aa97bfc416871916e3dd86730.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/c1vJ.pFSMA4tplBvT6.B_w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/57c1a48aa97bfc416871916e3dd86730.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/olN0fmrojoAJiA1FlXHmOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/57c1a48aa97bfc416871916e3dd86730.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0ebc8278-d625-391a-92ac-db59887ea403",
+      "content": {
+        "id": "0ebc8278-d625-391a-92ac-db59887ea403",
+        "contentType": "STORY",
+        "title": "US Equity Futures Mixed Pre-Bell as 60-Day US-Iran Ceasefire Expires", // 职位
+        "description": "",
+        "summary": "US equity futures were mixed pre-bell Monday as the fragile ceasefire between the US and Iran reache",
+        "pubDate": "2026-08-17T11:59:26Z",
+        "displayTime": "2026-08-17T11:59:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-115926371.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-115926371.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0f7f6c9c-8985-31bd-9e04-c9cfd0e21050",
+      "content": {
+        "id": "0f7f6c9c-8985-31bd-9e04-c9cfd0e21050",
+        "contentType": "STORY",
+        "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta", // 职位
+        "description": "",
+        "summary": "Alibaba Group Holding Ltd. launched the beta version of an artificial intelligence music-generation model that can turn a single text prompt into a fully produced song, expanding the Chinese technology giant’s push into generative AI.",
+        "pubDate": "2026-08-17T11:55:51Z",
+        "displayTime": "2026-08-17T11:55:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/cebc546b6181f4f82ec45e1b285ad9a4.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 1334,
+          "caption": "Alibaba headquarters in Hangzhou, China.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/E8X5pP4JvnB.RfJOcYadCw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/cebc546b6181f4f82ec45e1b285ad9a4.jpg",
+              "width": 2000,
+              "height": 1334,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8RsQYK3Rc3i9DOCEu5Tx7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/cebc546b6181f4f82ec45e1b285ad9a4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-ai-music-generation-115551584.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-ai-music-generation-115551584.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "29221b34-3f2e-3e08-9108-67bfcb2ca90a",
+      "content": {
+        "id": "29221b34-3f2e-3e08-9108-67bfcb2ca90a",
+        "contentType": "STORY",
+        "title": "Alibaba sells Lingxi Games to Trustar Capital for $1.5 billion", // 职位
+        "description": "",
+        "summary": "The Chinese tech giant has agreed to transfer its full stake in the gaming studio to Asian private-equity firm Trustar Capital",
+        "pubDate": "2026-08-17T11:26:20Z",
+        "displayTime": "2026-08-17T11:26:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/68cfe034ee0939645b767313003391ec.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JZA2lubshV3ja0GZrP8CSQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/68cfe034ee0939645b767313003391ec.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/42RsZOTHZ3lTP6U3Rs5oMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/68cfe034ee0939645b767313003391ec.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
+        },
+        "canonicalUrl": {
+          "url": "https://qz.com/alibaba-lingxi-games-trustar-capital-sale-081726",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/alibaba-sells-lingxi-games-trustar-112620626.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0fb303d8-0405-33ec-872b-505ff7ee140c",
+      "content": {
+        "id": "0fb303d8-0405-33ec-872b-505ff7ee140c",
+        "contentType": "STORY",
+        "title": "Alibaba’s AI Pivot Deepens, Plans to Offload Gaming Business For at Least $1.5 Billion: Report", // 职位
+        "description": "",
+        "summary": "Alibaba Group Holding Ltd. ADR (NYSE:BABA) is reportedly offloading its gaming unit, Lingxi Games, to Asian private-equity firm Trustar Capital in a bid to bolster its focus on artificial intelligence (AI). The Chinese tech behemoth is selling Lingxi Games for a minimum of $1.5 billion. The exact transaction size was not disclosed by Lingxi Games Chief Executive Zhou Bingshu, who stated that the sale is “part of Alibaba’s overall road map to sharpen its strategic focus,” The Wall Street Journal",
+        "pubDate": "2026-08-17T10:38:45Z",
+        "displayTime": "2026-08-17T10:38:45Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/af6b23b61e347eaca48ec17d30a79171.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eBMWqVvrtmwTEbNjAPOh9Q--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/af6b23b61e347eaca48ec17d30a79171.jpg",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UOOYoHJn8iV0xBtVazCheg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/af6b23b61e347eaca48ec17d30a79171.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-pivot-deepens-plans-103845244.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-pivot-deepens-plans-103845244.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "596e9729-3eb7-3588-8c17-84af4e5f2f92",
+      "content": {
+        "id": "596e9729-3eb7-3588-8c17-84af4e5f2f92",
+        "contentType": "STORY",
+        "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies", // 职位
+        "description": "",
+        "summary": "By Lawrence Delevingne BOSTON, Aug 17 (Reuters) - President Donald Trump-backed World Liberty Financial is collaborating with a Hong Kong-based venture offering artificial-intelligence models",
+        "pubDate": "2026-08-17T10:06:06Z",
+        "displayTime": "2026-08-17T10:06:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/56b4bdff0c9c39d8168bd0b01d5a41be.jpg",
+          "originalWidth": 800,
+          "originalHeight": 533,
+          "caption": "WorldClaw and Baidu logos are seen in this illustration taken, August 11, 2026. REUTERS/Dado Ruvic/Illustration",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zJR.TDuu0MdlPLy34x4yjg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/56b4bdff0c9c39d8168bd0b01d5a41be.jpg",
+              "width": 800,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3APqQPZEKGex_YsuhL77wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/56b4bdff0c9c39d8168bd0b01d5a41be.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/",
+          "sourceId": "reuters.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-crypto-firm-backs-venture-100606666.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-crypto-firm-backs-venture-100606666.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "584c115d-7c97-3728-a504-33759c503c1c",
+      "content": {
+        "id": "584c115d-7c97-3728-a504-33759c503c1c",
+        "contentType": "STORY",
+        "title": "Alibaba Drops Gaming Arm as AI Takes Center Stage", // 职位
+        "description": "",
+        "summary": "Alibaba sells its gaming arm, Lingxi Games, to Trustar Capital in a reported $1.5 billion deal, days before earnings.",
+        "pubDate": "2026-08-17T09:10:46Z",
+        "displayTime": "2026-08-17T09:10:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/52d75ef082f889ccfc7dd481cfff2870.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9dGpdvhph4mOJFL5PCD01w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/52d75ef082f889ccfc7dd481cfff2870.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6.eSDORjN2y_zc7U3ATTQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/52d75ef082f889ccfc7dd481cfff2870.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/alibaba-lingxi-games-sale-ai-pivot/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-drops-gaming-arm-ai-091046180.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 123.4000015258789, // 当日最高价
+    "dayLow": 120.80000305175781, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 111.31100036621093, // 50日均价
+    "lastPrice": 122.19999694824219,
+    "lastVolume": 48563492,
+    "marketCap": 2343183587262.1777, // 总市值
+    "open": 122.0, // 今日开盘价
+    "previousClose": 119.9000015258789, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 119.9000015258789, // 常规市场昨日收盘价
+    "shares": 19174988918,
+    "tenDayAverageVolume": 84451595,
+    "threeMonthAverageVolume": 100795861,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 136.6672500228882, // 200日均价
+    "yearChange": 0.010961240037802172,
+    "yearHigh": 186.1999969482422,
+    "yearLow": 88.6500015258789
+  },
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 6, 10), 'Earnings Date': [datetime.date(2026, 8, 20)], 'Earnings High': 1.97106, 'Earnings Low': 1.19, 'Earnings Average': 1.48521, 'Revenue High': 277100000000, 'Revenue Low': 258727400000, 'Revenue Average': 268343197980}", // 财报日历
+  "actions": [ // 分红及拆股历史
+    {
+      "Dividends": 0.98069376,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.6279516,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.9613875,
+      "Stock Splits": 0.0
+    },
+    {
+      "Dividends": 1.0297284,
+      "Stock Splits": 0.0
+    }
+  ]
+}

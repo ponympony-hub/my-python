@@ -1,0 +1,680 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 4437.3, // 昨日收盘价
+    "open": 4440.0, // 今日开盘价
+    "dayLow": 4422.3, // 当日最低价
+    "dayHigh": 4484.9, // 当日最高价
+    "regularMarketPreviousClose": 4437.3, // 常规市场昨日收盘价
+    "regularMarketOpen": 4440.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 4422.3, // 常规市场当日最低价
+    "regularMarketDayHigh": 4484.9, // 常规市场当日最高价
+    "volume": 82487, // 成交量
+    "regularMarketVolume": 82487, // 常规市场成交量
+    "averageVolume": 3941, // 平均成交量
+    "averageVolume10days": 1114, // 10日平均成交量
+    "averageDailyVolume10Day": 1114, // 10日日均成交量
+    "bid": 4475.2, // 买入价
+    "ask": 4475.4, // 卖出价
+    "bidSize": 14, // 买盘量
+    "askSize": 8, // 卖盘量
+    "expireDate": 1798502400,
+    "openInterest": 311802,
+    "fiftyTwoWeekLow": 3310.1, // 52周最低价
+    "fiftyTwoWeekHigh": 5586.2, // 52周最高价
+    "allTimeHigh": 5586.2, // 历史最高价
+    "allTimeLow": 255.0, // 历史最低价
+    "fiftyDayAverage": 4148.152, // 50日均价
+    "twoHundredDayAverage": 4495.1646, // 200日均价
+    "currency": "USD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "FUTURE", // 报价类型
+    "symbol": "GC=F", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Futures", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "NONE", // 自定义价格警报信心度
+    "contractSymbol": false,
+    "headSymbolAsString": "GC=F",
+    "fiftyDayAverageChange": 326.44824, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.07869727, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -20.564453, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.0045747943, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 10, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 967608000000, // 首次交易日期时间戳
+    "regularMarketChange": 37.300293, // 常规市场价格变动
+    "regularMarketDayRange": "4422.3 - 4484.9", // 常规市场当日价格范围
+    "fullExchangeName": "COMEX", // 交易所全称
+    "averageDailyVolume3Month": 3941, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 1164.5, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.35180205, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "3310.1 - 5586.2", // 52周价格范围
+    "fiftyTwoWeekHighChange": -1111.6001, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.19899037, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 31.476425, // 52周价格变动百分比
+    "expireIsoDate": "2026-12-29T00:00:00Z",
+    "shortName": "Gold Dec 26", // 公司简称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786976979, // 常规市场时间戳
+    "underlyingSymbol": "GCZ26.CMX",
+    "underlyingExchangeSymbol": "GCZ26.CMX",
+    "exchange": "CMX", // 交易所代码
+    "exchangeTimezoneName": "America/New_York", // 交易所时区
+    "exchangeTimezoneShortName": "EDT", // 时区简称
+    "gmtOffSetMilliseconds": -14400000, // GMT偏移毫秒
+    "market": "us24_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "regularMarketChangePercent": 0.8406079, // 常规市场变动百分比
+    "regularMarketPrice": 4474.6, // 常规市场当前价格
+    "marketState": "REGULAR", // 市场状态
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "4f24c157-6918-404b-8db2-80ece80e2d0e",
+      "content": {
+        "id": "4f24c157-6918-404b-8db2-80ece80e2d0e",
+        "contentType": "STORY",
+        "title": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report", // 职位
+        "description": "",
+        "summary": "Gold (GC=F) December futures opened at $4,440 per troy ounce on Monday, August 17, 2026, up 0.1% from Friday's closing price. The price of gold is holding this morning at $4,440.10 per troy ounce as of 9:06 a.m. ET.",
+        "pubDate": "2026-08-17T13:47:55Z",
+        "displayTime": "2026-08-17T13:47:55Z",
+        "isHosted": true,
+        "bypassModal": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/zXVwgsaFyGNgvrXU6TElCg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zXVwgsaFyGNgvrXU6TElCg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ORpu8Z2iLE9NtBleJG67LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Personal Finance",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "yahoo_personal_finance_397"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ea687417-52ca-3594-9d8a-dc37fd2139de",
+      "content": {
+        "id": "ea687417-52ca-3594-9d8a-dc37fd2139de",
+        "contentType": "STORY",
+        "title": "Why the Dollar Hit a 3-Month Low and Bitcoin Only Moved 0.7%", // 职位
+        "description": "",
+        "summary": "The dollar hit a 3-month low after US payrolls fell 23,000. Gold jumped 9.3%. Bitcoin gained just 0.7%. Here's why.",
+        "pubDate": "2026-08-17T14:16:25Z",
+        "displayTime": "2026-08-17T14:16:25Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/d4651451e984d8fbc9fa6ef8b3226426.png",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/e9rD1rtFpE2kZoAP8F2YEA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/d4651451e984d8fbc9fa6ef8b3226426.png",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Dl6KGzsbYCX0h5ryP__SyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d4651451e984d8fbc9fa6ef8b3226426.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/dollar-3-month-low-bitcoin-reaction/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/currencies/articles/why-dollar-hit-3-month-141625182.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2411d5ef-fa5b-3d7a-a7e0-b4be136a0fd6",
+      "content": {
+        "id": "2411d5ef-fa5b-3d7a-a7e0-b4be136a0fd6",
+        "contentType": "STORY",
+        "title": "Dow Slips While Tech Stocks Inch Higher", // 职位
+        "description": "",
+        "summary": "Stocks were struggling for direction at the start of another quiet summer week that includes earnings from Target and minutes from July Fed meeting.",
+        "pubDate": "2026-08-17T14:01:00Z",
+        "displayTime": "2026-08-17T14:01:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/2411d5ef-fa5b-3d7a-a7e0-b4be136a0fd6/dow-slips-while-tech-stocks.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/dd3bfed141db70be30ae9b7b441ebc24.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fnOvC__3RiNHi.RoDDM33Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/dd3bfed141db70be30ae9b7b441ebc24.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cHZPJtKzJ4huMridrpmpvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/dd3bfed141db70be30ae9b7b441ebc24.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d54fd45e-f7ec-3c16-b6ec-7d8ec08d8372",
+      "content": {
+        "id": "d54fd45e-f7ec-3c16-b6ec-7d8ec08d8372",
+        "contentType": "STORY",
+        "title": "Barrick Mining shares fall despite Q2 revenue beat and strong gold production", // 职位
+        "description": "",
+        "summary": "Barrick Mining Corporation (NYSE: B) shares fell in Monday trading after the gold producer reported second-quarter results that included revenue above expectations, earnings in line with forecasts and production that exceeded its guidance range. The stock was down around 6.",
+        "pubDate": "2026-08-17T13:46:23Z",
+        "displayTime": "2026-08-17T13:46:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/af9dada207d39f61b4c40e1556fde531.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "caption": "Open cast mine in bright sunlight ©Adobe Stock Images",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2uQpLRwtQFa9ZbnoaIwBlQ--~B/aD02NTk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investorshub_458/af9dada207d39f61b4c40e1556fde531.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_2_0x.6KroBa7gvEbupbFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/af9dada207d39f61b4c40e1556fde531.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/",
+          "sourceId": "investorshub_458"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/34420/barrick-mining-shares-fall-despite-q2-revenue-beat-and-strong-gold-production",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-shares-fall-despite-134623826.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4d1c142a-875d-3ae8-a952-a9b4499eaee4",
+      "content": {
+        "id": "4d1c142a-875d-3ae8-a952-a9b4499eaee4",
+        "contentType": "STORY",
+        "title": "Will Higher Unit Costs Weigh on Newmont's Margins in 2026?", // 职位
+        "description": "",
+        "summary": "NEM faces higher 2026 unit costs as lower production, higher royalties and sustaining capital pressure margins.",
+        "pubDate": "2026-08-17T13:12:00Z",
+        "displayTime": "2026-08-17T13:12:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/aaa340faeefa7ee40b3aaf505e5e01be.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_Mex_12sI9L6fJRHv8oxdg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/aaa340faeefa7ee40b3aaf505e5e01be.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JfmM4jRmSwWGft_0Jb9UNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/aaa340faeefa7ee40b3aaf505e5e01be.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/higher-unit-costs-weigh-newmonts-131200308.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/higher-unit-costs-weigh-newmonts-131200308.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "285979c8-dcf8-348f-bbc9-277ac6e93390",
+      "content": {
+        "id": "285979c8-dcf8-348f-bbc9-277ac6e93390",
+        "contentType": "STORY",
+        "title": "The Wealth Company introduces GIFT City fund of fund for NRIs", // 职位
+        "description": "",
+        "summary": "The fund can allocate across equity-focused schemes, gold and silver ETFs, index-based strategies and SIFs, among others.",
+        "pubDate": "2026-08-17T11:56:21Z",
+        "displayTime": "2026-08-17T11:56:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/private_banker_international_938/06caefb73956ff4fbd947c707dd7f78c.jpg",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "The fund has been set up for non-resident participants. Credit: Zakharchuk/ Shutterstock.com.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WBkVnXsv8Tzq3uwZkBZWfQ--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/private_banker_international_938/06caefb73956ff4fbd947c707dd7f78c.jpg",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pw_EFef8ZdY97BOpCVsk6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/private_banker_international_938/06caefb73956ff4fbd947c707dd7f78c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Private Banker International",
+          "url": "https://www.globaldata.com/",
+          "sourceId": "private_banker_international_938"
+        },
+        "canonicalUrl": {
+          "url": "https://www.privatebankerinternational.com/news/wealth-company-nris-gift-city-fund/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wealth-company-introduces-gift-city-115621088.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "77404d38-b8db-3aaf-8ee0-2c9ebe1724d8",
+      "content": {
+        "id": "77404d38-b8db-3aaf-8ee0-2c9ebe1724d8",
+        "contentType": "STORY",
+        "title": "Why this Wall Street strategist says the \"trade is long gold\"", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bank of America strategist Michael Hartnett told investors in a note on Monday that gold remains his preferred hedge against a weakening dollar, pointing to the biggest inflows into the metal since January.",
+        "pubDate": "2026-08-17T11:30:12Z",
+        "displayTime": "2026-08-17T11:30:12Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/why-wall-street-strategist-says-113012320.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/commodities/articles/why-wall-street-strategist-says-113012320.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4cedf436-0a1d-30c1-b6b9-f1da01b8eb9c",
+      "content": {
+        "id": "4cedf436-0a1d-30c1-b6b9-f1da01b8eb9c",
+        "contentType": "STORY",
+        "title": "Toronto futures little changed as investors await domestic inflation data", // 职位
+        "description": "",
+        "summary": "Aug 17 (Reuters) - Futures tracking Canada's blue-chip stocks on Monday were muted ahead of domestic inflation data, while investors weighed the Iran war stalemate.",
+        "pubDate": "2026-08-17T10:41:37Z",
+        "displayTime": "2026-08-17T10:41:37Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/dde5181f5616b7cafbdece51e07f5754.jpg",
+          "originalWidth": 800,
+          "originalHeight": 533,
+          "caption": "The Art Deco facade of the original Toronto Stock Exchange building is seen on Bay Street in Toronto, Ontario, Canada January 23, 2019.   REUTERS/Chris Helgren",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yZgveTVmgLXHG3dL3fUNfg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dde5181f5616b7cafbdece51e07f5754.jpg",
+              "width": 800,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Oh5xkNmlA41hbE6DWvDvOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dde5181f5616b7cafbdece51e07f5754.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/",
+          "sourceId": "reuters.com"
+        },
+        "canonicalUrl": {
+          "url": "https://ca.finance.yahoo.com/news/toronto-futures-little-changed-investors-104137948.html",
+          "site": "finance",
+          "region": "CA", // 地区
+          "lang": "en-CA"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/toronto-futures-little-changed-investors-104137948.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5fb27962-26ab-321a-af70-2fc04770591e",
+      "content": {
+        "id": "5fb27962-26ab-321a-af70-2fc04770591e",
+        "contentType": "STORY",
+        "title": "Tether Completes First Big Four Audit as KPMG Signs Off on 2025 Financials", // 职位
+        "description": "",
+        "summary": "Tether International, S.A. de C.V. announced on August 13 that KPMG U.S. issued an unqualified opinion on its 2025 financial statements — the first time a Big Four accounting firm has audited the company behind the world’s largest stablecoin. The audit, conducted under AICPA standards and U.S. GAAP, confirmed that as of December 31, 2025, […]",
+        "pubDate": "2026-08-17T10:29:03Z",
+        "displayTime": "2026-08-17T10:29:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Forkast News",
+          "url": "https://forkast.news/",
+          "sourceId": "forkast_news_articles_672"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f4559fd3-56b1-319f-a128-836752dfc2fe",
+      "content": {
+        "id": "f4559fd3-56b1-319f-a128-836752dfc2fe",
+        "contentType": "STORY",
+        "title": "Bill Ackman lost $400M dumping Netflix — now says it ‘won the streaming wars.’ Should you rebuy a stock that burned you?", // 职位
+        "description": "",
+        "summary": "Here's what changed.",
+        "pubDate": "2026-08-17T10:15:00Z",
+        "displayTime": "2026-08-17T10:15:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/657e207e9b61def4898753e922a1c053.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "US hedge fund manager Bill Ackman, CEO of Pershing Square Capital Management, speaking at an event.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ae5vgITNUi0NkZAD28Wk_g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_ecomm_711/657e207e9b61def4898753e922a1c053.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/n5Afn4xDeMAkkHQd0DOQgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/657e207e9b61def4898753e922a1c053.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_ecomm_711"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "USD", // 交易货币
+    "dayHigh": 4484.89990234375, // 当日最高价
+    "dayLow": 4422.2998046875, // 当日最低价
+    "exchange": "CMX", // 交易所代码
+    "fiftyDayAverage": 4158.012001953125, // 50日均价
+    "lastPrice": 4474.60009765625,
+    "lastVolume": 82487,
+    "marketCap": null, // 总市值
+    "open": 4440.0, // 今日开盘价
+    "previousClose": 4453.7001953125, // 昨日收盘价
+    "quoteType": "FUTURE", // 报价类型
+    "regularMarketPreviousClose": 4380.39990234375, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": 1114,
+    "threeMonthAverageVolume": 4060,
+    "timezone": "America/New_York",
+    "twoHundredDayAverage": 4486.270489501953, // 200日均价
+    "yearChange": 0.3147642244323384,
+    "yearHigh": 5586.2001953125,
+    "yearLow": 3310.10009765625
+  },
+  "calendar": "{}" // 财报日历
+}

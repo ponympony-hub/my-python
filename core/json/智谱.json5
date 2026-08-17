@@ -1,0 +1,786 @@
+{
+  "info": {
+    "address1": "Building 9", // 地址1
+    "address2": "10th Floor Yard 1, Zhongguancun East Road Haidian District", // 地址2
+    "city": "Beijing", // 城市
+    "country": "China", // 国家
+    "website": "https://www.zhipuai.cn", // 官方网站
+    "industry": "Software - Infrastructure", // 行业
+    "industryKey": "software-infrastructure", // 行业键
+    "industryDisp": "Software - Infrastructure", // 行业显示名称
+    "sector": "Technology", // 板块
+    "sectorKey": "technology", // 板块键
+    "sectorDisp": "Technology", // 板块显示名称
+    "longBusinessSummary": "Z.AI Co., Ltd., together with its subsidiaries, provides customized large model-related services in the People's Republic of China. It operates through two segments, On-premise Deployment and Cloud-based Deployment. The company develops and provides customized large model-related services according to the customers' specific instructions, and needs at the customers' infrastructure; and cloud-based large model-related services through cloud infrastructure. It also provides subscription-based and usage-based services, as well as other related services such as model training and fine-tuning. In addition, the company offers z.ai, AutoGLM, AutoClaw, ChatGLM, Zread.ai, and AMiner. The company was formerly known as Knowledge Atlas Technology Joint Stock Company Limited and changed its name to Z.AI Co., Ltd. in July 2026. Z.AI Co., Ltd. was incorporated in 2019 and is headquartered in Beijing, China.", // 公司业务摘要
+    "fullTimeEmployees": 1094, // 全职员工人数
+    "companyOfficers": [ // 公司高管
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Debing  Liu", // 姓名
+        "age": 48, // 年龄
+        "title": "Co-Founder & Executive Chairman", // 职位
+        "yearBorn": 1977, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1697877,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Peng  Zhang", // 姓名
+        "age": 45, // 年龄
+        "title": "Co-Founder, CEO, GM & Executive Director", // 职位
+        "yearBorn": 1980, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 3412046,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Shaolan  Wang", // 姓名
+        "age": 51, // 年龄
+        "title": "Co-Founder & Deputy GM", // 职位
+        "yearBorn": 1974, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 656342,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Dr. Jie  Tang", // 姓名
+        "age": 48, // 年龄
+        "title": "Co-Founder & Chief Scientist", // 职位
+        "yearBorn": 1977, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Ms. Xiaohan  Zhang", // 姓名
+        "age": 27, // 年龄
+        "title": "Executive Director & Employee Director", // 职位
+        "yearBorn": 1998, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "totalPay": 1133470,
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Lei  Xiao", // 姓名
+        "age": 37, // 年龄
+        "title": "Board Secretary", // 职位
+        "yearBorn": 1988, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      },
+      {
+        "maxAge": 1, // 数据最大有效时长
+        "name": "Mr. Ching Kit  Cheng A.C.I.S., A.C.S.", // 姓名
+        "age": 37, // 年龄
+        "title": "Company Secretary", // 职位
+        "yearBorn": 1988, // 出生年份
+        "fiscalYear": 2025, // 财年
+        "exercisedValue": 0, // 已行权价值
+        "unexercisedValue": 0 // 未行权价值
+      }
+    ],
+    "compensationAsOfEpochDate": 1767139200, // 薪酬数据截止时间戳
+    "executiveTeam": [], // 执行团队
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 3, // 价格小数位提示
+    "previousClose": 1270.0, // 昨日收盘价
+    "open": 1288.0, // 今日开盘价
+    "dayLow": 1170.0, // 当日最低价
+    "dayHigh": 1300.0, // 当日最高价
+    "regularMarketPreviousClose": 1270.0, // 常规市场昨日收盘价
+    "regularMarketOpen": 1288.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 1170.0, // 常规市场当日最低价
+    "regularMarketDayHigh": 1300.0, // 常规市场当日最高价
+    "payoutRatio": 0.0, // 股利支付率
+    "forwardPE": -115.93953, // 预测市盈率
+    "volume": 6698923, // 成交量
+    "regularMarketVolume": 6701223, // 常规市场成交量
+    "averageVolume": 4783327, // 平均成交量
+    "averageVolume10days": 6343760, // 10日平均成交量
+    "averageDailyVolume10Day": 6343760, // 10日日均成交量
+    "bid": 1202.0, // 买入价
+    "ask": 1200.0, // 卖出价
+    "bidSize": 0, // 买盘量
+    "askSize": 0, // 卖盘量
+    "marketCap": 536349245440, // 总市值
+    "nonDilutedMarketCap": 591341324300, // 非稀释市值
+    "fiftyTwoWeekLow": 116.1, // 52周最低价
+    "fiftyTwoWeekHigh": 2980.0, // 52周最高价
+    "allTimeHigh": 2980.0, // 历史最高价
+    "allTimeLow": 116.1, // 历史最低价
+    "priceToSalesTrailing12Months": 773.3236, // 市销率 (TTM)
+    "fiftyDayAverage": 1450.62, // 50日均价
+    "twoHundredDayAverage": 936.9366, // 200日均价
+    "trailingAnnualDividendRate": 0.0, // 年度股息率
+    "trailingAnnualDividendYield": 0.0, // 年度股息收益率
+    "currency": "HKD", // 交易货币
+    "tradeable": false, // 是否可交易
+    "enterpriseValue": 564621279232, // 企业价值 (EV)
+    "profitMargins": 0.0, // 利润率
+    "floatShares": 117403861, // 流通股本
+    "sharesOutstanding": 221314605, // 发行在外股份总数
+    "heldPercentInsiders": 0.50969005, // 内部人士持股比例
+    "heldPercentInstitutions": 0.28718, // 机构持股比例
+    "impliedSharesOutstanding": 445843090, // 隐含发行在外股份
+    "bookValue": -23.379263, // 每股净资产
+    "lastFiscalYearEnd": 1767139200, // 上个财年结束日
+    "nextFiscalYearEnd": 1798675200, // 下个财年结束日
+    "mostRecentQuarter": 1767139200, // 最近一个季度日
+    "netIncomeToCommon": -1918476032, // 归属于普通股股东的净利润
+    "trailingEps": -12.45, // 滚动每股收益 (EPS TTM)
+    "forwardEps": -10.376099, // 预测每股收益
+    "enterpriseToRevenue": 779.504, // 企业价值/营收比
+    "enterpriseToEbitda": -151.434, // 企业价值/EBITDA比
+    "52WeekChange": 8.657795, // 52周价格变动
+    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "quoteType": "EQUITY", // 报价类型
+    "currentPrice": 1203.0, // 当前价格
+    "targetHighPrice": 2313.7917, // 目标最高价
+    "targetLowPrice": 614.82294, // 目标最低价
+    "targetMeanPrice": 1620.9324, // 目标平均价
+    "targetMedianPrice": 1579.4706, // 目标中位价
+    "recommendationMean": 1.7, // 建议平均值
+    "recommendationKey": "buy", // 推荐评级
+    "numberOfAnalystOpinions": 19, // 分析师人数
+    "totalCash": 2815565056, // 现金总额
+    "totalCashPerShare": 6.315, // 每股现金
+    "ebitda": -3728489984, // EBITDA
+    "totalDebt": 1234594944, // 总债务
+    "quickRatio": 0.255, // 速动比率
+    "currentRatio": 0.288, // 流动比率
+    "totalRevenue": 724334016, // 总营收
+    "revenuePerShare": 4.541, // 每股营收
+    "returnOnAssets": -0.51482, // 资产回报率 (ROA)
+    "grossProfits": 296656000, // 毛利润
+    "freeCashflow": 2491834112, // 自由现金流
+    "operatingCashflow": -2246123008, // 经营现金流
+    "revenueGrowth": 0.994, // 营收增长
+    "grossMargins": 0.40956002, // 毛利率
+    "ebitdaMargins": 0.0, // EBITDA利润率
+    "operatingMargins": -3.55698, // 营业利润率
+    "financialCurrency": "CNY", // 财务报表货币
+    "symbol": "2513.HK", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1767835800000, // 首次交易日期时间戳
+    "regularMarketChange": -67.0, // 常规市场价格变动
+    "regularMarketDayRange": "1170.0 - 1300.0", // 常规市场当日价格范围
+    "fullExchangeName": "HKSE", // 交易所全称
+    "averageDailyVolume3Month": 4783327, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 1086.9, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 9.361757, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "116.1 - 2980.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -1777.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.5963087, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 865.7795, // 52周价格变动百分比
+    "marketState": "POSTPOST", // 市场状态
+    "regularMarketChangePercent": -5.275591, // 常规市场变动百分比
+    "regularMarketPrice": 1203.0, // 常规市场当前价格
+    "shortName": "Z.AI", // 公司简称
+    "longName": "Z.AI Co., Ltd.", // 公司正式名称
+    "corporateActions": [], // 公司行为
+    "regularMarketTime": 1786954108, // 常规市场时间戳
+    "exchange": "HKG", // 交易所代码
+    "messageBoardId": "finmb_1681425897", // 留言板ID
+    "exchangeTimezoneName": "Asia/Hong_Kong", // 交易所时区
+    "exchangeTimezoneShortName": "HKT", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "hk_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "epsTrailingTwelveMonths": -12.45, // 过去12个月每股收益
+    "epsForward": -10.376099, // 预测每股收益
+    "epsCurrentYear": -9.61332, // 本年度每股收益
+    "priceEpsCurrentYear": -125.13886, // 本年度股价/EPS比
+    "fiftyDayAverageChange": -247.62, // 50日均价变动
+    "fiftyDayAverageChangePercent": -0.17069942, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 266.06342, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 0.28397164, // 200日均价变动百分比
+    "priceToBook": -51.455856, // 市净率 (P/B)
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "prevName": "Knowledge Atlas Technology Joint Stock Company Limited",
+    "nameChangeDate": "2026-08-17",
+    "averageAnalystRating": "1.7 - Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "b4d427a2-817e-3b3e-a0ce-e50eb9d23d35",
+      "content": {
+        "id": "b4d427a2-817e-3b3e-a0ce-e50eb9d23d35",
+        "contentType": "STORY",
+        "title": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model", // 职位
+        "description": "",
+        "summary": "Z.ai Co. is set to upgrade its flagship AI model, adding to a series of Chinese open-weight offerings seeking to outcompete Anthropic PBC and OpenAI.",
+        "pubDate": "2026-08-14T05:00:41Z",
+        "displayTime": "2026-08-14T05:00:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7c830d28d8e7e41311000edd5be122cf.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1392,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XxBeQUFFE_gmm0NJV2iPLw--~B/aD0xMzkyO3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/7c830d28d8e7e41311000edd5be122cf.jpg",
+              "width": 2010,
+              "height": 1392,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1QaP6W4dOuDU8ceiVPnDWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7c830d28d8e7e41311000edd5be122cf.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/z-ai-aims-catch-anthropic-050041677.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/z-ai-aims-catch-anthropic-050041677.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3093b088-2374-33dc-90e4-6889e7d5f503",
+      "content": {
+        "id": "3093b088-2374-33dc-90e4-6889e7d5f503",
+        "contentType": "STORY",
+        "title": "Tencent’s WorkBuddy Sparks AI Turnaround Hopes After Stock Rout", // 职位
+        "description": "",
+        "summary": "(Bloomberg) -- Tencent Holdings Ltd.’s early success with WorkBuddy may give the Chinese Internet giant a chance to catch up after lagging peers in the artificial intelligence race for the past few years.Most Read from BloombergChina Unleashes $28 Trillion Capital Markets to Challenge US in AIStocks Churn as Hormuz Standoff Spurs Rally in Oil: Markets WrapIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’GameStop’s Ryan Cohen Weighs Pulling $56 Billion EBay OfferA $20 Million Weddi",
+        "pubDate": "2026-08-11T00:11:10Z",
+        "displayTime": "2026-08-11T00:11:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-workbuddy-sparks-ai-turnaround-001110059.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tencent-workbuddy-sparks-ai-turnaround-001110059.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4cedcc2b-af3c-3303-9ce1-0bab0cb7df25",
+      "content": {
+        "id": "4cedcc2b-af3c-3303-9ce1-0bab0cb7df25",
+        "contentType": "STORY",
+        "title": "Bernstein starts coverage of China’s AI labs, favors Z.ai over Minimax", // 职位
+        "description": "",
+        "summary": "Investing.com -- Bernstein initiated coverage of China's listed artificial intelligence labs with an optimistic long-term outlook for the sector, launching Outperform coverage on Z.ai and Market-Perform on Minimax as it expects frontier AI development to remain a key technological and strategic priority in China.",
+        "pubDate": "2026-08-04T13:54:16Z",
+        "displayTime": "2026-08-04T13:54:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-starts-coverage-china-ai-135416517.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-starts-coverage-china-ai-135416517.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "46b718dd-0d1c-3e1e-a32f-3df1fc8c221a",
+      "content": {
+        "id": "46b718dd-0d1c-3e1e-a32f-3df1fc8c221a",
+        "contentType": "STORY",
+        "title": "Chinese AI Cuts U.S. Performance Gap to Record 6% in June", // 职位
+        "description": "",
+        "summary": "Bloomberg Intelligence says Chinese models reached a record-low performance gap and secured two LiveBench top-ranking spots.",
+        "pubDate": "2026-07-27T13:11:04Z",
+        "displayTime": "2026-07-27T13:11:04Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-cuts-u-performance-131104090.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-ai-cuts-u-performance-131104090.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "10a971bd-2325-3b11-a1ca-9d6ffddea448",
+      "content": {
+        "id": "10a971bd-2325-3b11-a1ca-9d6ffddea448",
+        "contentType": "STORY",
+        "title": "China’s Moonshot, Z.AI, and DeepSeek are challenging U.S. AI labs—and beating them on cost", // 职位
+        "description": "",
+        "summary": "“The AI ecosystem in China is probably much better than people thought.\"",
+        "pubDate": "2026-07-26T21:00:00Z",
+        "displayTime": "2026-07-26T21:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/555a7b4f5beb8e841e008bccc4bbd5f7",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "caption": "AI users globally are adapting to the new reality in which Chinese AI models are competitive with U.S. models on capability and far superior on price.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lLVYU.e02JWF1WQ4JbqTkQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/555a7b4f5beb8e841e008bccc4bbd5f7",
+              "width": 2048,
+              "height": 1365,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_NWSgCyz61pJDE53teI9og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/555a7b4f5beb8e841e008bccc4bbd5f7",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-z-ai-deepseek-210000352.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-z-ai-deepseek-210000352.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6cc28db5-56ea-3ae3-8462-664f12b5c5ca",
+      "content": {
+        "id": "6cc28db5-56ea-3ae3-8462-664f12b5c5ca",
+        "contentType": "STORY",
+        "title": "Binance’s BNB Coin May Drop Toward $500 Next: Here’s Why", // 职位
+        "description": "",
+        "summary": "BNB price risks falling toward $535–$515 as an AI-led market sell-off and a bearish falling wedge pressure the Binance-linked cryptocurrency.",
+        "pubDate": "2026-07-17T11:21:14Z",
+        "displayTime": "2026-07-17T11:21:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fx_empire_176/d65dd7b4d6b64773202772132494a64c",
+          "originalWidth": 615,
+          "originalHeight": 410,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nCqfexnMUwaN9Unodg9iIQ--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/d65dd7b4d6b64773202772132494a64c",
+              "width": 615,
+              "height": 410,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C4MPjG5KHeq2urqde4sLUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/d65dd7b4d6b64773202772132494a64c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "FX Empire",
+          "url": "https://www.fxempire.com/",
+          "sourceId": "fx_empire_176"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/binance-bnb-coin-may-drop-112114018.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/binance-bnb-coin-may-drop-112114018.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2c04c7ba-d465-34db-b902-3ae44f3f7daf",
+      "content": {
+        "id": "2c04c7ba-d465-34db-b902-3ae44f3f7daf",
+        "contentType": "STORY",
+        "title": "Bitcoin Price Warning: Kimi K3-Led AI Selloff Could Push BTC Below $60K", // 职位
+        "description": "",
+        "summary": "Bitcoin risks falling toward $58,500 after a rising-wedge breakdown, as the Kimi K3 launch fuels an AI-led retreat from global risk assets.",
+        "pubDate": "2026-07-17T08:49:17Z",
+        "displayTime": "2026-07-17T08:49:17Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fx_empire_176/f62ed45ce1f81c6ef0f8e59292b54f82",
+          "originalWidth": 615,
+          "originalHeight": 410,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2HtvvFEfe.phCTubJa4rKw--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/f62ed45ce1f81c6ef0f8e59292b54f82",
+              "width": 615,
+              "height": 410,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/S5Ns6pDWg6hf1o9a9kEDqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/f62ed45ce1f81c6ef0f8e59292b54f82",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "FX Empire",
+          "url": "https://www.fxempire.com/",
+          "sourceId": "fx_empire_176"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-warning-kimi-k3-084917127.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-warning-kimi-k3-084917127.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "db60f2d8-4a11-35ea-bca0-e46b3098aa58",
+      "content": {
+        "id": "db60f2d8-4a11-35ea-bca0-e46b3098aa58",
+        "contentType": "STORY",
+        "title": "Zhipu Unveils Open-Source AI as $4 Billion Share Sale Lifts Stock", // 职位
+        "description": "",
+        "summary": "Founder backs open AI access while prioritizing research over short-term monetization amid global AI security debates.",
+        "pubDate": "2026-07-13T19:50:35Z",
+        "displayTime": "2026-07-13T19:50:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/zhipu-unveils-open-source-ai-195035952.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/zhipu-unveils-open-source-ai-195035952.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0f6eda13-48ea-3850-ae4e-189b41574145",
+      "content": {
+        "id": "0f6eda13-48ea-3850-ae4e-189b41574145",
+        "contentType": "STORY",
+        "title": "Knowledge Atlas Technology (SEHK:2513) Launches Share Sale And Opens GLM 5.2 To Developers", // 职位
+        "description": "",
+        "summary": "Knowledge Atlas Technology (SEHK:2513) is launching a substantial share sale to fund R&D, expansion, and global market plans. The company is also releasing its latest GLM-5.2 AI model as a free, open-source offering to attract developers. These moves point to an effort to build a wider AI ecosystem and increase the reach of its technology. For investors watching SEHK:2513, the timing of this capital raise comes after a sharp share price move, with the stock up 15.8% over the past week and...",
+        "pubDate": "2026-07-09T23:22:59Z",
+        "displayTime": "2026-07-09T23:22:59Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p9AmAMKjf.qGqvNo1JBhgQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wGj4CqPUCYLMz_BgnPGdqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/knowledge-atlas-technology-sehk-2513-232259461.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/knowledge-atlas-technology-sehk-2513-232259461.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3057c224-59b2-3de2-9ed6-607b632af478",
+      "content": {
+        "id": "3057c224-59b2-3de2-9ed6-607b632af478",
+        "contentType": "STORY",
+        "title": "China’s Zhipu AI and DeepSeek Are Beating Big Tech at Its Own Game. They’re Spending Big.", // 职位
+        "description": "",
+        "summary": "Zhipu AI, a language model develop, wants to raise $4 billion in new capital to compete with America’s chip giants and hyperscalers. DeepSeek raised $7 billion last month.",
+        "pubDate": "2026-07-09T19:28:00Z",
+        "displayTime": "2026-07-09T19:28:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/3057c224-59b2-3de2-9ed6-607b632af478/china%E2%80%99s-zhipu-ai-and-deepseek.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/f8ef26acec6265f4911bf2be9eb6cf4f",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/L.MKWrEIZEKpqkd7F7gwxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f8ef26acec6265f4911bf2be9eb6cf4f",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/a2NiUdEmrNDj_t6En5YPlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f8ef26acec6265f4911bf2be9eb6cf4f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/china-zhipu-ai-deepseek-spending-ed7a2f19?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "HKD", // 交易货币
+    "dayHigh": 1300.0, // 当日最高价
+    "dayLow": 1170.0, // 当日最低价
+    "exchange": "HKG", // 交易所代码
+    "fiftyDayAverage": 1450.62, // 50日均价
+    "lastPrice": 1203.0,
+    "lastVolume": 6701223,
+    "marketCap": 560144577270.0, // 总市值
+    "open": 1288.0, // 今日开盘价
+    "previousClose": 1270.0, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 1270.0, // 常规市场昨日收盘价
+    "shares": 465623090,
+    "tenDayAverageVolume": 6343760,
+    "threeMonthAverageVolume": 4723834,
+    "timezone": "Asia/Hong_Kong",
+    "twoHundredDayAverage": 949.0258500494924, // 200日均价
+    "yearChange": 8.657794676806084,
+    "yearHigh": 2980.0,
+    "yearLow": 116.0999984741211
+  },
+  "calendar": "{'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': None, 'Revenue Low': None, 'Revenue Average': None}" // 财报日历
+}
