@@ -16,6 +16,8 @@ my-python/
 │   ├── daily_job.py     # 每日价格播报任务
 │   ├── yearly_job.py    # 年度资产播报任务
 │   ├── market_cap_job.py # 市值排行播报任务
+│   ├── earnings_job.py  # 财报日历播报任务
+│   ├── volume_job.py    # 成交额播报任务
 │   └── export_tickers_job.py # 批量导出股票数据任务
 ├── tests/               # 测试文件夹
 │   ├── test_reporting.py # 单元测试

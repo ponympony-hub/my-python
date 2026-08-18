@@ -136,7 +136,7 @@ def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any]
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            errors.append(f"{name}: 获取数据失败")
+            # errors.append(f"{name}: 获取数据失败")
 
     # 排序：根据涨幅（change）降序排列
     results.sort(key=lambda x: x["change"], reverse=True)
@@ -221,7 +221,7 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            errors.append(f"{name}: 获取数据失败")
+            # errors.append(f"{name}: 获取数据失败")
 
     # 排序：根据市值（market_cap）降序排列
     results.sort(key=lambda x: x["market_cap"], reverse=True)
@@ -244,6 +244,9 @@ def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], A
     # 定义 UTC+8 时区 (东八区)
     tz_utc8 = timezone(timedelta(hours=8))
     
+    # 获取当前 Unix 时间戳
+    now_ts = time.time()
+    
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -253,6 +256,10 @@ def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], A
 
             if ts is None:
                 raise ValueError("earnings timestamp not found")
+            
+            # 过滤掉早于当前时间的时间点
+            if ts < now_ts:
+                continue
             
             # 将 Unix 时间戳转换为 UTC+8 格式的 datetime 对象
             dt = datetime.fromtimestamp(ts, tz=tz_utc8)
@@ -274,6 +281,64 @@ def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], A
     lines = ["📅 财报日历播报："]
     for r in results:
         lines.append(f"{r['name']}: {r['time']}")
+    lines.extend(errors)
+    return "\n".join(lines)
+
+def volume_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+    """
+    生成成交额报告。
+    成交额 = 当前价格 * 当日成交量。
+    按照成交额从大到小排序。
+    """
+    results = []
+    errors = []
+    for name, symbol in stocks.items():
+        ticker = None
+        try:
+            ticker = ticker_factory(symbol)
+            fast_info = ticker.fast_info
+            price = _number(fast_info.last_price)
+            # 优先尝试从 fast_info 获取当日成交量
+            volume = _number(getattr(fast_info, "day_volume", None))
+            
+            # 兜底：尝试从 info 获取成交量
+            if volume is None:
+                volume = _number(ticker.info.get("volume"))
+            
+            avg_vol_10d = _number(ticker.info.get("averageDailyVolume10Day"))
+            prev_close = _number(fast_info.previous_close)
+            
+            if price is None or volume is None or avg_vol_10d is None or prev_close is None:
+                raise ValueError("volume or price data incomplete")
+            
+            # 计算成交额
+            amount = price * volume
+            # 计算10日平均成交额
+            avg_amount_10d = price * avg_vol_10d
+            # 计算涨跌幅，用于选择图标
+            change = percent_change(price, prev_close)
+            
+            results.append({
+                "name": name,
+                "amount": amount,
+                "avg_amount_10d": avg_amount_10d,
+                "change": change
+            })
+        except Exception as e:
+            _log_failed_ticker(name, symbol, e, ticker)
+            errors.append(f"{name}: 获取成交额失败")
+
+    # 排序：根据成交额（amount）降序排列
+    results.sort(key=lambda x: x["amount"], reverse=True)
+
+    lines = ["📊 今日成交额排行："]
+    for r in results:
+        # 格式化输出：名称: 成交额（亿） (10日均:10日均成交额亿)图标
+        amount_yi = r["amount"] / 1e8
+        avg_amount_yi = r["avg_amount_10d"] / 1e8
+        icon = "💹" if r["change"] >= 0 else "🔻"
+        lines.append(f"{r['name']}: {amount_yi:.2f}亿{icon}均:{avg_amount_yi:.2f}亿")
+    
     lines.extend(errors)
     return "\n".join(lines)
 
