@@ -46,3 +46,6 @@ TARGET_CONTACTS = ("wodejinrongqun", "shuanglang")
 # 程序仅在此时间范围内发送报告，避免深夜打扰
 ACTIVE_START_HOUR = 7  # 开始时间：早上 7 点
 ACTIVE_END_HOUR = 23    # 结束时间：晚上 11 点
+
+# 小红书早安问候配置
+XIAOHONGSHU_CONTACTS = ("baixuegongzhufuwu", "shuanglang")
