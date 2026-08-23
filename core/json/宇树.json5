@@ -1,0 +1,452 @@
+{
+  "info": {
+    "maxAge": 86400, // 数据最大有效时长
+    "priceHint": 2, // 价格小数位提示
+    "previousClose": 150.8, // 昨日收盘价
+    "open": 1100.0, // 今日开盘价
+    "dayLow": 800.08, // 当日最低价
+    "dayHigh": 1100.0, // 当日最高价
+    "regularMarketPreviousClose": 150.8, // 常规市场昨日收盘价
+    "regularMarketOpen": 1100.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 800.08, // 常规市场当日最低价
+    "regularMarketDayHigh": 1100.0, // 常规市场当日最高价
+    "volume": 25657935, // 成交量
+    "regularMarketVolume": 25657935, // 常规市场成交量
+    "averageVolume": 0, // 平均成交量
+    "averageVolume10days": 0, // 10日平均成交量
+    "averageDailyVolume10Day": 0, // 10日日均成交量
+    "bid": 844.95, // 买入价
+    "ask": 845.0, // 卖出价
+    "fiftyTwoWeekLow": 150.0, // 52周最低价
+    "fiftyTwoWeekHigh": 1100.0, // 52周最高价
+    "allTimeHigh": 150.0, // 历史最高价
+    "allTimeLow": 150.0, // 历史最低价
+    "fulldayPrice": 845.0,
+    "fiftyDayAverage": 150.0, // 50日均价
+    "twoHundredDayAverage": 150.0, // 200日均价
+    "currency": "CNY", // 交易货币
+    "tradeable": false, // 是否可交易
+    "quoteType": "EQUITY", // 报价类型
+    "symbol": "688836.SS", // 股票代码
+    "language": "en-US", // 语言
+    "region": "US", // 地区
+    "typeDisp": "Equity", // 资产类型显示
+    "quoteSourceName": "Delayed Quote", // 报价来源
+    "triggerable": false, // 是否可触发
+    "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
+    "fiftyDayAverageChange": 695.0, // 50日均价变动
+    "fiftyDayAverageChangePercent": 4.633333, // 50日均价变动百分比
+    "twoHundredDayAverageChange": 695.0, // 200日均价变动
+    "twoHundredDayAverageChangePercent": 4.633333, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "cryptoTradeable": false, // 是否支持加密货币交易
+    "regularMarketChangePercent": 460.34485, // 常规市场变动百分比
+    "regularMarketPrice": 845.0, // 常规市场当前价格
+    "marketState": "POSTPOST", // 市场状态
+    "corporateActions": [], // 公司行为
+    "hasPrePostMarketData": false, // 是否有盘前盘后数据
+    "firstTradeDateMilliseconds": 1786930200000, // 首次交易日期时间戳
+    "regularMarketChange": 694.2, // 常规市场价格变动
+    "regularMarketDayRange": "800.08 - 1100.0", // 常规市场当日价格范围
+    "fullExchangeName": "Shanghai", // 交易所全称
+    "averageDailyVolume3Month": 0, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 695.0, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 4.633333, // 较52周低点的变动百分比
+    "fiftyTwoWeekRange": "150.0 - 1100.0", // 52周价格范围
+    "fiftyTwoWeekHighChange": -255.0, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.23181818, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": 0.0, // 52周价格变动百分比
+    "regularMarketTime": 1787122804, // 常规市场时间戳
+    "exchange": "SHH", // 交易所代码
+    "messageBoardId": "finmb_567900872", // 留言板ID
+    "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
+    "exchangeTimezoneShortName": "CST", // 时区简称
+    "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
+    "market": "cn_market", // 市场类别
+    "esgPopulated": false, // 是否填充ESG数据
+    "trailingPegRatio": null // 滚动PEG比率
+  },
+  "news": [ // 最新相关新闻
+    {
+      "id": "6f7254c2-f5d6-3b99-a092-0078481a7e29",
+      "content": {
+        "id": "6f7254c2-f5d6-3b99-a092-0078481a7e29",
+        "contentType": "STORY",
+        "title": "More C-3PO Than Factory Welder: The 460% IPO Surge of a Chinese Robot Maker’s Stock", // 职位
+        "description": "",
+        "summary": "If humanoid robots are the future, then Elon Musk faces a formidable Chinese rival.  China’s  Unitree Robotics  surged 460% on its trading debut in Shanghai Wednesday, giving the company a market capitalization of around $51 billion.  Robots, of course, have been around for decades.",
+        "pubDate": "2026-08-19T12:20:00Z",
+        "displayTime": "2026-08-19T12:20:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/6f7254c2-f5d6-3b99-a092-0078481a7e29/more-c-3po-than-factory.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/fba7d4eade89bd49ce2970c02fb77b14.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/P42tcev8stPyAOhoJE5PPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fba7d4eade89bd49ce2970c02fb77b14.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lEjD51VMhwDwgO1VnVNLuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/fba7d4eade89bd49ce2970c02fb77b14.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "81c3cefe-7df4-397f-9b50-8b2399d5d220",
+      "content": {
+        "id": "81c3cefe-7df4-397f-9b50-8b2399d5d220",
+        "contentType": "STORY",
+        "title": "Stocks to Watch: Oracle, SK Hynix, Moderna, Unitree", // 职位
+        "description": "",
+        "summary": "↘️ Oracle (ORCL): Shares fell premarket. The Journal reported that OpenAI's revenue growth was outpaced by Anthropic in the second quarter, while its losses deepened. Oracle's performance hinges on OpenAI's ability to make good on its massive commitments.",
+        "pubDate": "2026-08-19T11:56:07Z",
+        "displayTime": "2026-08-19T11:56:07Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/81c3cefe-7df4-397f-9b50-8b2399d5d220/stocks-to-watch-oracle-sk.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/bb3d73cdd154f8d5c66a54ecd696f95a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0NGkNupxE2ftLFjahNhEHw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/bb3d73cdd154f8d5c66a54ecd696f95a.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0Wqu1.3v9LeXKLFDjoerkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/bb3d73cdd154f8d5c66a54ecd696f95a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/stocks-to-watch-sk-hynix-la-z-boy-unitree-target-c8MMp4MagwjHSq0QEOSU?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dc7cc7d6-95eb-32ad-8f7e-010dc398da97",
+      "content": {
+        "id": "dc7cc7d6-95eb-32ad-8f7e-010dc398da97",
+        "contentType": "STORY",
+        "title": "Unitree Robotics stock soars 460% in Shanghai IPO debut", // 职位
+        "description": "",
+        "summary": "The Hangzhou-based humanoid robot maker closed at 845 yuan on Wednesday, giving it a market value of around $50 billion",
+        "pubDate": "2026-08-19T11:15:14Z",
+        "displayTime": "2026-08-19T11:15:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/74bb27302d2bca531017b57b8727fcb5.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/D3ndTBitgRLoSyhbLTnopg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/74bb27302d2bca531017b57b8727fcb5.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_pA1I8iACtteITMT453E.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/74bb27302d2bca531017b57b8727fcb5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
+        },
+        "canonicalUrl": {
+          "url": "https://qz.com/unitree-robotics-ipo-shanghai-debut-081926",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unitree-robotics-stock-soars-460-111514463.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8d85318e-1ca5-3b7b-aa51-6b702fc938a8",
+      "content": {
+        "id": "8d85318e-1ca5-3b7b-aa51-6b702fc938a8",
+        "contentType": "STORY",
+        "title": "Unitree Stock Leaps in Market Debut", // 职位
+        "description": "",
+        "summary": "China's Unitree just showcased a robot that broke world records for jumping and sprinting. Its new humanoid isn't the only thing defying gravity today. Shares in Unitree, officially known as Yushu Technology, vaulted more than fivefold in their trading debut in Shanghai today.",
+        "pubDate": "2026-08-19T08:31:27Z",
+        "displayTime": "2026-08-19T08:31:27Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/8d85318e-1ca5-3b7b-aa51-6b702fc938a8/unitree-stock-leaps-in-market.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/387ded5ecf2c05db4c1f22380b3b7ae6.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JHmTz9QPD6LrKtkMXYZIFw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/387ded5ecf2c05db4c1f22380b3b7ae6.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ken9i_pnAN4.gZS.We_5pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/387ded5ecf2c05db4c1f22380b3b7ae6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/chinese-robot-maker-unitree-leaps-in-stock-market-debut-m0BMYhmom5gFRQEFGTNs?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c478f523-3919-3fbe-8ff8-abd942cc3b11",
+      "content": {
+        "id": "c478f523-3919-3fbe-8ff8-abd942cc3b11",
+        "contentType": "STORY",
+        "title": "Chinese robot maker Unitree raises $905m as Shanghai shares soar 542%", // 职位
+        "description": "",
+        "summary": "Shares in Unitree Robotics, the Chinese humanoid robot maker, surged 542% on its Shanghai market debut on Wednesday after raising about 6.1 billion yuan ($905 million) in an initial public offering. The Hangzhou-based company saw its shares reach 968.1 yuan each, having touched a high of...",
+        "pubDate": "2026-08-19T06:58:00Z",
+        "displayTime": "2026-08-19T06:58:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/1fe49696f7fb654b693c67b7709ac29a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Chinese robot maker Unitree raises $905m as Shanghai shares soar 542%",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QEEH.rwRC88bSyfq1Ac4tw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/1fe49696f7fb654b693c67b7709ac29a.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2LF4ZvqGkc7dDyWvq49aQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/1fe49696f7fb654b693c67b7709ac29a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1097250/chinese-robot-maker-unitree-raises-905m-as-shanghai-shares-soar-542-1097250.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/chinese-robot-maker-unitree-raises-065800761.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "19815d0c-e255-3f16-9d07-b0ed5a7c29f9",
+      "content": {
+        "id": "19815d0c-e255-3f16-9d07-b0ed5a7c29f9",
+        "contentType": "STORY",
+        "title": "Unitree Stock Opens 629% Higher After Crypto Traders Underpriced Its Debut", // 职位
+        "description": "",
+        "summary": "Unitree's IPO debut opened 629% above its issue price, lifting China's top humanoid robot maker to $66 billion.",
+        "pubDate": "2026-08-19T05:12:56Z",
+        "displayTime": "2026-08-19T05:12:56Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/b3e7c3ca433a34c9ca4e6078ba847137.jpg",
+          "originalWidth": 5120,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/76VNMHt6VVuwHF8D4rO7_g--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/b3e7c3ca433a34c9ca4e6078ba847137.jpg",
+              "width": 5120,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ab1Fsd0g9mSL5wK011Qbow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/b3e7c3ca433a34c9ca4e6078ba847137.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/unitree-ipo-shanghai-debut-629-percent/",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unitree-stock-opens-629-higher-051256241.html",
+          "site": "finance",
+          "region": "US", // 地区
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    }
+  ],
+  "fast_info": { // 快速元数据
+    "currency": "CNY", // 交易货币
+    "dayHigh": 1100.0, // 当日最高价
+    "dayLow": 800.0800170898438, // 当日最低价
+    "exchange": "SHH", // 交易所代码
+    "fiftyDayAverage": 150.0, // 50日均价
+    "lastPrice": 845.0,
+    "lastVolume": 25657935,
+    "marketCap": null, // 总市值
+    "open": 1100.0, // 今日开盘价
+    "previousClose": null, // 昨日收盘价
+    "quoteType": "EQUITY", // 报价类型
+    "regularMarketPreviousClose": 150.0, // 常规市场昨日收盘价
+    "shares": null,
+    "tenDayAverageVolume": 0,
+    "threeMonthAverageVolume": 0,
+    "timezone": "Asia/Shanghai",
+    "twoHundredDayAverage": 150.0, // 200日均价
+    "yearChange": null,
+    "yearHigh": 150.0,
+    "yearLow": 150.0
+  },
+  "calendar": "{'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': None, 'Revenue Low': None, 'Revenue Average': None}" // 财报日历
+}

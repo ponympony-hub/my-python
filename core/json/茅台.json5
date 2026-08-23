@@ -87,76 +87,77 @@
     "executiveTeam": [], // 执行团队
     "maxAge": 86400, // 数据最大有效时长
     "priceHint": 2, // 价格小数位提示
-    "previousClose": 1341.99, // 昨日收盘价
-    "open": 1295.0, // 今日开盘价
-    "dayLow": 1280.34, // 当日最低价
-    "dayHigh": 1301.0, // 当日最高价
-    "regularMarketPreviousClose": 1341.99, // 常规市场昨日收盘价
-    "regularMarketOpen": 1295.0, // 常规市场今日开盘价
-    "regularMarketDayLow": 1280.34, // 常规市场当日最低价
-    "regularMarketDayHigh": 1301.0, // 常规市场当日最高价
+    "previousClose": 1297.99, // 昨日收盘价
+    "open": 1300.0, // 今日开盘价
+    "dayLow": 1290.5, // 当日最低价
+    "dayHigh": 1308.88, // 当日最高价
+    "regularMarketPreviousClose": 1297.99, // 常规市场昨日收盘价
+    "regularMarketOpen": 1300.0, // 常规市场今日开盘价
+    "regularMarketDayLow": 1290.5, // 常规市场当日最低价
+    "regularMarketDayHigh": 1308.88, // 常规市场当日最高价
     "dividendRate": 51.98,
-    "dividendYield": 3.87,
+    "dividendYield": 4.0,
     "exDividendDate": 1782432000,
-    "payoutRatio": 0.78180003, // 股利支付率
+    "payoutRatio": 0.79910004, // 股利支付率
     "fiveYearAvgDividendYield": 2.16,
     "beta": 0.286, // 贝塔系数
-    "trailingPE": 19.58337, // 滚动市盈率 (TTM)
-    "forwardPE": 17.55319, // 预测市盈率
-    "volume": 7842956, // 成交量
-    "regularMarketVolume": 7842956, // 常规市场成交量
-    "averageVolume": 4625494, // 平均成交量
-    "averageVolume10days": 3537498, // 10日平均成交量
-    "averageDailyVolume10Day": 3537498, // 10日日均成交量
-    "bid": 1293.08, // 买入价
-    "ask": 1293.09, // 卖出价
+    "trailingPE": 20.111948, // 滚动市盈率 (TTM)
+    "forwardPE": 18.105415, // 预测市盈率
+    "volume": 3754751, // 成交量
+    "regularMarketVolume": 3754751, // 常规市场成交量
+    "averageVolume": 4663363, // 平均成交量
+    "averageVolume10days": 3973050, // 10日平均成交量
+    "averageDailyVolume10Day": 3973050, // 10日日均成交量
+    "bid": 1305.0, // 买入价
+    "ask": 1307.88, // 卖出价
     "bidSize": 0, // 买盘量
     "askSize": 0, // 卖盘量
-    "marketCap": 1616468115456, // 总市值
-    "nonDilutedMarketCap": 1677597007725, // 非稀释市值
+    "marketCap": 1634956869632, // 总市值
+    "nonDilutedMarketCap": 1622593417281, // 非稀释市值
     "fiftyTwoWeekLow": 1151.01, // 52周最低价
     "fiftyTwoWeekHigh": 1568.0, // 52周最高价
     "allTimeHigh": 2627.88, // 历史最高价
     "allTimeLow": 4.987092, // 历史最低价
-    "priceToSalesTrailing12Months": 9.500142, // 市销率 (TTM)
-    "fiftyDayAverage": 1266.6932, // 50日均价
-    "twoHundredDayAverage": 1377.9355, // 200日均价
+    "fulldayPrice": 1307.88,
+    "priceToSalesTrailing12Months": 9.608802, // 市销率 (TTM)
+    "fiftyDayAverage": 1267.798, // 50日均价
+    "twoHundredDayAverage": 1376.5487, // 200日均价
     "trailingAnnualDividendRate": 51.95, // 年度股息率
-    "trailingAnnualDividendYield": 0.038711168, // 年度股息收益率
+    "trailingAnnualDividendYield": 0.04002342, // 年度股息收益率
     "currency": "CNY", // 交易货币
     "tradeable": false, // 是否可交易
-    "enterpriseValue": 1633348878336, // 企业价值 (EV)
+    "enterpriseValue": 1578345299968, // 企业价值 (EV)
     "profitMargins": 0.4786, // 利润率
     "floatShares": 540947811, // 流通股本
     "sharesOutstanding": 1250081601, // 发行在外股份总数
     "heldPercentInsiders": 0.62118, // 内部人士持股比例
-    "heldPercentInstitutions": 0.072270006, // 机构持股比例
+    "heldPercentInstitutions": 0.07222, // 机构持股比例
     "impliedSharesOutstanding": 1250081601, // 隐含发行在外股份
     "bookValue": 200.99, // 每股净资产
-    "priceToBook": 6.4336033, // 市净率 (P/B)
+    "priceToBook": 6.5071893, // 市净率 (P/B)
     "lastFiscalYearEnd": 1767139200, // 上个财年结束日
     "nextFiscalYearEnd": 1798675200, // 下个财年结束日
     "mostRecentQuarter": 1782777600, // 最近一个季度日
     "earningsQuarterlyGrowth": -0.069, // 季度盈利增长
     "netIncomeToCommon": 81433985024, // 归属于普通股股东的净利润
-    "trailingEps": 66.03, // 滚动每股收益 (EPS TTM)
-    "forwardEps": 73.66695, // 预测每股收益
-    "pegRatio": 1.93, // PEG比率
+    "trailingEps": 65.03, // 滚动每股收益 (EPS TTM)
+    "forwardEps": 72.23695, // 预测每股收益
+    "pegRatio": 2.32, // PEG比率
     "lastSplitFactor": "11:10",
     "lastSplitDate": 1437091200,
-    "enterpriseToRevenue": 9.599, // 企业价值/营收比
-    "enterpriseToEbitda": 14.591, // 企业价值/EBITDA比
-    "52WeekChange": -0.060560048, // 52周价格变动
-    "SandP52WeekChange": 0.2072537, // 标普500指数52周变动
+    "enterpriseToRevenue": 9.276, // 企业价值/营收比
+    "enterpriseToEbitda": 14.1, // 企业价值/EBITDA比
+    "52WeekChange": -0.1048345, // 52周价格变动
+    "SandP52WeekChange": 0.20263052, // 标普500指数52周变动
     "lastDividendValue": 28.02423,
     "lastDividendDate": 1782432000,
     "quoteType": "EQUITY", // 报价类型
-    "currentPrice": 1293.09, // 当前价格
+    "currentPrice": 1307.88, // 当前价格
     "targetHighPrice": 2100.0, // 目标最高价
-    "targetLowPrice": 1395.0, // 目标最低价
-    "targetMeanPrice": 1720.1111, // 目标平均价
+    "targetLowPrice": 1295.0, // 目标最低价
+    "targetMeanPrice": 1697.449, // 目标平均价
     "targetMedianPrice": 1670.98, // 目标中位价
-    "recommendationMean": 1.28, // 建议平均值
+    "recommendationMean": 1.32, // 建议平均值
     "recommendationKey": "strong_buy", // 推荐评级
     "numberOfAnalystOpinions": 19, // 分析师人数
     "totalCash": 55334510592, // 现金总额
@@ -188,20 +189,37 @@
     "customPriceAlertConfidence": "LOW", // 自定义价格警报信心度
     "shortName": "KWEICHOW MOUTAI", // 公司简称
     "longName": "Kweichow Moutai Co., Ltd.", // 公司正式名称
+    "earningsTimestampStart": 1754564340, // 财报发布起始时间戳
+    "earningsTimestampEnd": 1755172800, // 财报发布截止时间戳
+    "earningsCallTimestampStart": 1747036800, // 财报电话会议起始时间戳
+    "earningsCallTimestampEnd": 1747036800, // 财报电话会议截止时间戳
+    "isEarningsDateEstimate": false, // 财报日期是否为估计值
+    "epsTrailingTwelveMonths": 65.03, // 过去12个月每股收益
+    "epsForward": 72.23695, // 预测每股收益
+    "epsCurrentYear": 66.71087, // 本年度每股收益
+    "priceEpsCurrentYear": 19.605202, // 本年度股价/EPS比
+    "fiftyDayAverageChange": 40.08203, // 50日均价变动
+    "fiftyDayAverageChangePercent": 0.031615473, // 50日均价变动百分比
+    "twoHundredDayAverageChange": -68.6687, // 200日均价变动
+    "twoHundredDayAverageChangePercent": -0.049884688, // 200日均价变动百分比
+    "sourceInterval": 15, // 数据源更新间隔
+    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
+    "averageAnalystRating": "1.3 - Strong Buy", // 平均分析师评级
+    "cryptoTradeable": false, // 是否支持加密货币交易
     "hasPrePostMarketData": false, // 是否有盘前盘后数据
     "firstTradeDateMilliseconds": 998875800000, // 首次交易日期时间戳
-    "regularMarketChange": -48.900024, // 常规市场价格变动
-    "regularMarketDayRange": "1280.34 - 1301.0", // 常规市场当日价格范围
+    "regularMarketChange": 9.890015, // 常规市场价格变动
+    "regularMarketDayRange": "1290.5 - 1308.88", // 常规市场当日价格范围
     "fullExchangeName": "Shanghai", // 交易所全称
-    "averageDailyVolume3Month": 4625494, // 3个月日均成交量
-    "fiftyTwoWeekLowChange": 142.07996, // 较52周低点的变动
-    "fiftyTwoWeekLowChangePercent": 0.12343937, // 较52周低点的变动百分比
+    "averageDailyVolume3Month": 4663363, // 3个月日均成交量
+    "fiftyTwoWeekLowChange": 156.87, // 较52周低点的变动
+    "fiftyTwoWeekLowChangePercent": 0.13628899, // 较52周低点的变动百分比
     "fiftyTwoWeekRange": "1151.01 - 1568.0", // 52周价格范围
-    "fiftyTwoWeekHighChange": -274.91003, // 较52周高点的变动
-    "fiftyTwoWeekHighChangePercent": -0.17532527, // 较52周高点的变动百分比
-    "fiftyTwoWeekChangePercent": -6.0560045, // 52周价格变动百分比
+    "fiftyTwoWeekHighChange": -260.12, // 较52周高点的变动
+    "fiftyTwoWeekHighChangePercent": -0.16589285, // 较52周高点的变动百分比
+    "fiftyTwoWeekChangePercent": -10.48345, // 52周价格变动百分比
     "corporateActions": [], // 公司行为
-    "regularMarketTime": 1786950001, // 常规市场时间戳
+    "regularMarketTime": 1787122802, // 常规市场时间戳
     "exchange": "SHH", // 交易所代码
     "messageBoardId": "finmb_9475874", // 留言板ID
     "exchangeTimezoneName": "Asia/Shanghai", // 交易所时区
@@ -209,27 +227,10 @@
     "gmtOffSetMilliseconds": 28800000, // GMT偏移毫秒
     "market": "cn_market", // 市场类别
     "esgPopulated": false, // 是否填充ESG数据
-    "earningsTimestampStart": 1754564340, // 财报发布起始时间戳
-    "earningsTimestampEnd": 1755172800, // 财报发布截止时间戳
-    "earningsCallTimestampStart": 1747036800, // 财报电话会议起始时间戳
-    "earningsCallTimestampEnd": 1747036800, // 财报电话会议截止时间戳
-    "isEarningsDateEstimate": false, // 财报日期是否为估计值
-    "epsTrailingTwelveMonths": 66.03, // 过去12个月每股收益
-    "epsForward": 73.66695, // 预测每股收益
-    "epsCurrentYear": 67.095, // 本年度每股收益
-    "priceEpsCurrentYear": 19.272524, // 本年度股价/EPS比
-    "fiftyDayAverageChange": 26.396729, // 50日均价变动
-    "fiftyDayAverageChangePercent": 0.020839086, // 50日均价变动百分比
-    "twoHundredDayAverageChange": -84.84558, // 200日均价变动
-    "twoHundredDayAverageChangePercent": -0.061574418, // 200日均价变动百分比
-    "sourceInterval": 15, // 数据源更新间隔
-    "exchangeDataDelayedBy": 15, // 交易所数据延迟（分钟）
-    "averageAnalystRating": "1.3 - Strong Buy", // 平均分析师评级
-    "cryptoTradeable": false, // 是否支持加密货币交易
     "marketState": "POSTPOST", // 市场状态
-    "regularMarketChangePercent": -3.6438444, // 常规市场变动百分比
-    "regularMarketPrice": 1293.09, // 常规市场当前价格
-    "trailingPegRatio": 1.925 // 滚动PEG比率
+    "regularMarketChangePercent": 0.7619484, // 常规市场变动百分比
+    "regularMarketPrice": 1307.88, // 常规市场当前价格
+    "trailingPegRatio": 2.3157 // 滚动PEG比率
   },
   "news": [ // 最新相关新闻
     {
@@ -402,27 +403,27 @@
   ],
   "fast_info": { // 快速元数据
     "currency": "CNY", // 交易货币
-    "dayHigh": 1301.0, // 当日最高价
-    "dayLow": 1280.3399658203125, // 当日最低价
+    "dayHigh": 1308.8800048828125, // 当日最高价
+    "dayLow": 1290.5, // 当日最低价
     "exchange": "SHH", // 交易所代码
-    "fiftyDayAverage": 1266.6932006835937, // 50日均价
-    "lastPrice": 1293.0899658203125,
-    "lastVolume": 7842956,
-    "marketCap": 1616467974709.6914, // 总市值
-    "open": 1295.0, // 今日开盘价
-    "previousClose": 1342.4100341796875, // 昨日收盘价
+    "fiftyDayAverage": 1267.7980004882813, // 50日均价
+    "lastPrice": 1307.8800048828125,
+    "lastVolume": 3754751,
+    "marketCap": 1634956730419.794, // 总市值
+    "open": 1300.0, // 今日开盘价
+    "previousClose": 1298.2099609375, // 昨日收盘价
     "quoteType": "EQUITY", // 报价类型
-    "regularMarketPreviousClose": 1341.989990234375, // 常规市场昨日收盘价
+    "regularMarketPreviousClose": 1297.989990234375, // 常规市场昨日收盘价
     "shares": 1250081601,
-    "tenDayAverageVolume": 3537498,
-    "threeMonthAverageVolume": 4643845,
+    "tenDayAverageVolume": 3973050,
+    "threeMonthAverageVolume": 4658165,
     "timezone": "Asia/Shanghai",
-    "twoHundredDayAverage": 1378.0070025634766, // 200日均价
-    "yearChange": -0.06056003483767938,
+    "twoHundredDayAverage": 1376.3290026855468, // 200日均价
+    "yearChange": -0.10483448949353448,
     "yearHigh": 1568.0,
     "yearLow": 1151.010009765625
   },
-  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 6, 26), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 40606330000, 'Revenue Low': 40606330000, 'Revenue Average': 40606330000}", // 财报日历
+  "calendar": "{'Ex-Dividend Date': datetime.date(2026, 6, 26), 'Earnings Date': [], 'Earnings High': None, 'Earnings Low': None, 'Earnings Average': None, 'Revenue High': 42000000000, 'Revenue Low': 40606330000, 'Revenue Average': 41303165000}", // 财报日历
   "actions": [ // 分红及拆股历史
     {
       "Dividends": 0.119408,
