@@ -70,11 +70,12 @@ def generate_ai_morning_greeting(now: datetime | None = None) -> str:
     current = now or datetime.now()
     weekdays = ("星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日")
     prompt = (
-        "请为微信三人群写一条今天早上发送的微信早安问候。"
+        "请为微信群写一条今天早上发送的微信早安问候。"
         "要求：中文、开心温暖、正能量、像小红书风格+两个换行+英文翻译；"
         "包含 2 个合适 emoji 和 2 个话题标签；"
         "正文约 20 个汉字；只输出问候语本身，不要解释或引号。"
-        f"今天是 {current:%Y-%m-%d} {weekdays[current.weekday()]}，"
+        f"今天是 {current:%Y-%m-%d} "
+        # f"{weekdays[current.weekday()]}，"
         "请结合今天日子和清晨氛围创作一条全新的内容。"
     )
     print(prompt)
