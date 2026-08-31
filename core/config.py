@@ -40,7 +40,9 @@ STOCKS = {
 }
 
 # 微信接收人配置 (需要是微信中搜索得到的备注名或昵称)
-TARGET_CONTACTS = ("wodejinrongqun", "shuanglang")
+TARGET_CONTACTS = ("zhengquanfengyun", "shuanglang")
+
+FINANCIAL_REPORT_CONTACTS = ("caibaobaogao", "shuanglang")
 
 # 活跃时间段设置 (24小时制)
 # 程序仅在此时间范围内发送报告，避免深夜打扰

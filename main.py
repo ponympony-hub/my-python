@@ -19,20 +19,20 @@ def main() -> None:
     print("正在初始化所有定时报告任务...")
     
     # 立即执行一次首轮任务，确保程序启动时就有输出
-    # earnings_job()
-    # volume_job()
-    # market_cap_job()
-    # daily_job()
-    # yearly_job()
+    earnings_job()
+    volume_job()
+    market_cap_job()
+    daily_job()
+    yearly_job()
 
     # 注册不同频率的定时任务
     # 使用 schedule 库提供的 DSL (领域特定语言) 风格
-    # schedule.every(200).minutes.do(daily_job)      # 每 120 分钟播报今日行情
-    # schedule.every(230).minutes.do(yearly_job)     # 每 123 分钟播报年度行情
-    # schedule.every(260).minutes.do(market_cap_job) # 每 130 分钟播报市值排行
-    # schedule.every(300).minutes.do(volume_job)     # 每 150 分钟播报成交额排行
-    # schedule.every(330).minutes.do(earnings_job)  # 每 分钟播报财报日历
-    run_daily_greeting_job(greeting_job)
+    schedule.every(200).minutes.do(daily_job)      # 每 120 分钟播报今日行情
+    schedule.every(230).minutes.do(yearly_job)     # 每 123 分钟播报年度行情
+    schedule.every(260).minutes.do(market_cap_job) # 每 130 分钟播报市值排行
+    schedule.every(300).minutes.do(volume_job)     # 每 150 分钟播报成交额排行
+    schedule.every(480).minutes.do(earnings_job)  # 每 8 小时播报财报日历
+    # run_daily_greeting_job(greeting_job) # 每日问好
 
     print("✅ 定时任务已成功注册，程序正在后台运行中...")
     print("提示：按 Ctrl+C 可以停止程序。")
