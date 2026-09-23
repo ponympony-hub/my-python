@@ -20,14 +20,14 @@ class FakeTicker:
     这样测试就不需要联网获取真实数据，运行速度快且结果可控。
     """
     fast_info = SimpleNamespace(
-        last_price=110, 
-        previous_close=100, 
-        day_high=115, 
+        last_price=110,
+        previous_close=100,
+        day_high=115,
         day_low=95
     )
     info = {
-        "fiftyTwoWeekHigh": 120, 
-        "fiftyTwoWeekLow": 80, 
+        "fiftyTwoWeekHigh": 120,
+        "fiftyTwoWeekLow": 80,
         "marketCap": 2_000_000_000_000,
         "nonDilutedMarketCap": 2_000_000_000_000
     }
@@ -39,16 +39,34 @@ class ReportingTests(unittest.TestCase):
         """测试每日报告的涨跌幅和振幅计算"""
         # 使用 lambda 表达式创建一个简单的工厂函数返回模拟对象
         report = daily_report({"测试": "TEST"}, lambda _: FakeTicker())
-        # 验证输出中是否包含预期的格式化字符串
-        self.assertIn("测试:110 💹10.0%↕️20%", report)
+        self.assertEqual(report.title, "📊 今日资产播报")
+        self.assertEqual(len(report.rows), 1)
+        row = report.rows[0]
+        # 现价 110；涨幅 (110-100)/100=10.0%；振幅 15-(-5)=20%
+        self.assertIn("测试", row["name"])
+        self.assertEqual(row["price"], "110")
+        self.assertEqual(row["change"], "💹+10.0%")
+        self.assertEqual(row["amplitude"], "20%")
 
     def test_yearly_and_market_cap_reports(self):
         """测试年度报告和市值报告"""
         factory = lambda _: FakeTicker()
-        # 验证年度报告格式
-        self.assertIn("测试:120👆110🔻80↕️50%", yearly_report({"测试": "TEST"}, factory))
-        # 验证市值报告格式 (2万亿)
-        self.assertIn("测试:110 💹10% ↕️2.00万亿", market_cap_report({"测试": "TEST"}, factory))
+
+        # 年度报告：52周高120 / 现价110 / 52周低80 / 振幅 (120-80)/80=50%
+        yearly = yearly_report({"测试": "TEST"}, factory)
+        self.assertEqual(yearly.title, "📊 年度资产播报")
+        yrow = yearly.rows[0]
+        self.assertEqual(yrow["high"], "120")
+        self.assertEqual(yrow["price"], "110")
+        self.assertEqual(yrow["low"], "80")
+        self.assertEqual(yrow["amplitude"], "50%")
+
+        # 市值报告：市值 2e12 = 2.00 万亿
+        cap = market_cap_report({"测试": "TEST"}, factory)
+        self.assertEqual(cap.title, "📊 市值播报")
+        crow = cap.rows[0]
+        self.assertEqual(crow["change"], "💹+10.0%")
+        self.assertEqual(crow["market_cap"], "2.00")
 
     def test_active_hours_are_consistent(self):
         """测试活跃时间段检查函数"""
@@ -64,33 +82,30 @@ class ReportingTests(unittest.TestCase):
         import time
         now = time.time()
         # 准备数据：两个将来，一个过去
-        future_ts_1 = now + 10000 
+        future_ts_1 = now + 10000
         future_ts_2 = now + 20000
         past_ts = now - 10000
-        
+
         data_map = {
             "T1": {"earningsTimestampStart": future_ts_2},
             "T2": {"earningsTimestampStart": past_ts},
             "T3": {"earningsTimestampStart": future_ts_1},
         }
-        
+
         def factory(symbol):
             mock = MagicMock()
             mock.info = data_map.get(symbol, {})
             return mock
 
         report = earnings_report({"公司A": "T1", "公司B": "T2", "公司C": "T3"}, factory)
-        
-        # 验证过滤：公司B (过去时间) 应该被忽略，不出现在报告中
-        self.assertNotIn("公司B", report)
-        self.assertIn("公司A", report)
-        self.assertIn("公司C", report)
-        
+        self.assertEqual(report.title, "📅 财报日历播报")
+
+        names = [r["name"] for r in report.rows]
+        # 验证过滤：公司B (过去时间) 应该被忽略
+        self.assertNotIn("公司B", "".join(names))
         # 验证排序：公司C (较近将来) 应该在 公司A (较远将来) 之前
-        lines = [line for line in report.split("\n") if line.strip()]
-        # lines[0] 为标题 "📅 财报日历播报："
-        self.assertIn("公司C", lines[1])
-        self.assertIn("公司A", lines[2])
+        self.assertIn("公司C", names[0])
+        self.assertIn("公司A", names[1])
 
     def test_volume_report_sorting_and_formatting(self):
         """测试成交额报告的计算、排序和单位格式化（包含10日均额和涨跌标识）"""
@@ -98,8 +113,8 @@ class ReportingTests(unittest.TestCase):
             def __init__(self, price, prev_close, vol, avg_vol):
                 # 模拟 fast_info 属性
                 self.fast_info = SimpleNamespace(
-                    last_price=price, 
-                    previous_close=prev_close, 
+                    last_price=price,
+                    previous_close=prev_close,
                     day_volume=vol
                 )
                 self.info = {"averageDailyVolume10Day": avg_vol}
@@ -108,15 +123,21 @@ class ReportingTests(unittest.TestCase):
             "V1": VolTicker(100, 90, 1_000_000, 800_000),    # 额:1亿, 均额:0.8亿, 涨 💹
             "V2": VolTicker(200, 210, 2_000_000, 3_000_000), # 额:4亿, 均额:6.0亿, 跌 🔻
         }
-        
+
         report = volume_report({"股1": "V1", "股2": "V2"}, lambda s: data_map[s])
-        
+        self.assertEqual(report.title, "📊 今日成交额排行")
+
         # 验证排序：股2 (4亿) 应该排在 股1 (1亿) 前面
-        lines = [line for line in report.split("\n") if line.strip()]
-        # 股2: 4.00亿 (10日均:6.00亿)🔻
-        self.assertIn("股2: 4.00亿 (10日均:6.00亿)🔻", lines[1])
-        # 股1: 1.00亿 (10日均:0.80亿)💹
-        self.assertIn("股1: 1.00亿 (10日均:0.80亿)💹", lines[2])
+        self.assertEqual(len(report.rows), 2)
+        self.assertIn("股2", report.rows[0]["name"])
+        self.assertEqual(report.rows[0]["amount"], "4.00")
+        self.assertEqual(report.rows[0]["avg_amount"], "6.00")
+        self.assertEqual(report.rows[0]["change"], "🔻")
+
+        self.assertIn("股1", report.rows[1]["name"])
+        self.assertEqual(report.rows[1]["amount"], "1.00")
+        self.assertEqual(report.rows[1]["avg_amount"], "0.80")
+        self.assertEqual(report.rows[1]["change"], "💹")
 
 if __name__ == "__main__":
     # 运行所有测试

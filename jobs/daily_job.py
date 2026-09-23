@@ -10,8 +10,8 @@ from datetime import datetime
 # 这对于从命令行直接运行脚本非常有用
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, TARGET_CONTACTS
-from core.reporting import daily_report, is_active_hour, run_scheduler, send_wechat_message
+from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, DAILY_WEBHOOK
+from core.reporting import daily_report, is_active_hour, run_scheduler, send_feishu_table_message
 
 def job() -> None:
     """定义单次执行的任务逻辑"""
@@ -22,9 +22,9 @@ def job() -> None:
         return
     
     # 生成报告内容
-    report_content = daily_report(STOCKS)
-    # 发送微信消息
-    send_wechat_message(TARGET_CONTACTS, report_content)
+    report = daily_report(STOCKS)
+    # 发送飞书表格消息
+    send_feishu_table_message(DAILY_WEBHOOK, report)
 
 def main() -> None:
     """主入口：启动调度器，每 30 分钟运行一次"""

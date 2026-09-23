@@ -47,7 +47,7 @@ class GreetingTests(unittest.TestCase):
     def test_job_falls_back_to_template(self):
         with (
             mock.patch("jobs.greeting_job.generate_ai_morning_greeting", side_effect=OSError("network unavailable")) as ai_mock,
-            mock.patch("jobs.greeting_job.send_wechat_message") as send,
+            mock.patch("jobs.greeting_job.send_feishu_text_message") as send,
         ):
             job()
 

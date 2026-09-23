@@ -1,15 +1,17 @@
 """
-核心业务逻辑模块：包含数据格式化、微信推送和调度工具。
+核心业务逻辑模块：包含数据格式化、飞书消息推送和调度工具。
 本模块设计为无副作用导入，方便在各个任务脚本和测试中复用。
 """
 
 from __future__ import annotations
 
+import json
 import logging
-import subprocess
 import sys
 import time
+import urllib.request
 from collections.abc import Callable, Mapping, Sequence
+from dataclasses import dataclass, field
 from datetime import datetime, timezone, timedelta
 from typing import Any
 
@@ -18,12 +20,12 @@ def _setup_logging() -> logging.Logger:
     """初始化日志配置，支持控制台和文件双重输出"""
     l = logging.getLogger(__name__)
     l.setLevel(logging.ERROR)
-    
+
     # 避免重复添加处理器（Handler）
     if not any(isinstance(h, logging.FileHandler) for h in l.handlers):
         # 定义日志格式：时间 - 级别 - 消息
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-        
+
         try:
             # 尝试创建日志文件，编码设为 utf-8 以支持中文
             file_handler = logging.FileHandler("report.log", encoding='utf-8')
@@ -32,16 +34,16 @@ def _setup_logging() -> logging.Logger:
         except Exception:
             # 如果文件不可写（如权限问题），静默跳过
             pass
-            
+
         # 同时输出到控制台，方便实时查看
         stream_handler = logging.StreamHandler(sys.stdout)
         stream_handler.setFormatter(formatter)
         l.addHandler(stream_handler)
-    
+
     # 如果根日志记录器没有配置，进行基础配置，防止消息丢失
     if not logging.getLogger().handlers:
         logging.basicConfig(level=logging.ERROR)
-        
+
     return l
 
 # 全局日志对象
@@ -105,13 +107,41 @@ def _log_failed_ticker(name: str, symbol: str, exc: Exception, ticker: Any = Non
     # 将错误信息和原始数据上下文写入日志
     logger.error(f"数据获取失败 [{name} ({symbol})]: {exc}\n原始数据上下文: {raw}")
 
-def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+# ==================== 结构化报告 ====================
+
+@dataclass
+class Report:
     """
-    生成每日资产报告。
+    结构化报告：标题 + 表格列定义 + 数据行。
+    用于渲染成飞书表格卡片。
+    """
+    title: str
+    columns: list[dict]
+    rows: list[dict] = field(default_factory=list)
+
+
+def _col(name: str, display: str, data_type: str = "text", width: int = 100) -> dict:
+    """表格列定义（data_type 用 lark_md 可渲染加粗/彩色，width 单位为像素）"""
+    return {"name": name, "display_name": display, "data_type": data_type, "width": width}
+
+
+def _pct(v: float, digits: int = 1) -> str:
+    """百分数字符串，带正负号，例如 +10.0% / -3.0%"""
+    sign = "+" if v >= 0 else ""
+    return f"{sign}{v:.{digits}f}%"
+
+
+def _icon(v: float) -> str:
+    """涨跌图标：涨=💹 跌=🔻"""
+    return "💹" if v >= 0 else "🔻"
+
+
+def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> Report:
+    """
+    生成每日资产报告（结构化表格）。
     按照当日涨幅从高到低排序。
     """
     results = []
-    errors = []
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -121,13 +151,13 @@ def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any]
             change = percent_change(price, info.previous_close)
             high_change = percent_change(info.day_high, info.previous_close)
             low_change = percent_change(info.day_low, info.previous_close)
-            
+
             if price is None or change is None or high_change is None or low_change is None:
                 raise ValueError("quote data incomplete")
-            
+
             # 计算日内振幅
             intraday_amplitude = high_change - low_change
-            
+
             results.append({
                 "name": name,
                 "price": price,
@@ -136,29 +166,33 @@ def daily_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any]
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            # errors.append(f"{name}: 获取数据失败")
 
     # 排序：根据涨幅（change）降序排列
     results.sort(key=lambda x: x["change"], reverse=True)
 
-    lines = ["📊 今日资产播报："]
+    columns = [
+        _col("name", "名称", "lark_md", 90),
+        _col("price", "现价", "text", 90),
+        _col("change", "涨跌幅", "lark_md", 110),
+        _col("amplitude", "振幅", "text", 90),
+    ]
+    rows = []
     for r in results:
-        # 根据涨跌选择图标
-        icon = "💹" if r["change"] >= 0 else "🔻"
-        # 格式化输出：名称:价格 图标 涨幅% ↕️振幅%
-        lines.append(f"{r['name']}:{r['price']:.0f} {icon}{r['change']:.1f}%↕️{r['intraday_amplitude']:.0f}%")
-    
-    # 将错误信息追加在最后
-    lines.extend(errors)
-    return "\n".join(lines)
+        rows.append({
+            "name": f"**{r['name']}**",
+            "price": f"{r['price']:.0f}",
+            "change": f"{_icon(r['change'])}{_pct(r['change'])}",
+            "amplitude": f"{r['intraday_amplitude']:.0f}%",
+        })
+    return Report("📊 今日资产播报", columns, rows)
 
-def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+
+def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> Report:
     """
-    生成年度（52周）资产报告。
+    生成年度（52周）资产报告（结构化表格）。
     按照 52 周振幅从高到低排序。
     """
     results = []
-    errors = []
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -167,13 +201,13 @@ def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             info = ticker.info
             high = _number(info.get("fiftyTwoWeekHigh"))
             low = _number(info.get("fiftyTwoWeekLow"))
-            
+
             if price is None or high is None or low is None or low <= 0:
                 raise ValueError("52-week data incomplete")
-            
+
             # 计算 52 周振幅
             amplitude = (high - low) / low * 100
-            
+
             results.append({
                 "name": name,
                 "price": price,
@@ -183,25 +217,35 @@ def yearly_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            errors.append(f"{name}: 获取数据失败")
 
     # 排序：根据年度振幅（amplitude）降序排列
     results.sort(key=lambda x: x["amplitude"], reverse=True)
 
-    lines = ["📊 年度资产播报："]
+    columns = [
+        _col("name", "名称", "lark_md", 90),
+        _col("high", "52周高", "text", 100),
+        _col("price", "现价", "text", 90),
+        _col("low", "52周低", "text", 100),
+        _col("amplitude", "振幅", "text", 90),
+    ]
+    rows = []
     for r in results:
-        # 格式化输出：名称:最高👆当前🔻最低↕️振幅%
-        lines.append(f"{r['name']}:{r['high']:.0f}👆{r['price']:.0f}🔻{r['low']:.0f}↕️{r['amplitude']:.0f}%")
-    lines.extend(errors)
-    return "\n".join(lines)
+        rows.append({
+            "name": f"**{r['name']}**",
+            "high": f"{r['high']:.0f}",
+            "price": f"{r['price']:.0f}",
+            "low": f"{r['low']:.0f}",
+            "amplitude": f"{r['amplitude']:.0f}%",
+        })
+    return Report("📊 年度资产播报", columns, rows)
 
-def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+
+def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> Report:
     """
-    生成市值报告。
+    生成市值报告（结构化表格）。
     按照市值从大到小排序。
     """
     results = []
-    errors = []
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -209,10 +253,10 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             price = _number(ticker.fast_info.last_price)
             change = percent_change(price, ticker.fast_info.previous_close)
             market_cap = _number(ticker.info.get("nonDilutedMarketCap"))
-            
+
             if price is None or change is None or market_cap is None:
                 raise ValueError("market cap data incomplete")
-                
+
             results.append({
                 "name": name,
                 "price": price,
@@ -221,32 +265,39 @@ def market_cap_report(stocks: Mapping[str, str], ticker_factory: Callable[[str],
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            # errors.append(f"{name}: 获取数据失败")
 
     # 排序：根据市值（market_cap）降序排列
     results.sort(key=lambda x: x["market_cap"], reverse=True)
 
-    lines = ["📊 市值播报："]
+    columns = [
+        _col("name", "名称", "lark_md", 90),
+        _col("price", "现价", "text", 90),
+        _col("change", "涨跌幅", "lark_md", 110),
+        _col("market_cap", "市值(万亿)", "text", 110),
+    ]
+    rows = []
     for r in results:
-        icon = "💹" if r["change"] >= 0 else "🔻"
-        # 格式化输出：名称:价格 图标 涨幅% ↕️市值（万亿）
-        lines.append(f"{r['name']}:{r['price']:.0f} {icon}{r['change']:.0f}% ↕️{r['market_cap'] / 1e12:.2f}万亿")
-    lines.extend(errors)
-    return "\n".join(lines)
+        rows.append({
+            "name": f"**{r['name']}**",
+            "price": f"{r['price']:.0f}",
+            "change": f"{_icon(r['change'])}{_pct(r['change'])}",
+            "market_cap": f"{r['market_cap'] / 1e12:.2f}",
+        })
+    return Report("📊 市值播报", columns, rows)
 
-def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+
+def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> Report:
     """
-    生成财报时间报告。
+    生成财报时间报告（结构化表格）。
     按照财报时间从近到远排序，格式化为 UTC+8 可读时间，精确到分钟。
     """
     results = []
-    errors = []
     # 定义 UTC+8 时区 (东八区)
     tz_utc8 = timezone(timedelta(hours=8))
-    
+
     # 获取当前 Unix 时间戳
     now_ts = time.time()
-    
+
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -256,16 +307,16 @@ def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], A
 
             if ts is None:
                 raise ValueError("earnings timestamp not found")
-            
+
             # 过滤掉早于当前时间的时间点
             if ts < now_ts:
                 continue
-            
+
             # 将 Unix 时间戳转换为 UTC+8 格式的 datetime 对象
             dt = datetime.fromtimestamp(ts, tz=tz_utc8)
             # 格式化为可读字符串，精确到分钟
             formatted_time = dt.strftime("%Y-%m-%d %H:%M")
-            
+
             results.append({
                 "name": name,
                 "timestamp": ts,
@@ -273,25 +324,25 @@ def earnings_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], A
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            # errors.append(f"{name}: 获取财报时间失败")
 
     # 排序：按照时间戳从小到大排列（最近的财报时间在前面）
     results.sort(key=lambda x: x["timestamp"])
 
-    lines = ["📅 财报日历播报："]
-    for r in results:
-        lines.append(f"{r['name']}: {r['time']}")
-    lines.extend(errors)
-    return "\n".join(lines)
+    columns = [
+        _col("name", "名称", "lark_md", 120),
+        _col("time", "财报时间", "text", 160),
+    ]
+    rows = [{"name": f"**{r['name']}**", "time": r["time"]} for r in results]
+    return Report("📅 财报日历播报", columns, rows)
 
-def volume_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> str:
+
+def volume_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any] = _ticker) -> Report:
     """
-    生成成交额报告。
+    生成成交额报告（结构化表格）。
     成交额 = 当前价格 * 当日成交量。
     按照成交额从大到小排序。
     """
     results = []
-    errors = []
     for name, symbol in stocks.items():
         ticker = None
         try:
@@ -300,24 +351,24 @@ def volume_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             price = _number(fast_info.last_price)
             # 优先尝试从 fast_info 获取当日成交量
             volume = _number(getattr(fast_info, "day_volume", None))
-            
+
             # 兜底：尝试从 info 获取成交量
             if volume is None:
                 volume = _number(ticker.info.get("volume"))
-            
+
             avg_vol_10d = _number(ticker.info.get("averageDailyVolume10Day"))
             prev_close = _number(fast_info.previous_close)
-            
+
             if price is None or volume is None or avg_vol_10d is None or prev_close is None:
                 raise ValueError("volume or price data incomplete")
-            
+
             # 计算成交额
             amount = price * volume
             # 计算10日平均成交额
             avg_amount_10d = price * avg_vol_10d
             # 计算涨跌幅，用于选择图标
             change = percent_change(price, prev_close)
-            
+
             results.append({
                 "name": name,
                 "amount": amount,
@@ -326,54 +377,81 @@ def volume_report(stocks: Mapping[str, str], ticker_factory: Callable[[str], Any
             })
         except Exception as e:
             _log_failed_ticker(name, symbol, e, ticker)
-            errors.append(f"{name}: 获取成交额失败")
 
     # 排序：根据成交额（amount）降序排列
     results.sort(key=lambda x: x["amount"], reverse=True)
 
-    lines = ["📊 今日成交额排行："]
+    columns = [
+        _col("name", "名称", "lark_md", 100),
+        _col("amount", "成交额(亿)", "text", 110),
+        _col("avg_amount", "10日均额(亿)", "text", 120),
+        _col("change", "涨跌", "lark_md", 80),
+    ]
+    rows = []
     for r in results:
-        # 格式化输出：名称: 成交额（亿） (10日均:10日均成交额亿)图标
-        amount_yi = r["amount"] / 1e8
-        avg_amount_yi = r["avg_amount_10d"] / 1e8
-        icon = "💹" if r["change"] >= 0 else "🔻"
-        lines.append(f"{r['name']}: {amount_yi:.2f}亿{icon}均:{avg_amount_yi:.2f}亿")
-    
-    lines.extend(errors)
-    return "\n".join(lines)
+        rows.append({
+            "name": f"**{r['name']}**",
+            "amount": f"{r['amount'] / 1e8:.2f}",
+            "avg_amount": f"{r['avg_amount_10d'] / 1e8:.2f}",
+            "change": _icon(r["change"]),
+        })
+    return Report("📊 今日成交额排行", columns, rows)
 
-# AppleScript 脚本模板：用于在 MacOS 上控制微信发送消息
-_APPLESCRIPT = '''on run argv
-    set targetName to item 1 of argv
-    set messageText to item 2 of argv
-    tell application "WeChat" to activate
-    delay 1
-    tell application "System Events" to tell process "WeChat"
-        set frontmost to true
-        keystroke "f" using command down
-        delay 1
-        set the clipboard to targetName
-        keystroke "v" using command down
-        key code 36
-        delay 1
-        set the clipboard to messageText
-        key code 36
-        key code 36
-        delay 1
-        keystroke "v" using command down
-        key code 36
-    end tell
-end run'''
 
-def send_wechat_message(contacts: Sequence[str], content: str) -> None:
-    """
-    调用系统 osascript 命令执行 AppleScript，实现微信自动发消息。
-    """
-    for contact in contacts:
-        try:
-            subprocess.run(["osascript", "-e", _APPLESCRIPT, contact, content], check=True)
-        except subprocess.CalledProcessError as e:
-            logger.error(f"微信消息发送失败 [{contact}]: {e}")
+# ==================== 飞书消息推送 ====================
+
+def build_table_card(report: Report) -> dict:
+    """构建飞书 interactive 表格卡片（内容居中、列宽固定紧凑）。"""
+    table = {
+        "tag": "table",
+        "page_size": 50,
+        "row_height": "low",
+        "text_align": "center",
+        "header_style": {"text_align": "center", "background_style": "grey", "bold": True, "lines": 1},
+        "columns": report.columns,
+        "rows": report.rows,
+    }
+    card = {
+        "schema": "2.0",
+        "header": {"template": "blue", "title": {"tag": "plain_text", "content": report.title}},
+        "body": {"elements": [table, {"tag": "markdown", "content": "🔗 数据来源：yfinance 行情"}]},
+    }
+    return {"msg_type": "interactive", "card": card}
+
+
+def send_feishu_table_message(webhook: str, report: Report) -> bool:
+    """发送飞书表格卡片到指定 Webhook。返回 True 表示发送成功。"""
+    return _post_feishu(webhook, build_table_card(report))
+
+
+def send_feishu_text_message(webhook: str, title: str, content: str) -> bool:
+    """发送飞书文本卡片（非表格内容，如早安问候）到指定 Webhook。"""
+    card = {
+        "schema": "2.0",
+        "header": {"template": "blue", "title": {"tag": "plain_text", "content": title}},
+        "body": {"elements": [{"tag": "markdown", "content": content}]},
+    }
+    return _post_feishu(webhook, {"msg_type": "interactive", "card": card})
+
+
+def _post_feishu(webhook: str, payload: dict) -> bool:
+    """向飞书自定义机器人 Webhook 发送 JSON 消息。"""
+    try:
+        data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+        req = urllib.request.Request(
+            webhook,
+            data=data,
+            headers={"Content-Type": "application/json"},
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            body = resp.read().decode("utf-8")
+        ok = '"code":0' in body
+        logger.info(f"飞书消息发送{'成功' if ok else '失败'}: {body}")
+        return ok
+    except Exception as e:
+        logger.error(f"飞书消息发送失败: {e}")
+        return False
+
 
 def is_active_hour(now: datetime | None = None, start: int = 7, end: int = 23) -> bool:
     """
@@ -390,10 +468,10 @@ def run_scheduler(job: Callable[[], None], interval_minutes: int, *, run_now: bo
     if run_now:
         # 如果需要立即运行一次
         job()
-    
+
     # 注册定时任务
     schedule.every(interval_minutes).minutes.do(job)
-    
+
     # 循环检查并运行待处理的任务
     while True:
         schedule.run_pending()

@@ -9,13 +9,13 @@ from datetime import datetime
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from core.config import XIAOHONGSHU_CONTACTS
+from core.config import GREETING_WEBHOOK
 from core.greetings import (
     generate_ai_morning_greeting,
     tomorrow_morning,
     xiaohongshu_morning_greeting,
 )
-from core.reporting import send_wechat_message
+from core.reporting import send_feishu_text_message
 
 GREETING_HOUR = 9
 GREETING_MINUTE = 30
@@ -28,7 +28,7 @@ def job() -> None:
     except Exception as exc:
         print(f"AI 问候生成失败，已改用本地模板：{exc}")
         content = xiaohongshu_morning_greeting(datetime.now())
-    send_wechat_message(XIAOHONGSHU_CONTACTS, content)
+    send_feishu_text_message(GREETING_WEBHOOK, "☀️ 早安问候", content)
 
 
 def run_daily_greeting_job(task) -> None:

@@ -1,5 +1,5 @@
 """
-项目共享配置模块：存储股票列表、微信接收人以及调度时间设置。
+项目共享配置模块：存储股票列表、飞书机器人 Webhook 以及调度时间设置。
 """
 
 # 股票列表配置
@@ -39,15 +39,19 @@ STOCKS = {
     "BTC": "BTC",
 }
 
-# 微信接收人配置 (需要是微信中搜索得到的备注名或昵称)
-TARGET_CONTACTS = ("zhengquanfengyun", "shuanglang")
+# 飞书自定义机器人 Webhook（与 wealth-code 项目 COMMON_BOT 保持一致）
+# 如需推送到不同群/机器人，可分别修改下面各任务的 Webhook
+FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/8e123b17-76ff-42ef-a8ea-c520b5fb0d7c"
 
-FINANCIAL_REPORT_CONTACTS = ("caibaobaogao", "shuanglang")
+# 各定时任务的推送目标，默认统一推到 FEISHU_WEBHOOK
+DAILY_WEBHOOK = FEISHU_WEBHOOK
+YEARLY_WEBHOOK = FEISHU_WEBHOOK
+MARKET_CAP_WEBHOOK = FEISHU_WEBHOOK
+EARNINGS_WEBHOOK = FEISHU_WEBHOOK
+VOLUME_WEBHOOK = FEISHU_WEBHOOK
+GREETING_WEBHOOK = FEISHU_WEBHOOK
 
 # 活跃时间段设置 (24小时制)
 # 程序仅在此时间范围内发送报告，避免深夜打扰
 ACTIVE_START_HOUR = 7  # 开始时间：早上 7 点
 ACTIVE_END_HOUR = 23    # 结束时间：晚上 11 点
-
-# 小红书早安问候配置
-XIAOHONGSHU_CONTACTS = ("baixuegongzhufuwu", "shuanglang")

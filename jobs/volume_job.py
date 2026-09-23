@@ -9,8 +9,8 @@ from datetime import datetime
 # 将项目根目录添加到 Python 路径，确保可以导入 core 模块
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, TARGET_CONTACTS
-from core.reporting import volume_report, is_active_hour, run_scheduler, send_wechat_message
+from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, VOLUME_WEBHOOK
+from core.reporting import volume_report, is_active_hour, run_scheduler, send_feishu_table_message
 
 def job() -> None:
     """定义成交额播报任务逻辑"""
@@ -21,9 +21,9 @@ def job() -> None:
         return
     
     # 生成成交额报告
-    report_content = volume_report(STOCKS)
-    # 发送微信消息
-    send_wechat_message(TARGET_CONTACTS, report_content)
+    report = volume_report(STOCKS)
+    # 发送飞书表格消息
+    send_feishu_table_message(VOLUME_WEBHOOK, report)
 
 def main() -> None:
     """主入口：启动调度器，默认每 60 分钟运行一次"""

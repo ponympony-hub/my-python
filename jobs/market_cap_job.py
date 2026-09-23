@@ -9,8 +9,8 @@ from datetime import datetime
 # 将项目根目录添加到 Python 路径
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, TARGET_CONTACTS
-from core.reporting import market_cap_report, is_active_hour, run_scheduler, send_wechat_message
+from core.config import ACTIVE_END_HOUR, ACTIVE_START_HOUR, STOCKS, MARKET_CAP_WEBHOOK
+from core.reporting import market_cap_report, is_active_hour, run_scheduler, send_feishu_table_message
 
 def job() -> None:
     """定义单次执行的任务逻辑"""
@@ -19,8 +19,8 @@ def job() -> None:
         print(f"[{now}] 当前不在执行时间段，跳过市值报告。")
         return
     
-    report_content = market_cap_report(STOCKS)
-    send_wechat_message(TARGET_CONTACTS, report_content)
+    report = market_cap_report(STOCKS)
+    send_feishu_table_message(MARKET_CAP_WEBHOOK, report)
 
 def main() -> None:
     """启动调度器，每 120 分钟运行一次"""
